@@ -4,3 +4,5 @@
 * How about making a Bd vaccine for frog?
 
 `It is impractical to treat amphibians in the wild, and the zoospores can be widespread in the environment.  There is no vaccine.`
+
+* [Immune repsonse to chytrid](https://wildlife.org/immune-response-to-chytrid-may-kill-frogs/)
