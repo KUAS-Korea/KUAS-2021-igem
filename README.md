@@ -5,7 +5,8 @@
 * [Markdown Cheat Sheet - Korean](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ko.md)
 
 ## Project
-### Description
+### 
+[Description] (https://github.com/KUAS2021/KUAS-2021-igem/blob/main/Description.md)
 ### Design
 ### Experiments
 ### Results
