@@ -5,10 +5,9 @@
 * [Markdown Cheat Sheet - Korean](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ko.md)
 
 ## Project
-*[Description](https://github.com/KUAS2021/KUAS-2021-igem/blob/main/Description.md)
-
-*[Wet Lab](https://github.com/KUAS2021/KUAS-2021-igem/blob/main/WetLab.md)
-*[Dry Lab](https://github.com/KUAS2021/KUAS-2021-igem/blob/main/WetLab.md)
+* [Description](https://github.com/KUAS2021/KUAS-2021-igem/blob/main/Description.md)
+* [Wet Lab](https://github.com/KUAS2021/KUAS-2021-igem/blob/main/WetLab.md)
+* [Dry Lab](https://github.com/KUAS2021/KUAS-2021-igem/blob/main/DryLab.md)
 
 ### Experiments
 ### Results
