@@ -6,8 +6,10 @@
 
 ## Project
 *[Description](https://github.com/KUAS2021/KUAS-2021-igem/blob/main/Description.md)
-*[Wet Lab](https://github.com/KUAS2021/KUAS-2021-igem/blob/main/Wet Lab.md)
-[Dry Lab](https://github.com/KUAS2021/KUAS-2021-igem/blob/main/Wet Lab.md)
+
+*[Wet Lab](https://github.com/KUAS2021/KUAS-2021-igem/blob/main/WetLab.md)
+*[Dry Lab](https://github.com/KUAS2021/KUAS-2021-igem/blob/main/WetLab.md)
+
 ### Experiments
 ### Results
 
