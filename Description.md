@@ -16,11 +16,13 @@ While in search for mucus binding domains, we found that a lactobacillus strain(
 A well-known surface display protein OmpA was chosen as our means to display the mucus binding domains.
 From various candidates of proteins involved in mucus binding (1), we chose Mub2 for surface display. 
 The identification and initial characterization of these protein domains were done by Roos and Jonsson(2). lambda phage libraries were created from L.reuteri 1063’s DNA and the protein of interest was subsequently selected and identified. The protein contains a N terminal signal sequence, C teriminal LPTG anchoring motif, 6 Mub1 repeats(RI-RVI) and 8 Mub2 repeats(R1-R8). Both types of domains exhibited adhesive properties to pig gastric mucin.
- 
+ ![image](https://user-images.githubusercontent.com/87188354/130601413-f5ec9024-08cd-47aa-831c-993878bba80f.png)
+
 Another research by MacKenzie et. al (3). highlights the role of this domain in binding to mucus by revealing that L. reuteri strains with mucus adhesive properties possess and express Mub domains.
 Crystal structure of the Mub2 domain was revealed by MacKenzie et. al(4).
 The domain is composed of two structurally similar subdomains: the N-terminal domain(B1) with a ubiquitin like beta-grasp fold, and the C terminal domain(B2) with a non-canonical version without an alpha helix. 
- 
+ ![image](https://user-images.githubusercontent.com/87188354/130601467-e77a0662-94a0-4501-9673-78af2b026b9f.png)
+
 Since Mub1,2 domains were better characterized, we decided to fuse these domains to OmpA proteins (terminus? linker?)
 Just as the we fused R4-7 Mub2 domains to the OmpA part…
 
@@ -62,5 +64,3 @@ One of the concerns during the design process was that while the CERK1-ECD is a 
 
 8. Cao Y, Liang Y, Tanaka K, Nguyen CT, Jedrzejczak RP, Joachimiak A, Stacey G. The kinase LYK5 is a major chitin receptor in Arabidopsis and forms a chitin-induced complex with related kinase CERK1. Elife. 2014 Oct 23;3:e03766. doi: 10.7554/eLife.03766. PMID: 25340959; PMCID: PMC4356144.
 
-
-![image](https://user-images.githubusercontent.com/87188354/130601193-2081c60b-9d50-45ce-a179-b2448dc2c10d.png)
