@@ -75,9 +75,12 @@ Our team plans to study focuses on the frogs of amphibians. Frog skin is compose
 ![image](https://www.frontiersin.org/files/Articles/433806/fimmu-09-03128-HTML/image_m/fimmu-09-03128-g001.jpg)
 
 Stratum germinativum is the innermost layer of the epidermis, composed of mitotically proliferating keratinocytes, melanocytes (pigment-producing), Langerhans cells (involved in immunity) and Merkel cells (tactile receptors). It actively divides to provide new cells for skin loss due to normal exfoliation and provides Keratinocytes to the stratum spinosum, which migrate to the stratum corneum, the uppermost layer of the skin.
-Stratum spinosum comprised of distinctive keratinocytes (called prickle cells). Fibrillary proteins required for desmosome formation are synthesized and keratinization begins in this layer.
+<br/>Stratum spinosum comprised of distinctive keratinocytes (called prickle cells). Fibrillary proteins required for desmosome formation are synthesized and keratinization begins in this layer.
+
 Stratum granulosum consists of granular keratinocytes migrated from the stratum spinosum. These keratinocytes contain keratohyalin granules that aid in the binding of keratin filaments and also have lamellar bodies filled with lipids. These keratinocytes secrete them as they migrate from stratum spinosum to the upper layers of the epidermis. At the same time, when they reach the stratum corneum, they lose their nuclei and organelles and become corneocytes.
+
 Stratum corneum is the outermost layer of the epidermis composed of keratinocytes and is responsible for most of the protective barrier function of the skin. The stratum corneum has 10 to 30 corneocytes layers and has a thickness of 10 to 40 μm. When the keratinocyte becomes a corneocyte, it becomes filled with keratin proteins. Corneocytes are held together through corneodesmosomes. 
+
 The outermost mucosal layer consists of mucus, and Mucus contains several interdependent host factors including antimicrobial peptides (AMPs), lysozymes and mucosal antibodies as well as microbial-community factors, including symbiotic skin bacteria producing antifungal metabolites.
 
 #  Bd infection process and pathology
