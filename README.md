@@ -6,12 +6,14 @@
 
 ## Project
 * [Description](https://github.com/KUAS2021/KUAS-2021-igem/blob/main/Description.md)
+* [Design]()
+
+## Lab
 * [Wet Lab](https://github.com/KUAS2021/KUAS-2021-igem/blob/main/WetLab.md)
 * [Dry Lab](https://github.com/KUAS2021/KUAS-2021-igem/blob/main/DryLab.md)
-* [Human Practice](https://github.com/KUAS-Korea/KUAS-2021-igem/blob/main/HumanPractice.md)
 
-### Experiments
-### Results
+## Human practices
+* [Human Practice](https://github.com/KUAS-Korea/KUAS-2021-igem/blob/main/HumanPractice.md)
 
 ## Bd diagnotics discussion
 * [Bd diagnotics](https://github.com/KUAS2021/KUAS-2021-igem/blob/main/Bd.md) - you can freely add/revise this 'markdown' document.
