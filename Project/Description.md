@@ -67,7 +67,7 @@ One of the concerns during the design process was that while the CERK1-ECD is a 
 8. Cao Y, Liang Y, Tanaka K, Nguyen CT, Jedrzejczak RP, Joachimiak A, Stacey G. The kinase LYK5 is a major chitin receptor in Arabidopsis and forms a chitin-induced complex with related kinase CERK1. Elife. 2014 Oct 23;3:e03766. doi: 10.7554/eLife.03766. PMID: 25340959; PMCID: PMC4356144.
 
 
-# Frog skin composition and Bd infection process 
+# Frog skin composition 
 Chytridomycosis is an infectious disease of amphibians caused by the chytrid fungus (Batrachochytrium dendrobatidis). Batrachochytrium dendrobatidis is transmitted through the skin of amphibians and has a critical effect on survival, causing rapid population decline. Amphibian skin is unique because it is physiologically active, allowing the skin to tightly regulate respiration, water, and electrolytes. It is not yet known exactly how the fungus kills amphibians but it is thought that it may cause mortality through disrupting the normal function of the skin resulting in electrolyte depletion and osmotic imbalance.
 
 Our team plans to study focuses on the frogs of amphibians. Frog skin is composed of epidermal and dermal layers, with each layer predominantly consisting of epithelial and fibroblastic cells.The epidermal layer consists of stratum germinativum, stratum spinosum, stratum granulosum, and stratum corneum, and the mucosal layer exists at the outermost part of the epidermis.
@@ -79,6 +79,8 @@ stratum spinosum comprised of distinctive keratinocytes (called prickle cells). 
 Stratum granulosum consists of granular keratinocytes migrated from the stratum spinosum. These keratinocytes contain keratohyalin granules that aid in the binding of keratin filaments and also have lamellar bodies filled with lipids. These keratinocytes secrete them as they migrate from stratum spinosum to the upper layers of the epidermis. At the same time, when they reach the stratum corneum, they lose their nuclei and organelles and become corneocytes.
 Stratum corneum is the outermost layer of the epidermis composed of keratinocytes and is responsible for most of the protective barrier function of the skin. The stratum corneum has 10 to 30 corneocytes layers and has a thickness of 10 to 40 μm. When the keratinocyte becomes a corneocyte, it becomes filled with keratin proteins. Corneocytes are held together through corneodesmosomes. 
 The outermost mucosal layer consists of mucus, and Mucus contains several interdependent host factors including antimicrobial peptides (AMPs), lysozymes and mucosal antibodies as well as microbial-community factors, including symbiotic skin bacteria producing antifungal metabolites.
+
+#  Bd infection process and pathology
 
 Exposure to Bd occurs when the defense mechanisms of the epidermis (AMP, bacteria, etc.) are insufficient. Zoospore penetrates the mucus layer, and zoosporangia developing occurs in the deeper host cell skin layer.
 
