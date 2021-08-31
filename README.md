@@ -15,3 +15,7 @@
 
 ## Bd diagnotics discussion
 * [Bd diagnotics](https://github.com/KUAS2021/KUAS-2021-igem/blob/main/Bd.md) - you can freely add/revise this 'markdown' document.
+## Team
+* [Members]()
+* [Attributions]()
+
