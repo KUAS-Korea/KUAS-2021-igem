@@ -93,3 +93,21 @@ Bd can also have an epibiotic life cycle, growing on the surface of the host's s
 
 Infection is mainly associated with a mild to severe irregular thickening (hyperkeratosis) of the outermost keratinized layers of the epidermis (the stratum corneum and stratum granulosum), erosion of the stratum corneum, and increased tissue growth (hyperplasia) of the stratum spinosum which lies beneath the keratinized superficial skin layers.
 Also ulceration of the skin may occur. Other pathological changes in the epidermis adjacent to the foci of infection include mild focal necrosis, intercellular edema (spongiosis), cytoplasmic degeneration with minimal to mild inflammation and vacuolation of the deeper cell layers.
+
+
+# Why tryptophol?
+The first time we saw tryptopol was in salamander Plethodon cinereus experiments. 
+In the experiment, Batrachochytrium dendrobatidis, which is symbiotic with Janthinobacterium lividium, was extracted from the supernatant of HPLC(High-performance liquid chromatography) and separated through NMR(Nuclear Magnetic Resonance) and HR-MS(High Resolution-Mass Spectrometer). These substances are tryptophol and violacein. In other words, a substance that inhibits Batrachochytrium dendrobatidis is tryptophol.
+Our aim is to find and over-express substances that can inhibit Batrachochytrium dendrobatidis in frog skin, so tryptopol found in mucous skin which can inhibit Batrachochytrium dendrobatidis is sufficiently appropriate for our goal.
+
+
+# What is Tryptophol?
+Tryptophol is synthesized from the amino acids phenylalanine, tryptophan, and tyrosine, respectively, by chemical degradation through a three-step biochemical reaction comprising transamination, decarboxylation, and reduction called Ehrlich pathway.
+In Saccharomyces cerevisiae, tryptophol is Aro80p’s transcription activator. Tryptophol activates the transcription factor Aro80p and, consequently, the expression of the ARO9 and ARO10 transaminase and decarboxylase genes, which results in a positive feedback loop.
+The number of Batrachochytrium dendrobatidis cells grown for 5 days in TGhL medium(control) decreases when high concentration and density in CM(conditioned medium). (Figure 1A, 1B)
+Comparison with the supernatant solution of a particular size of the molecule filtering showed that no disruption to growth of Batrachochytrium dendrobatidis was measured at 500Da and 1000Da. In other words, the growth inhibitor of Batrachochytrium dendrobatidis is less than 500Da. (Figure 1C)
+This time, they treated the tryptophol concentrations differently from 10, 23, 50, 100, 250, and 500 uM, and significant degradation occurred from more than 100 uM. (Figure 2B)
+
+Furthermore, the relationship between Batrachochytrium dendrobatidis growth and the production of tryptophol was observed with different numbers of inoculated spores in the early stages, confirming that they were growing at a constant concentration regardless of the initial concentration. (Figure 3, 4)
+
+ In addition, additional tryptopol production based on the initial tryptopol treatment concentration was observed to be directly proportional called autostimulation, which means that the more existing it is, the newer it is. (Figure 5)
