@@ -111,3 +111,11 @@ This time, they treated the tryptophol concentrations differently from 10, 23, 5
 Furthermore, the relationship between Batrachochytrium dendrobatidis growth and the production of tryptophol was observed with different numbers of inoculated spores in the early stages, confirming that they were growing at a constant concentration regardless of the initial concentration. (Figure 3, 4)
 
  In addition, additional tryptopol production based on the initial tryptopol treatment concentration was observed to be directly proportional called autostimulation, which means that the more existing it is, the newer it is. (Figure 5)
+
+## Reference
+
+* Brucker, Robert M., et al. “Amphibian Chemical Defense: Antifungal Metabolites of the Microsymbiont Janthinobacterium Lividum on the Salamander Plethodon Cinereus.” Journal of Chemical Ecology, vol. 34, no. 11, 2008, pp. 1422–1429., doi:10.1007/s10886-008-9555-7. 
+
+* Verbrugghe, Elin, et al. “Growth Regulation in Amphibian Pathogenic CHYTRID Fungi by the Quorum Sensing Metabolite Tryptophol.” Frontiers in Microbiology, vol. 9, 2019, doi:10.3389/fmicb.2018.03277. 
+
+
