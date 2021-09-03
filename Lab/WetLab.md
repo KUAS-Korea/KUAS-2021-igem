@@ -8,7 +8,6 @@
 ### Designs for Experiments: 3-1/3-2/3-3 
 
 #### Experiment 3-3 Design
-![Violacein pathway](https://2019.igem.org/wiki/images/4/42/T--Guelph--VioPathwayDevin.png)
 ![AND gate for violacein synthesis](https://user-images.githubusercontent.com/14289498/131956796-8ce9716c-a63b-43da-aae1-c37b9866843e.png)
 * signal 1: light (`pDawn`) induces `vioAB` genes
 >various optogenetic promoters can be considered:
@@ -16,6 +15,8 @@
 
 * signal 2: any signal (IPTG/arabinose/aTc/fungi sensing/fungi QS molecules) induces `vioCDE` genes (or vice versa)
 * output: only if signal 1 & 2 are true, `violacein` will be synthesized
+
+<img src=https://2019.igem.org/wiki/images/4/42/T--Guelph--VioPathwayDevin.png width=500 height=300>
 
 | signal 1 | signal 2 | output |
 | ---- | ---- | ---- |
