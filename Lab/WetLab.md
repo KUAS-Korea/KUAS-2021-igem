@@ -7,14 +7,17 @@
 ---
 
 ## AND gate, Violacein production
+* AND gate example
+1. [based on TF factors](https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-11-S4-S16)
 
 ### Designs for Experiments: 3-1/3-2/3-3 
 
 #### Experiment 3-3 Design
 ![AND gate for violacein synthesis](https://user-images.githubusercontent.com/14289498/131956796-8ce9716c-a63b-43da-aae1-c37b9866843e.png)
-* signal 1: light (`pDawn`) induces `vioAB` genes
+* signal 1: light ([`pDawn`](https://www.sciencedirect.com/science/article/pii/S0022283612000113)) induces `vioAB` genes
 >various optogenetic promoters can be considered:
->example: [2017 Heidelberg team](http://2017.igem.org/Team:Heidelberg/Optogenetics) 
+1. [2017 Heidelberg team](http://2017.igem.org/Team:Heidelberg/Optogenetics) 
+2. [single component light-sensing](https://academic.oup.com/nar/article/48/6/e33/5716458)
 
 * signal 2: any signal (IPTG/arabinose/aTc/fungi sensing/fungi QS molecules) induces `vioCDE` genes (or vice versa)
 * output: only if signal 1 & 2 are true, `violacein` will be synthesized
@@ -29,7 +32,7 @@
 |0|0|0|
 
 * To do
-1. signal receiver part1 - `pDawn`+`vioAB`
+1. signal receiver part1 - [`pDawn`](https://www.sciencedirect.com/science/article/pii/S0022283612000113)+`vioAB`
 2. signal receiver part2 - `pLac`+ `vioCDE`
 3. insulator - `pCon`+`LacI`
 4. Design part 1,2,3 at Benchling
