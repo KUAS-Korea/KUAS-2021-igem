@@ -1,10 +1,13 @@
 # Wet Lab
-## Design tool
+## Design tools (drawing)
 * [SBOLCanvas](https://pubs.acs.org/doi/10.1021/acssynbio.1c00096)
+---
 
 ## Chitin detection
+---
 
 ## AND gate, Violacein production
+
 ### Designs for Experiments: 3-1/3-2/3-3 
 
 #### Experiment 3-3 Design
@@ -47,8 +50,10 @@
 * 필요한 최소농도는?
 * 빛(신호1)과 신호2의 세기에 따라 조절가능한 프로모터를 찾아볼것.
 * 프로모터조합으로 생합성되는 violacein의 양을 측정하고 최적의 농도를 만드는 프로모터조합확인
+* 참고 - [promoter tuning - 2011 iGEM 북경대](http://2011.igem.org/Team:Peking_R/Project/Application/VIO)
 
 #### Experiment 3-5 문헌조사 및 요약정리/제안
+
 #### Experiment 3-6 design
 * MazE (toxin), MazF (anti-toxin)을 이용
 * AND gate (3-3) output (MazE) overexpression (일종의 inverter로 출력신호가 참인경우 궁긍적으로 kill)
@@ -60,5 +65,7 @@
 |0|1|1|
 |0|0|1|
 
+---
 ## Adhesion
+---
 
