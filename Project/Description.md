@@ -118,4 +118,14 @@ Furthermore, the relationship between Batrachochytrium dendrobatidis growth and 
 
 * Verbrugghe, Elin, et al. “Growth Regulation in Amphibian Pathogenic CHYTRID Fungi by the Quorum Sensing Metabolite Tryptophol.” Frontiers in Microbiology, vol. 9, 2019, doi:10.3389/fmicb.2018.03277. 
 
+# What is AND gate?
+The AND gate gives a high output only if both the inputs are high and represented as A·B or AB. Therefore, using AND gate, input A and B are set to blue light sensor and cell density. And if both inputs exceed the threshold, the parts are activated.
+사진3개 첨부
+Our team used BBa_K568004.( http://parts.igem.org/Part:BBa_K568004이거 위키에 링크 첨부하면 좋을듯)
 
+# AND we choose BLUE light sensor.
+We chose the promoter that is regulated by the YcgF/E system as blue light sensor. The domains YcgE and YcgF are endogenously present in Escherichia coli. The domains are thought to regulate the biofilm formation when E.coli is exposed in an aquatic environment. Blue light induces the dimerization of YcgF that then directly bind to the repressor YcgE and releases the repressor from the operator. The expression of YcgE and YcgF and therefore as well the expression of the controlled gene is increased at low temperatures. (위키에 이 부분 각주 달아서 따온거 밝히기)
+
+## Reference
+http://parts.igem.org/Part:BBa_K568004
+http://2011.igem.org/Team:TU_Munich/project/introduction
