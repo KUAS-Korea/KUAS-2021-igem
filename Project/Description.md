@@ -129,6 +129,30 @@ We want to produce violacein when frogs are exposed to chytridium in several con
 # AND we choose BLUE light sensor.
 We chose the promoter that is regulated by the YcgF/E system as blue light sensor. The domains YcgE and YcgF are endogenously present in Escherichia coli. The domains are thought to regulate the biofilm formation when E.coli is exposed in an aquatic environment. Blue light induces the dimerization of YcgF that then directly bind to the repressor YcgE and releases the repressor from the operator. The expression of YcgE and YcgF and therefore as well the expression of the controlled gene is increased at low temperatures. (위키에 이 부분 각주 달아서 따온거 밝히기)
 
+# Surface display (surface expression)
+
+For the treatment of frog skin disease, we devised cells that produce violacein. To increase the efficiency of this method, our designed cells should be fixed on the surface of the frog skin to increase the concentration of cells near the skin. To implement this idea, we used a surface expression system.
+
+Microbial cell-surface display is a method carried out by expressing a heterologous peptide or protein (the passenger protein) as a fusion protein with various anchoring motifs, which are usually cell-surface proteins or their fragments (carrier proteins). The surface expression method is used in various applications such as library screening, live vaccines, whole-cell biocatalysis, bioremediation, biosensor, and biofuel.
+
+Many surface display systems have been developed for E.coli. Each method is based on a variety of anchoring motifs, and accordingly, the passenger protein must be fused in various ways. Among them, we investigated the method using autotransporter and the method using Lpp-OmpA hybrid.
+
+Autotransporters are proteins located in the outer membrane without further cutting and are displayed through the Type Va Secretion method. It consists of three main parts – signal sequence located in N-terminal, the passive domain, and translocator domain in C-terminal.
+The N-terminal signal domain directs the synthesized polypeptide itself to periplasm through Sec apparatus.
+The C- terminal translocator domain consists of α-helical secondary structure and β-domain (250-300 amino acid residues, 14 antiparallel amphipathic β-strands) that make a hydrophilic pore in the outer membrane. Through this pore, the internal passenger domain connected with α-helix is displayed on the outer membrane.
+Various types of protein domains such as adhesin, protease, esterase, and lipase are located in the passenger domain.
+In summary, autotransporters move to outer membrane using signal domain after expression, the translocator domain creates a pore in the outer membrane, and the passenger domain passes through the pore to outer membrane and displayed. Therefore, If the passenger domain is converted into the gene of another protein domain in interest to be displayed, the changed protein domain will be displayed on the cell surface.
+Since the Passenger domain is between the N-terminal signal domain and the C-terminal translocator domain, the use of autotransporter requires a sandwich fusion strategy that changes genes in between.
+
+Unlike autotransporter, Lpp-OmpA hybrid uses a C-terminal fusion method. Lpp-OmpA hybrid consists of signal sequence, first nine N-terminal residues of the mature E. coli lipoprotein, and the residues 46–159 or 46–66 of the E. coli outer membrane protein A (OmpA).
+Lpp part is necessary for proper localization to the outer membrane, and the OmpA part is responsible for the transportation of foreign proteins fused at the C-terminus across the outer membrane. 
+
+As shown in the figure above, passenger domain can be fused into OmpA's C-terminal and transported across the outer membrane. Therefore, the C-terminal fusion strategy should be used in the Lpp-OmpA hybrid.
+
+In 2008 iGEM, the Warsaw team synthesized the BBa_K103006 biobrick part, which consists of Lpp: Lipoprotein signal peptide, OmpA: Outer membrane protein A, linker (Gly-Ser-Gly), which enables us to attach the display domain behind the linker. Using this part, our designed protein can be easily synthesize just by attaching the protein domain we wanted to C-terminal. Therefore, we decided to use Lpp-OmpA hybrid system for our design.
+
+추가할 내용 : OmpA + mucin 결합 단백질 내용, 실제 실험 내용 (warsaw 팀 파츠 사용, 실험방법까지), surface display 확인 실험 내용
+
 ## Reference
 http://parts.igem.org/Part:BBa_K568004
 http://2011.igem.org/Team:TU_Munich/project/introduction
