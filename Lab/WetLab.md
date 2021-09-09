@@ -9,6 +9,10 @@
 ## AND gate, Violacein production
 * AND gate example
 1. [based on TF factors](https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-11-S4-S16)
+2. [Light/Arabinose](https://pubs.acs.org/doi/10.1021/acssynbio.8b00280)
+3. Sungwook's original design
+![sungwooks design](https://github.com/KUAS-Korea/KUAS-2021-igem/blob/main/AND%20gate(Light%20and%20Cell%20density).png)
+---
 
 ### Designs for Experiments: 3-1/3-2/3-3 
 
