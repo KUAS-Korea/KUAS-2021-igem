@@ -126,8 +126,13 @@ Our team used BBa_K568004.( http://parts.igem.org/Part:BBa_K568004이거 위키�
 # Why we choose AND gate?
 We want to produce violacein when frogs are exposed to chytridium in several conditions. Therefore, AND gate BBa_K568004 was used to produce violacein when frogs were exposed to these two conditions-normal activity->blue light, exposure to chytridium->chitin detection-corresponding.The first input uses the substance produced when detecting chytridium and then the supD tRNA produced from the previous input is available when exposed to blue light, so we can produce violacein only under the conditions we want.
 
-# AND we choose BLUE light sensor.
-We chose the promoter that is regulated by the YcgF/E system as blue light sensor. The domains YcgE and YcgF are endogenously present in Escherichia coli. The domains are thought to regulate the biofilm formation when E.coli is exposed in an aquatic environment. Blue light induces the dimerization of YcgF that then directly bind to the repressor YcgE and releases the repressor from the operator. The expression of YcgE and YcgF and therefore as well the expression of the controlled gene is increased at low temperatures. (위키에 이 부분 각주 달아서 따온거 밝히기)
+# BLUE light sensor.
+We chose the promoter that is regulated by the YcgF/E system as blue light sensor. The domains YcgE and YcgF are endogenously present in Escherichia coli. The domains are thought to regulate the biofilm formation when E.coli is exposed in an aquatic environment. Blue light induces the dimerization of YcgF that then directly bind to the repressor YcgE and releases the repressor from the operator. The expression of YcgE and YcgF and therefore as well the expression of the controlled gene is increased at low temperatures. (위키에 이 부분 각주 달아서 따온거 밝히기)->이거 문장 다듬어야합니다 따온부분임,
+
+## Reference
+http://parts.igem.org/Part:BBa_K568004
+http://2011.igem.org/Team:TU_Munich/project/introduction
+
 
 # Surface display (surface expression)
 
@@ -153,6 +158,4 @@ In 2008 iGEM, the Warsaw team synthesized the BBa_K103006 biobrick part, which c
 
 추가할 내용 : OmpA + mucin 결합 단백질 내용, 실제 실험 내용 (warsaw 팀 파츠 사용, 실험방법까지), surface display 확인 실험 내용
 
-## Reference
-http://parts.igem.org/Part:BBa_K568004
-http://2011.igem.org/Team:TU_Munich/project/introduction
+
