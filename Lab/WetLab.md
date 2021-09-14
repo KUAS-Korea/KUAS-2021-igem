@@ -76,3 +76,7 @@
 ## Adhesion
 ---
 
+
+## Cell counting protocols
+[Cell counting.pdf](https://github.com/KUAS-Korea/KUAS-2021-igem/files/7158512/Cell.counting.pdf)
+
