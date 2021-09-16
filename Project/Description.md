@@ -101,7 +101,7 @@ In the experiment, Batrachochytrium dendrobatidis, which is symbiotic with Janth
 Our aim is to find and over-express substances that can inhibit Batrachochytrium dendrobatidis in frog skin, so tryptopol found in mucous skin which can inhibit Batrachochytrium dendrobatidis is sufficiently appropriate for our goal.
 
 
-# What is Tryptophol?
+# What is Tryptophol and Violacein?
 Tryptophol is synthesized from the amino acids phenylalanine, tryptophan, and tyrosine, respectively, by chemical degradation through a three-step biochemical reaction comprising transamination, decarboxylation, and reduction called Ehrlich pathway.
 In Saccharomyces cerevisiae, tryptophol is Aro80p’s transcription activator. Tryptophol activates the transcription factor Aro80p and, consequently, the expression of the ARO9 and ARO10 transaminase and decarboxylase genes, which results in a positive feedback loop.
 The number of Batrachochytrium dendrobatidis cells grown for 5 days in TGhL medium(control) decreases when high concentration and density in CM(conditioned medium). (Figure 1A, 1B)
@@ -111,12 +111,28 @@ This time, they treated the tryptophol concentrations differently from 10, 23, 5
 Furthermore, the relationship between Batrachochytrium dendrobatidis growth and the production of tryptophol was observed with different numbers of inoculated spores in the early stages, confirming that they were growing at a constant concentration regardless of the initial concentration. (Figure 3, 4)
 
  In addition, additional tryptopol production based on the initial tryptopol treatment concentration was observed to be directly proportional called autostimulation, which means that the more existing it is, the newer it is. (Figure 5)
+ 
+ 
+ The bisindole alkaloid violacein is a natural bluepurple pigment isolated from Gram-negative bacteria. The violacein is an indole derived violet pigmented compound and a promising agent with following biological activities: antibacterial antifungal, antiprotozoan, and anticancer. These biological and pharmacological activities of violacein have made it attractive for biotechnology research. Several terrestrial and marine gram-negative bacteria were known to produce violacein including Chromobacterium violaceum, Janthionobacterium lividum and 7 other genus. Violacein is formed by enzymatic condensation of two tryptophan molecules, requiring the action of five proteins. The genes required for its production, vioABCDE, and the regulatory mechanisms employed have been studied within a small number of violacein-producing strains. In Massilia genus, three strains have been reported as producing violacein and recently, the complete genome of Massilia sp. strain NR 4-1 as well as five key enzymes of the violacein biosynthesis has reported.
+ Recent study sought to engineer E. coli and its metabolic pathways to improve the violacein yields. For this, the authors overexpressed the genes related to tryptophan production and knocked out several genes and pathways which would detract the carbon flux away from this amino acid. The engineered E. coli strain, TRP11, produces about 20 𝜇mol tryptophan per gram DCW (gDCW). By comparison, the control wild-type strain only produced about 0.3 𝜇mol tryptophan/gDCW, representing an increase in the tryptophan concentration of more the 60-fold. They next introduced the vioD gene into the chromosome of this strain and a plasmid expressing the vioABCE genes. Performing fed batch fermentations over a 12-day period with this strain, which they designated as Vio-4, they were able to generate 710 mg/L violacein at more than 99% purity, demonstrating that E. coli can be used to produce high level concentrations of this bisindole specifically.
+![image](https://user-images.githubusercontent.com/87194158/133552579-d5440e7c-ebee-4212-8809-26bd24a08f1c.png)
+
 
 ## Reference
 
 * Brucker, Robert M., et al. “Amphibian Chemical Defense: Antifungal Metabolites of the Microsymbiont Janthinobacterium Lividum on the Salamander Plethodon Cinereus.” Journal of Chemical Ecology, vol. 34, no. 11, 2008, pp. 1422–1429., doi:10.1007/s10886-008-9555-7. 
 
 * Verbrugghe, Elin, et al. “Growth Regulation in Amphibian Pathogenic CHYTRID Fungi by the Quorum Sensing Metabolite Tryptophol.” Frontiers in Microbiology, vol. 9, 2019, doi:10.3389/fmicb.2018.03277. 
+
+* Myeong, Nu Ri, et al. (2016). "Complete genome sequence of antibiotic and anticancer agent violacein producing Massilia sp. Strain NR 4-1". Journal of Biotechnology. 223: 36–7. doi:10.1016/j.jbiotec.2016.02.027
+
+* Choi, S.Y., et al. (2015). Violacein: properties andproduction of a versatile bacterial pigment. BioMed Res. Int. 2015, 465056.
+
+* Haisheng Wang, et al. (2012). Biosynthesis and characterization of violacein, deoxyviolacein and oxyviolacein in heterologous host, and their antimicrobial activities
+
+* Seong Yeol Choi, et al. (2015).  Violacein: Properties and Production of a Versatile Bacterial Pigment, Hindawi
+![image](https://user-images.githubusercontent.com/87194158/133552632-b282f520-c051-4e97-9740-672c3bf59f02.png)
+
 
 # What is AND gate?
 The AND gate gives a high output only if both the inputs are high and represented as A·B or AB. Therefore, using AND gate, input A and B are set to blue light sensor and cell density. And if both inputs exceed the threshold, the parts are activated.
