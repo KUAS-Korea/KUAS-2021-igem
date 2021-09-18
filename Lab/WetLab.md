@@ -3,25 +3,33 @@
 * [SBOLCanvas](https://pubs.acs.org/doi/10.1021/acssynbio.1c00096)
 ---
 
-## Chitin detection
----
-
 ## AND gate, Violacein production
+<!---
 * AND gate example
 1. [based on TF factors](https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-11-S4-S16)
 2. [Light/Arabinose](https://pubs.acs.org/doi/10.1021/acssynbio.8b00280)
 3. Sungwook's original design
 <img alt="sw's design" src="../AND%20gate(Light%20and%20Cell%20density).png" width=400 height=200>
 ---
+--->
 
 ### Designs for Experiments: 3-1/3-2/3-3 
 
 #### Experiment 3-3 Design
 ![AND gate for violacein synthesis](https://user-images.githubusercontent.com/14289498/131956796-8ce9716c-a63b-43da-aae1-c37b9866843e.png)
+<!---
 * signal 1: light ([`pDawn`](https://www.sciencedirect.com/science/article/pii/S0022283612000113)) induces `vioAB` genes
+--->
+<img src="./pDawn.png">
+
+* singal 1 & 2: light ([`pDawn`](https://www.sciencedirect.com/science/article/pii/S0022283612000113)) induces `vioA` genes from ([`addgene` vector](https://www.addgene.org/73440/)) in which vioABECD genes were under `PlacT7` promoters. As a result, if a `vioABE` block is directly cloned into `pDawn` vector, the final construction will be `AND-gate` (light induces `vioA` and IPTG induces `vioBE`; both signal 1 & 2 are required to synthesize violacein.
+
+---
+<!--- 
 >various optogenetic promoters can be considered:
 1. [2017 Heidelberg team](http://2017.igem.org/Team:Heidelberg/Optogenetics) 
 2. [single component light-sensing](https://academic.oup.com/nar/article/48/6/e33/5716458)
+--->
 
 * signal 2: any signal (IPTG/arabinose/aTc/fungi sensing/fungi QS molecules) induces `vioCDE` genes (or vice versa)
 * output: only if signal 1 & 2 are true, `violacein` will be synthesized
@@ -50,6 +58,11 @@
 1. Sensor construction at Benchling - `trpL` + `vioABCDE`/`vioCDE`
 2. Order synthetic DNA
 3. Build/Test vector
+---
+
+##### Chitin detection
+---
+
 
 #### Experiment 3-4
 * violacein 농도측정 - [iGEM part registry](http://parts.igem.org/Part:BBa_K274002:Experience)
