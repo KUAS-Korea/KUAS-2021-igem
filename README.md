@@ -7,6 +7,7 @@
 ## Project
 * [Description](https://github.com/KUAS2021/KUAS-2021-igem/blob/main/Project/Description.md)
 * [Design]()
+* [Proposed Implementation](https://github.com/KUAS-Korea/KUAS-2021-igem/blob/main/Project/ProposedImplementation.md)
 
 ## Lab
 * [Wet Lab](https://github.com/KUAS2021/KUAS-2021-igem/blob/main/Lab/WetLab.md)
