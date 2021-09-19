@@ -80,6 +80,16 @@ Stratum germinativum is the innermost layer of the epidermis, composed of mitoti
 <br/>Stratum corneum is the outermost layer of the epidermis composed of keratinocytes and is responsible for most of the protective barrier function of the skin. The stratum corneum has 10 to 30 corneocytes layers and has a thickness of 10 to 40 μm. When the keratinocyte becomes a corneocyte, it becomes filled with keratin proteins. Corneocytes are held together through corneodesmosomes. 
 <br/>The outermost mucosal layer consists of mucus, and Mucus contains several interdependent host factors including antimicrobial peptides (AMPs), lysozymes and mucosal antibodies as well as microbial-community factors, including symbiotic skin bacteria producing antifungal metabolites.
 
+# The phylogenesis of mucin in different species
+
+![image](figure 2)
+
+The tree above includes Muc19 and confirms a previous report that Muc19 is related to the fish spiggin protein (Kawahara and Nishida 2007). It is also obvious from the analysis that Muc19 is present in fishes, amphibians, and mammals, but seems to have been lost in birds. The turtle Ch. picta and the lizard An. carolinensis show evidence of a Muc19 gene. However, in the chicken and zebrafinch the Muc19 gene is missing, providing further evidence of the lack of Muc19 in birds. As a rule Muc19 proteins contain a PTS domain, but apparently there are exceptions, like in X. tropicalis. Some of the spiggins are also different from mammalian Muc19 in that they have a PTS domain together with a fourth VWD domain
+
+![image](figure 4)
+
+Analysis of publically available RNA-Seq data (Necsulea et al. 2014 and other studies) indicates that the 26 different X. tropicalis mucin genes are expressed in one or more tissues (fig. 4A), suggesting that they are not pseudogenes or the result of misprediction. A number of RNA-Seq samples allowed us to specifically monitor the expression of mucins during embryonic development (Tan et al. 2013). The transcription of a number of mucins is initiated at a specific developmental stage (fig. 4B). For instance, Muc2D appears at stage 11, Muc5J at stage 15, whereas Muc2H, Muc5B, and Muc5H appear relatively late during development. Finally, the Muc2A gene is expressed throughout development, beginning already in the 2-cell stage.
+
 #  Bd infection process and pathology
 
 Exposure to Bd occurs when the defense mechanisms of the epidermis (AMP, bacteria, etc.) are insufficient. Zoospore penetrates the mucus layer, and zoosporangia developing occurs in the deeper host cell skin layer.
