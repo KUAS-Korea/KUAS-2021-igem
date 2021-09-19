@@ -6,7 +6,7 @@
 
 ## Project
 * [Description](https://github.com/KUAS2021/KUAS-2021-igem/blob/main/Project/Description.md)
-* [Design]()
+* [Design](https://github.com/KUAS2021/KUAS-2021-igem/blob/main/Project/Design.md)
 * [Proposed Implementation](https://github.com/KUAS-Korea/KUAS-2021-igem/blob/main/Project/ProposedImplementation.md)
 
 ## Lab
