@@ -9,9 +9,9 @@
 ---
 
 ## Role
-* team leader
-* genetic circuit designer
-* fund raiser
+* 2021 team leader
+* genetic circuit designer (2020, 2021)
+* fund raiser (2021)
 * `....`
 ---
 
