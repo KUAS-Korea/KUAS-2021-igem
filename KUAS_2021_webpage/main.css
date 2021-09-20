@@ -1,0 +1,138 @@
+html, body {
+    width: 100%; 
+    margin: 0 auto;
+}
+
+#header {
+    width: 100%; 
+    height: 100px; 
+    background: #A1FF59; 
+    vertical-align: middle; 
+    margin: 0 auto; 
+    padding: 0;
+}
+
+#header h1 {
+    float: left;
+    font-size: 30px; 
+    color: black; 
+    text-align: left;
+    padding: 0 auto;
+    margin: 0px 0px 0px 20%;
+    position: absolute;
+    top: 30px;
+}
+
+#header img{
+    float: right;
+    width: 40px;
+    height: 40px;
+    margin: 0px 10px 0px 10px;
+    padding: 0;
+    position: absolute;
+    top: 30px;
+}
+
+#nav {
+    width: 100%; 
+    height: 100px; 
+    background: #80E038; 
+    list-style: none;
+    text-align: center;
+    padding: 0 20% 0% 20%;
+    margin: 0 auto;
+    
+}
+
+#nav li {
+    list-style: none;
+    float: left;
+    width: 12%;
+    padding: 30px 0px 30px 0px;
+    margin: 0;
+}
+
+#nav a{
+    text-decoration-color: black;
+    text-decoration-line: none;
+    font-size: 20px;
+    margin: 0;
+}
+
+#nav ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    left: 0;
+    text-align: center;
+    opacity: 0;
+}
+
+#nav ul li{
+    float: none;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background: yellow;
+}
+
+#nav li:hover a{
+    color: black;
+}
+
+#nav li:hover ul{
+    opacity: 1;
+}
+
+#nav wrapnav li:hover ul li{
+    overflow: visible;
+    padding: 0;
+}
+
+#nav ul li:hover a{
+    font-weight:bold;
+}
+
+#banner {
+    width: 100%;
+    height: 200px;
+    background: #CCF731;
+    margin: 0;
+    padding: 0;
+}
+
+#banner h1 {
+    font-size: 30px;
+    
+}
+
+#section {
+    width: 100%; 
+    background: #80E038; 
+    margin: 0 auto; 
+    padding: 10px 0px 10px 0px;
+}
+
+#article {
+    width: 60%; 
+    border: medium dotted #8B0794; 
+    border-radius: 12px; 
+    background: white; 
+    margin: 10px auto; 
+    padding: 0px 20px 0px 20px;
+}
+
+#article p {
+    width: 100%; 
+    color: black; 
+    padding: 0 auto;
+}
+
+#footer {
+    width: 100%; 
+    height: 300px; 
+    background: #4D9416;
+}
+
+/*#8B0794 #D538E0*/
