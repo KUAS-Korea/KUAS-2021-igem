@@ -1,5 +1,8 @@
 1. Participation in Optogenic Conference by NYCU_Taipei.
 
+<img width="1440" alt="Optogenic conference 2021-09-19 " src="https://user-images.githubusercontent.com/87188354/134100568-8c23b3ff-92c9-4535-8486-e69cb1a30e22.png">
+[QnA Document.pdf](https://github.com/KUAS-Korea/KUAS-2021-igem/files/7199657/QnA.Document.pdf)
+
 
 3. Collaborations with Yonsei-University iGEM Team
 
