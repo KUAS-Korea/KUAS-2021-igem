@@ -4,7 +4,8 @@
 * Python module - [SynBioPython](https://github.com/Global-Biofoundries-Alliance/SynBioPython)
 > Jupyternotebook - [AND gate modelling example](https://github.com/Global-Biofoundries-Alliance/SynBioPython/blob/master/examples/genbabel.ipynb)
 
-Protein expression: J23100, B0034 
+
+## Constitutive Protein expression: J23100, B0034 
 %Parameters
     p.CN = 17;        % plasmid number  pACYC184 (17 copies/cell)  
     p.d1 = 0.247;  % mRNA degradation rate  [1/min]
