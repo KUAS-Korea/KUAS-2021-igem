@@ -60,10 +60,6 @@
 3. Build/Test vector
 ---
 
-##### Chitin detection
----
-
-
 #### Experiment 3-4
 * violacein 농도측정 - [iGEM part registry](http://parts.igem.org/Part:BBa_K274002:Experience)
 ![TLC](http://parts.igem.org/wiki/images/7/71/Tlc_%28tinal%29.jpg)
@@ -74,20 +70,11 @@
 
 #### Experiment 3-5 문헌조사 및 요약정리/제안
 
-#### Experiment 3-6 design
+#### Kill switch design
 * MazE (toxin), MazF (anti-toxin)을 이용
 * AND gate (3-3) output (MazE) overexpression (일종의 inverter로 출력신호가 참인경우 궁긍적으로 kill)
 
-| signal 1 | signal 2 | output (kill) |
-| ---- | ---- | ---- |
-|1|1|0|
-|1|0|1|
-|0|1|1|
-|0|0|1|
-
----
-## Adhesion
----
+Final design: https://benchling.com/s/seq-6qhcqiyf7aGrzehEtqXO
 
 
 ## Cell counting protocols
