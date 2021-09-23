@@ -20,7 +20,7 @@ dxdt(2,1)=p.k2*x(1)-p.d2*x(2)
 
 ![image](https://user-images.githubusercontent.com/87188354/134359194-2146e708-b212-48ba-97ef-8a4148aa181f.png)
 
-## cI vs HSL
+## cI at different HSL/LuxR concentrations
     p.IC50 = 4.45;      % IC50 of plux on agar plates 2013 Zurich [nM]
     p.Kd =  p.IC50;     %p.koff/p.kon Disosiation constant [molecules], IC50^2
     alpha = p.k2 * p.k1 * p.CN / p.d1; % Maximal Expression rate [molecules/min]
