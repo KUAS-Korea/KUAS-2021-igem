@@ -11,7 +11,7 @@
     p.d1 = 0.247;  % mRNA degradation rate  [1/min]
     p.d2 = 0.008492;      % protein degradation rate [1/min]
     p.k2 = 0.082;      %  translation rate  [1/min] 
-    p.k1 = 1.1081616;      %  transcription rate [1/min]
+    p.k1 = 1108.1616;      %  transcription rate [1/min]
     
 %x1 = mRNA
 dxdt(1,1) =p.CN*p.k1-p.d1*x(1);
@@ -28,4 +28,4 @@ dxdt(2,1)=p.k2*x(1)-p.d2*x(2)
 Rest of the parameters are same as above
 Protein  = alpha ./p.d2 .* (TF.^2 ./ (p.Kd +TF.^2))
 
-![image](https://user-images.githubusercontent.com/87188354/134519981-df45444b-5e1c-434a-84e9-02de408182fa.png)
+![image](https://user-images.githubusercontent.com/87188354/134527931-3da1d566-b31f-44af-9259-cf3d084975a1.png)
