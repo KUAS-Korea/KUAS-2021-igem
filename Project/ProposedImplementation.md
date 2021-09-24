@@ -3,10 +3,11 @@
 2. ### 그림도 출처와 인용을 통해 참고문헌으로 정리하세요.
 3. ### 내용은 'copy & paste'또는 'cut & paste' 금지 - 일부 문장은 그대로 옮겨온것으로 확인됩니다. 여러분이 내용을 이해하고 이해한 바를 자신의 언어로 풀어서 작성하세요.
 4. ### [그림과 표작성](https://www.enago.co.kr/academy/tips-for-writing-legends-of-tables-and-figures/) - !!! 다양한 스타일의 한가지 예 !!!
-> 그림을 사용할 때는 반드시 그에 대한 `서술적인 설명과 함께 제시`하여야 하며, 본문에서 인용한 순서에 따라 그림 번호를 붙여줍니다. 그림 제목은 구(phrase)로 만들면 좋습니다.
+> 그림을 사용할 때는 반드시 그에 대한 `서술적인 설명과 함께 제시`(with figure legend)하여야 하며, 본문에서 인용한 순서에 따라 그림 번호를 붙여줍니다. 그림 제목은 구(phrase)로 만들면 좋습니다.
 > 이미 출판된 사진을 인용할 경우 원저자의 서면 동의를 얻어야 하며 동의를 얻었다는 구문을 사진 밑에 표기한다 - 동의를 받기 어렵다면 해당그림을 직접 그리고 표시 - e.g. the image was redrawn and modified from Fig. 1 in `참고문헌`
-5. ...
-6. ...
+5. ### 학명은 이탤릭체
+6. ### 핵심만 명료하게 서술할것
+7. ### ....
 
 
 Our engineered microbes will be applied to the skin of the amphibians
