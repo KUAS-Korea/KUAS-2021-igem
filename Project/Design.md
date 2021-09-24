@@ -1,7 +1,7 @@
 
 # 1. Light dependent Violacein production: 
-## 1.1 Vio operon
-# Why tryptophol?
+## 1.1 Vio Genes
+## Tryptophol (to contributions?)
 Tryptophol was used by UFlorida in 2017 as the anti fungal agent against Bd. They referenced a research on identification of chemicals proudced in supernatants of cocultures of microbes sampled from the skin of a salamander species(Plethodon cinereus)(Loudon Andrew H. et. al, 'Interactions between amphibians' symbiotic bacteria cause the production of emergent anti-fungal metabolites', Frontiers in Microbiology vol.5, 2014, URL=https://www.frontiersin.org/article/10.3389/fmicb.2014.00441)     
 The extracted chemicals were tested for Bd inhibition and the most potent chemical was identified by LC-MS(High Resolution-Mass Spectrometer). The results indicate this chemical is tryptophol. 
 Other references also indicate the Bd inhibitory activity of tryptophol. A research co-cultured J.lividium(Bd inhibitory microbe found in some amphibians) with Bd and then separated and identified active compounds. The MIC for the two compounds Tryptophol, Violacein were determined to be 68.9uM, 1.8uM respectively(Brucker RM, et. al, Amphibian chemical defense: antifungal metabolites of the microsymbiont Janthinobacterium lividum on the salamander Plethodon cinereus. J Chem Ecol. 2008 Nov;34(11):1422-9. doi: 10.1007/s10886-008-9555-7. Epub 2008 Oct 24. PMID: 18949519).
@@ -40,17 +40,21 @@ AND gate(light& cell density)
 ![alt text](https://github.com/KUAS-Korea/KUAS-2021-igem/blob/main/AND%20gate(Light%20and%20Cell%20density).png)
 
 We have discovered various light sensing systems from the distribution kits and the registy. The motive for including the light sensors in our system can be seen at the [description page](). Some of the designs we considered are as below.
-## 1.1 The AND Gate
+
+## 1.2 The AND Gate
 ### What is an AND gate?
 The AND gate gives a high output only if both the inputs are high and represented as A·B or AB. Therefore, using AND gate, input A and B are set to blue light sensor and cell density. And if both inputs exceed the threshold, the parts are activated.
 사진3개 첨부
 Our team used BBa_K568004.( http://parts.igem.org/Part:BBa_K568004이거 위키에 링크 첨부하면 좋을듯)
 
-### Why we choose AND gate?
-We want to produce violacein when frogs are exposed to chytridium in several conditions. Therefore, AND gate BBa_K568004 was used to produce violacein when frogs were exposed to these two conditions-normal activity->blue light, exposure to chytridium->chitin detection-corresponding.The first input uses the substance produced when detecting chytridium and then the supD tRNA produced from the previous input is available when exposed to blue light, so we can produce violacein only under the conditions we want.
+### Why use an AND gate?
+We want to produce violacein when frogs are exposed to chytridium in several conditions. Therefore, AND gate was used to produce violacein when frogs were exposed to these two conditions-normal activity->blue light, exposure to chytridium->chitin detection-corresponding.The first input uses the substance produced when detecting chytridium and then the supD tRNA produced from the previous input is available when exposed to blue light, so we can produce violacein only under the conditions we want.
 
-### BLUE light sensor.
+### T7 polymerase AND gate (BBa_K568004)
 We chose the promoter that is regulated by the YcgF/E system as blue light sensor. The domains YcgE and YcgF are endogenously present in Escherichia coli. The domains are thought to regulate the biofilm formation when E.coli is exposed in an aquatic environment. Blue light induces the dimerization of YcgF that then directly bind to the repressor YcgE and releases the repressor from the operator. The expression of YcgE and YcgF and therefore as well the expression of the controlled gene is increased at low temperatures. (위키에 이 부분 각주 달아서 따온거 밝히기)->이거 문장 다듬어야합니다 따온부분임,
+
+### Split vio operon AND gate
+
 
 ### Reference
 http://parts.igem.org/Part:BBa_K568004
