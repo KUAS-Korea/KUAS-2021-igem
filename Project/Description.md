@@ -1,12 +1,5 @@
 This is the description of our project
 
-기존에 있던 내용은 design 에 있습니다.
-
->위키에 들어갈 프로젝트 소개인가요? 아니면 엔트리 제출용 간단한 소개인가요? 
->1. 'Fun Fact'를 찾아서 흥미롭게 서술하세요. 
->2. 그림은 직접 그려보세요 - 단순히 개구리 사진을 보여주는 것이 아니라 전체 프로젝트를 표현해 주는 <b>1장</b>의 'graphical summary'를 만들고 추가로 홍보용 그림을 그려보세요. 
->3. 어떤 임팩트가 있는지 수치(정량적인 내용)로 표현해보세요 - 예. 해마다 멸종되는 양서류의 수, 피해액, 문제점, 해결을 위한 노력, 기후변화/지구온난화와의 관계…
-
 ![image](https://user-images.githubusercontent.com/87188354/133916832-f99b33b3-2390-4415-b899-110eb1a7d15f.png)
 Atelopus zeteki male taken in El Valle Panama by Brian Gratwicke (https://en.wikipedia.org/wiki/File:Atelopus_zeteki1.jpg#filelinks)
 
