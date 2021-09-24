@@ -1,9 +1,7 @@
 # KUAS-2021-igem
 
-## Git hub guide
-* [Github Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-* [Markdown Cheat Sheet - Korean](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ko.md)
-
+## Home
+* [Home](https://github.com/KUAS-Korea/KUAS-2021-igem/blob/main/Home.md)
 ## Project
 * [Description](https://github.com/KUAS2021/KUAS-2021-igem/blob/main/Project/Description.md)
 * [Design](https://github.com/KUAS2021/KUAS-2021-igem/blob/main/Project/Design.md)
@@ -23,3 +21,6 @@
 * [Members](https://github.com/KUAS-Korea/KUAS-2021-igem/blob/main/Team/Members.md)
 * [Attributions](https://github.com/KUAS-Korea/KUAS-2021-igem/blob/main/Team/Attributions.md)
 
+## Git hub guide
+* [Github Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [Markdown Cheat Sheet - Korean](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ko.md)
