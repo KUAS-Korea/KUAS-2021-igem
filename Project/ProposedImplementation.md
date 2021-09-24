@@ -9,8 +9,8 @@
 6. ### 핵심만 명료하게 서술할것
 7. ### ....
 
-
-Our engineered microbes will be applied to the skin of the amphibians
+우리의 프로젝트의 발전 방향과 실제로 적용된다면 어떤 모습일지를 설명. 실제로 구현하는데 극복해야할 과제 등도 적어도 좋음
+Our engineered microbes will be applied to the skin of the amphibians...
 
 # Frog skin composition 
 Chytridomycosis is an infectious disease of amphibians caused by the chytrid fungus (Batrachochytrium dendrobatidis). Batrachochytrium dendrobatidis is transmitted through the skin of amphibians and has a critical effect on survival, causing rapid population decline. Amphibian skin is unique because it is physiologically active, allowing the skin to tightly regulate respiration, water, and electrolytes. It is not yet known exactly how the fungus kills amphibians but it is thought that it may cause mortality through disrupting the normal function of the skin resulting in electrolyte depletion and osmotic imbalance.
