@@ -1,16 +1,33 @@
-This is the description of our project
 
-Light dependent Violacein production: 
+# 1. Light dependent Violacein production: 
 ![alt text](https://github.com/KUAS-Korea/KUAS-2021-igem/blob/main/Light%20dependent%20Vio.%20production.PNG)
 
 AND gate(light& cell density)
 ![alt text](https://github.com/KUAS-Korea/KUAS-2021-igem/blob/main/AND%20gate(Light%20and%20Cell%20density).png)
 
-You can download the xml file from the link below and view it with SBOL canvas
-[link](https://github.com/KUAS-Korea/KUAS-2021-igem/blob/main/Light%20dependent%20Vio%20production.xml)
+We have discovered various light sensing systems from the distribution kits and the registy. The motive for including the light sensors in our system can be seen at the [description page](). Some of the designs we considered are as below.
+## What is an AND gate?
+The AND gate gives a high output only if both the inputs are high and represented as A·B or AB. Therefore, using AND gate, input A and B are set to blue light sensor and cell density. And if both inputs exceed the threshold, the parts are activated.
+사진3개 첨부
+Our team used BBa_K568004.( http://parts.igem.org/Part:BBa_K568004이거 위키에 링크 첨부하면 좋을듯)
+
+## Why we choose AND gate?
+We want to produce violacein when frogs are exposed to chytridium in several conditions. Therefore, AND gate BBa_K568004 was used to produce violacein when frogs were exposed to these two conditions-normal activity->blue light, exposure to chytridium->chitin detection-corresponding.The first input uses the substance produced when detecting chytridium and then the supD tRNA produced from the previous input is available when exposed to blue light, so we can produce violacein only under the conditions we want.
+
+## BLUE light sensor.
+We chose the promoter that is regulated by the YcgF/E system as blue light sensor. The domains YcgE and YcgF are endogenously present in Escherichia coli. The domains are thought to regulate the biofilm formation when E.coli is exposed in an aquatic environment. Blue light induces the dimerization of YcgF that then directly bind to the repressor YcgE and releases the repressor from the operator. The expression of YcgE and YcgF and therefore as well the expression of the controlled gene is increased at low temperatures. (위키에 이 부분 각주 달아서 따온거 밝히기)->이거 문장 다듬어야합니다 따온부분임,
+
+## Reference
+http://parts.igem.org/Part:BBa_K568004
+http://2011.igem.org/Team:TU_Munich/project/introduction
+
+## LovTAP 
+
+## pDawn
 
 
-# Mub:
+# Mucus binding domain surface display
+## Mub:
 To minimize the engineered cells from detaching and leaking out to the environment after inoculation, we had to increase the cells’ adherence to the outermost mucus layer of the amphibians’ skin. Therefore, we decided to display mucus binding domains on the outer membrane of the cells. 
 While in search for mucus binding domains, we found that a lactobacillus strain(L. reuteri 1063) possessed adherence properties to intestinal mucus. However, since lactobacillus bacteria are gram-positive, we needed to use a different mechanism to display the domains on the outer-membrane of our gram-negative chassis. 
 A well-known surface display protein OmpA was chosen as our means to display the mucus binding domains.
@@ -28,7 +45,8 @@ The domain is composed of two structurally similar subdomains: the N-terminal do
 Since Mub1,2 domains were better characterized, we decided to fuse these domains to OmpA proteins (terminus? linker?)
 Just as the we fused R4-7 Mub2 domains to the OmpA part…
 
-# CadC:
+# 3.Fungal pathogen detection through chitin
+## CadC:
 For pathogen detection, receptor mediated detection was necessary since it was unclear whether the pathogen associated molecules would diffuse into the cell.
 In search for a suitable system, we looked at previous igem projects.  
 We found a few previous projects that included a receptor mediated detection system.
@@ -36,8 +54,7 @@ Various receptor based systems were tested by previous igem teams, but the one t
 Their project was based on a previous research (6) which engineered the wild type CadC receptor by fusing caffein-binding single domain antibodies(VHHs) at the periplasmic portion. Upon ligand binding, the periplasmic domain(C-terminus) dimerizes and brings together the split DNA binding domains(DBDs) in the cytosolic side(N-terminus) to express genes under the pCadBA promoter.
 This research further improved the design by testing different version of linkers and found that the removal of the juxtamembrane linker increased the fold change of the reporter gene expression. 
 
-
-# CERK1, LYK5:
+## CERK1, LYK5:
 To use the CadC system, we needed to find domain that dimerizes upon the binding of the pathogen specific ligand. 
 This property was found in the chitin binding receptor CERK1 of A. thaliana. This Not only the whole receptor, but also just the ectodomain(ECD) showed dimerizing properties in pull down and western blotting experiments when treated with chitin. No dimerization was observed when peptidoglycan was treated. Crystallization data revealed the presence of 3 LysM domains in atCERK1-ECD. It also enabled the identification of key residues of atCERK1 interacting with NAG of chitin. Structure of ECD can be viewed at PDB (7)
 This domain will be fused at the periplasmic side of CadC. 
@@ -105,20 +122,6 @@ Furthermore, the relationship between Batrachochytrium dendrobatidis growth and 
 * Seong Yeol Choi, et al. (2015).  Violacein: Properties and Production of a Versatile Bacterial Pigment, Hindawi
 
 
-# What is AND gate?
-The AND gate gives a high output only if both the inputs are high and represented as A·B or AB. Therefore, using AND gate, input A and B are set to blue light sensor and cell density. And if both inputs exceed the threshold, the parts are activated.
-사진3개 첨부
-Our team used BBa_K568004.( http://parts.igem.org/Part:BBa_K568004이거 위키에 링크 첨부하면 좋을듯)
-
-# Why we choose AND gate?
-We want to produce violacein when frogs are exposed to chytridium in several conditions. Therefore, AND gate BBa_K568004 was used to produce violacein when frogs were exposed to these two conditions-normal activity->blue light, exposure to chytridium->chitin detection-corresponding.The first input uses the substance produced when detecting chytridium and then the supD tRNA produced from the previous input is available when exposed to blue light, so we can produce violacein only under the conditions we want.
-
-# BLUE light sensor.
-We chose the promoter that is regulated by the YcgF/E system as blue light sensor. The domains YcgE and YcgF are endogenously present in Escherichia coli. The domains are thought to regulate the biofilm formation when E.coli is exposed in an aquatic environment. Blue light induces the dimerization of YcgF that then directly bind to the repressor YcgE and releases the repressor from the operator. The expression of YcgE and YcgF and therefore as well the expression of the controlled gene is increased at low temperatures. (위키에 이 부분 각주 달아서 따온거 밝히기)->이거 문장 다듬어야합니다 따온부분임,
-
-## Reference
-http://parts.igem.org/Part:BBa_K568004
-http://2011.igem.org/Team:TU_Munich/project/introduction
 
 
 # Surface display (surface expression)
