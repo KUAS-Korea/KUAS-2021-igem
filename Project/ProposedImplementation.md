@@ -19,7 +19,7 @@ Stratum germinativum is the innermost layer of the epidermis, composed of mitoti
 
 The tree above includes Muc19 and confirms a previous report that Muc19 is related to the fish spiggin protein (Kawahara and Nishida 2007). It is also obvious from the analysis that Muc19 is present in fishes, amphibians, and mammals, but seems to have been lost in birds. The turtle Ch. picta and the lizard An. carolinensis show evidence of a Muc19 gene. However, in the chicken and zebrafinch the Muc19 gene is missing, providing further evidence of the lack of Muc19 in birds. As a rule Muc19 proteins contain a PTS domain, but apparently there are exceptions, like in X. tropicalis. Some of the spiggins are also different from mammalian Muc19 in that they have a PTS domain together with a fourth VWD domain
 
-![image](figure 4)
+![figure2](https://user-images.githubusercontent.com/67305580/134638658-d70eb3bd-5a04-4018-aaf6-f91bf676da60.PNG)
 
 Analysis of publically available RNA-Seq data (Necsulea et al. 2014 and other studies) indicates that the 26 different X. tropicalis mucin genes are expressed in one or more tissues (fig. 4A), suggesting that they are not pseudogenes or the result of misprediction. A number of RNA-Seq samples allowed us to specifically monitor the expression of mucins during embryonic development (Tan et al. 2013). The transcription of a number of mucins is initiated at a specific developmental stage (fig. 4B). For instance, Muc2D appears at stage 11, Muc5J at stage 15, whereas Muc2H, Muc5B, and Muc5H appear relatively late during development. Finally, the Muc2A gene is expressed throughout development, beginning already in the 2-cell stage.
 
