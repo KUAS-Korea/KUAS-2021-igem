@@ -15,7 +15,7 @@ Stratum germinativum is the innermost layer of the epidermis, composed of mitoti
 
 # The phylogeny of mucin of different species
 
-![image](figure 2)
+![figure1](https://user-images.githubusercontent.com/67305580/134638647-b6f131b7-ae03-4389-b686-909e9f9ca6fa.PNG)
 
 The tree above includes Muc19 and confirms a previous report that Muc19 is related to the fish spiggin protein (Kawahara and Nishida 2007). It is also obvious from the analysis that Muc19 is present in fishes, amphibians, and mammals, but seems to have been lost in birds. The turtle Ch. picta and the lizard An. carolinensis show evidence of a Muc19 gene. However, in the chicken and zebrafinch the Muc19 gene is missing, providing further evidence of the lack of Muc19 in birds. As a rule Muc19 proteins contain a PTS domain, but apparently there are exceptions, like in X. tropicalis. Some of the spiggins are also different from mammalian Muc19 in that they have a PTS domain together with a fourth VWD domain
 
