@@ -40,7 +40,7 @@ Then we modeled the production of LuxR/HSL dimer, which is the transcription act
 
 ![image](https://user-images.githubusercontent.com/87188354/134772693-37ceb8e1-96cb-4489-b386-63b56a6a020e.png)
 
-However, there were too much dimers(over 10^2.5 dimers) that a induced increase in protein production could not be achieved. So we tried a weaker promoter and RBS combination and found that J23106 and 
+However, there were too much dimers(over 10^2.5 dimers) that an induced increase in protein production could not be achieved. So we tried a weaker promoter and RBS combination and found that J23106 and 
 B00 was the right choice.
 
 
