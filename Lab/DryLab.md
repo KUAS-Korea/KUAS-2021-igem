@@ -36,11 +36,11 @@ The resulting plot is as below.
 
 ![image](https://user-images.githubusercontent.com/87188354/134769912-c4c253de-1b04-4a8b-84f8-08fc067cd724.png)
 
-Then we modeled the production of LuxR/HSL dimer, which is the transcription activator of pLux.
+Then we modeled the production of LuxR/HSL dimers(the transcription activator of pLux) in our original construct with strong promoters (J23100) for LuxR and LuxI.
 
 ![image](https://user-images.githubusercontent.com/87188354/134772693-37ceb8e1-96cb-4489-b386-63b56a6a020e.png)
 
-However, in the modeling results of our original desigh with J23100, there were too much dimers(over 10^2.5 dimers) that an induced increase in protein production could not be achieved. 
+However, there were too much dimers(In SkyBlue, over 10^2.5 dimers) that an induced increase in protein production could not be achieved. 
 
 So we tried a weaker promoter J23106. 
 
