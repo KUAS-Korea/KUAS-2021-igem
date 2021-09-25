@@ -45,11 +45,9 @@ B00 was the right choice.
 
 
 ## cI at different HSL/LuxR concentrations
-    p.IC50 = 4.45;      % IC50 of plux on agar plates 2013 Zurich [nM]
-    p.Kd =  p.IC50;     %p.koff/p.kon Disosiation constant [molecules], IC50^2
-    alpha = p.k2 * p.k1 * p.CN / p.d1; % Maximal Expression rate [molecules/min]
     
-Rest of the parameters are same as above
-Protein  = alpha ./p.d2 .* (TF.^2 ./ (p.Kd +TF.^2))
-
-![image](https://user-images.githubusercontent.com/87188354/134527931-3da1d566-b31f-44af-9259-cf3d084975a1.png)
+    p.Kd = MolesToMolecules(200*10^(-9)); % dissociation constant of (LuxR·AI)2 to the lux promoter 200[nM] fitted https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3614889/
+    alpha = p.k2 * p.k1 * p.CN / p.d1; % Maximal Expression rate [molecules/min]   
+    % Rest of the parameters are same as above
+    Protein  = alpha ./p.d2 .* (TF.^2 ./ (p.Kd +TF.^2))
+![image](https://user-images.githubusercontent.com/87188354/134773893-b7194059-6af8-4751-ba8a-9c0f2fc21aeb.png)
