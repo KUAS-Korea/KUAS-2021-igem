@@ -6,17 +6,22 @@
 
 
 ## LuxR, LuxI Constitutive Protein expression: J23100, B0034 
-%Parameters
+    %Parameters
     p.CN = 17;        % plasmid number  pACYC184 (17 copies/cell)  
     p.d1 = 0.247;  % mRNA degradation rate  [1/min]
     p.d2 = 0.008492;      % protein degradation rate [1/min]
     p.k2 = 0.082;      %  translation rate  [1/min] 
     p.k1 = 1108.1616;      %  transcription rate [1/min]
     
-%x1 = mRNA
+    %x1 = mRNA
 dxdt(1,1) =p.CN*p.k1-p.d1*x(1);
-%x2 = Protein
-dxdt(2,1)=p.k2*x(1)-p.d2*x(2)
+%x2 = LuxI
+dxdt(2,1)=p.k2*x(1)-p.d2*x(2);
+%x3 = LuxR
+dxdt(3,1)= p.k2*x(1)-p.d2*x(3) -x(5);
+%x4 = HSL
+dxdt(4,1) = p.VmaxL*x(2) -x(5);
+    
 ![image](https://user-images.githubusercontent.com/87188354/134769912-c4c253de-1b04-4a8b-84f8-08fc067cd724.png)
 
 ## cI at different HSL/LuxR concentrations
