@@ -5,7 +5,7 @@
 > Jupyternotebook - [AND gate modelling example](https://github.com/Global-Biofoundries-Alliance/SynBioPython/blob/master/examples/genbabel.ipynb)
 
 
-## Constitutive Protein expression: J23100, B0034 
+## LuxR, LuxI Constitutive Protein expression: J23100, B0034 
 %Parameters
     p.CN = 17;        % plasmid number  pACYC184 (17 copies/cell)  
     p.d1 = 0.247;  % mRNA degradation rate  [1/min]
@@ -17,8 +17,7 @@
 dxdt(1,1) =p.CN*p.k1-p.d1*x(1);
 %x2 = Protein
 dxdt(2,1)=p.k2*x(1)-p.d2*x(2)
-
-![image](https://user-images.githubusercontent.com/87188354/134359194-2146e708-b212-48ba-97ef-8a4148aa181f.png)
+![image](https://user-images.githubusercontent.com/87188354/134769912-c4c253de-1b04-4a8b-84f8-08fc067cd724.png)
 
 ## cI at different HSL/LuxR concentrations
     p.IC50 = 4.45;      % IC50 of plux on agar plates 2013 Zurich [nM]
