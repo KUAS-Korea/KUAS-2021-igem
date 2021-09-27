@@ -159,3 +159,6 @@ LuxI produces acyl-homoserine lactone (AHL). AHL can pass through the cell membr
 <br/>MazEF is a suicide system. MazF produces a stable toxin, and MazE produces an unstable antitoxin. mazF cuts a specific site of mRNA and causes apoptosis. mazE is an antitoxin against mazF, which prevents apoptosis. If the expression of both genes is continuous, cell death does not occur. However, since mazE is degraded faster than mazF, when gene expression stops, the remaining mazF cuts mRNA and apoptosis proceeds.
 <br/>Therefore, when cells are removed from the amphibian skin and placed in a new environment, the concentration of AHL is lowered, transcription is stopped, and the apoptosis process by MazEF is activated.
 
+## references
+- http://parts.igem.org/Part:BBa_K2292002
+- http://parts.igem.org/Lux
