@@ -44,7 +44,7 @@ We have discovered various light sensing systems from the distribution kits and 
 ## 1.2 The AND Gate
 ### What is an AND gate?
 The AND gate gives a high output only if both the inputs are high and represented as A·B or AB. Therefore, using AND gate, input A and B are set to blue light sensor and cell density. And if both inputs exceed the threshold, the parts are activated.
-사진3개 첨부
+사진3개 첨부(유진에게 있음)
 Our team used BBa_K568004.( http://parts.igem.org/Part:BBa_K568004이거 위키에 링크 첨부하면 좋을듯)
 
 ### Why use an AND gate?
