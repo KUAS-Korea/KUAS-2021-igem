@@ -43,7 +43,7 @@ We have discovered various light sensing systems from the distribution kits and 
 
 ## 1.2 The AND Gate
 ### What is an AND gate?
-The AND gate gives a high output only if both the inputs are high and represented as A·B or AB. Therefore, using AND gate, input A and B are set to blue light sensor and cell density. And if both inputs exceed the threshold, the parts are activated.
+The AND gate gives a high output only if both the inputs are high and represented as A·B or AB. Therefore, using AND gate, input A and B are set to blue light sensor and cell density. And if both inputs exceed the threshold, the parts are activated.(10)
 사진3개 첨부(유진에게 있음)
 Our team used BBa_K568004.( http://parts.igem.org/Part:BBa_K568004이거 위키에 링크 첨부하면 좋을듯)
 
@@ -51,16 +51,12 @@ Our team used BBa_K568004.( http://parts.igem.org/Part:BBa_K568004이거 위키�
 We want to produce violacein when frogs are exposed to chytridium in several conditions. Therefore, AND gate was used to produce violacein when frogs were exposed to these two conditions-normal activity->blue light, exposure to chytridium->chitin detection-corresponding.The first input uses the substance produced when detecting chytridium and then the supD tRNA produced from the previous input is available when exposed to blue light, so we can produce violacein only under the conditions we want.
 
 ### T7 polymerase AND gate (BBa_K568004)
-We chose the promoter that is regulated by the YcgF/E system as blue light sensor. The domains YcgE and YcgF are endogenously present in Escherichia coli. The domains are thought to regulate the biofilm formation when E.coli is exposed in an aquatic environment. Blue light induces the dimerization of YcgF that then directly bind to the repressor YcgE and releases the repressor from the operator. The expression of YcgE and YcgF and therefore as well the expression of the controlled gene is increased at low temperatures. (위키에 이 부분 각주 달아서 따온거 밝히기)->이거 문장 다듬어야합니다 따온부분임,
+We chose the promoter that is regulated by the YcgF/E system as blue light sensor. The domains YcgE and YcgF are endogenously present in Escherichia coli. The domains are thought to regulate the biofilm formation when E.coli is exposed in an aquatic environment. Blue light induces the dimerization of YcgF that then directly bind to the repressor YcgE and releases the repressor from the operator. The expression of YcgE and YcgF and therefore as well the expression of the controlled gene is increased at low temperatures.(11) (위키에 이 부분 각주 달아서 따온거 밝히기)->이거 문장 다듬어야합니다 따온부분임,
 AND gate 작동 방식에 대한 설명 필요, 특수한 tRNA 가 사용된다는 내용
 하지만 파트의 크기가 너무 커서, 특히 vio 유전자들과 합할 경우 예상되는 크기가 15kb로 transform 하기에 적합하지 않을 것 같아서 다른 방안을 찾아보았다는 내용 
 
 ### Split vio operon AND gate
 
-
-### Reference
-http://parts.igem.org/Part:BBa_K568004
-http://2011.igem.org/Team:TU_Munich/project/introduction
 
 ## 1.2 The light sensors
 ## LovTAP 
@@ -124,7 +120,9 @@ One of the concerns during the design process was that while the CERK1-ECD is a 
 7. Liu T, Liu Z, Song C, Hu Y, Han Z, She J, Fan F, Wang J, Jin C, Chang J, Zhou JM, Chai J. Chitin-induced dimerization activates a plant immune receptor. Science. 2012 Jun 1;336(6085):1160-4. doi: 10.1126/science.1218867. PMID: 22654057.
 
 8. Cao Y, Liang Y, Tanaka K, Nguyen CT, Jedrzejczak RP, Joachimiak A, Stacey G. The kinase LYK5 is a major chitin receptor in Arabidopsis and forms a chitin-induced complex with related kinase CERK1. Elife. 2014 Oct 23;3:e03766. doi: 10.7554/eLife.03766. PMID: 25340959; PMCID: PMC4356144.
-
+9.
+10. http://parts.igem.org/Part:BBa_K568004
+11. http://2011.igem.org/Team:TU_Munich/project/introduction
 
 
 
