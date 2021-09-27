@@ -126,7 +126,7 @@ One of the concerns during the design process was that while the CERK1-ECD is a 
 
 
 
-# Surface display (surface expression)
+# 4.Surface display (surface expression)
 
 For the treatment of frog skin disease, we devised cells that produce violacein. To increase the efficiency of this method, our designed cells should be fixed on the surface of the frog skin to increase the concentration of cells near the skin. To implement this idea, we used a surface expression system.
 
@@ -150,4 +150,10 @@ In 2008 iGEM, the Warsaw team synthesized the BBa_K103006 biobrick part, which c
 
 추가할 내용 : OmpA + mucin 결합 단백질 내용, 실제 실험 내용 (warsaw 팀 파츠 사용, 실험방법까지), surface display 확인 실험 내용
 
+# 5. Kill switch
+To prevent the cells we designed from proliferating elsewhere after they fall off the amphibian skin, we created a kill switch that allows cells to survive only in areas with high cell density.
+(대략적인 그림)
+LuxI produces acyl-homoserine lactone (AHL). AHL can pass through the cell membrane, so the concentration of AHL increases as the number of cells increases. AHL and LuxR protein combine to promote transcription of MazE and MazF.
+<br/>MazEF is a suicide system. MazF produces a stable toxin, and MazE produces an unstable antitoxin. mazF cuts a specific site of mRNA and causes apoptosis. mazE is an antitoxin against mazF, which prevents apoptosis. If the expression of both genes is continuous, cell death does not occur. However, since mazE is degraded faster than mazF, when gene expression stops, the remaining mazF cuts mRNA and apoptosis proceeds.
+<br/>Therefore, when cells are removed from the amphibian skin and placed in a new environment, the concentration of AHL is lowered, transcription is stopped, and the apoptosis process by MazEF is activated.
 
