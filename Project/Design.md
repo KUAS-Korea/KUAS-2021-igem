@@ -52,7 +52,7 @@ We want to produce violacein when frogs are exposed to chytridium in several con
 
 ### T7 polymerase AND gate (BBa_K568004)
 We chose the promoter that is regulated by the YcgF/E system as blue light sensor. The domains YcgE and YcgF are endogenously present in Escherichia coli. The domains are thought to regulate the biofilm formation when E.coli is exposed in an aquatic environment. Blue light induces the dimerization of YcgF that then directly bind to the repressor YcgE and releases the repressor from the operator. The expression of YcgE and YcgF and therefore as well the expression of the controlled gene is increased at low temperatures.(11) (위키에 이 부분 각주 달아서 따온거 밝히기)->이거 문장 다듬어야합니다 따온부분임,
-AND gate 작동 방식에 대한 설명 필요, 특수한 tRNA 가 사용된다는 내용
+The AND gate (BBa_K568004) uses the blue light sensor as a promoter and then transcribe the T7ptag. Since T7ptag is translation only through supD tRNA, we can make AND gate work through blue light and input we set if designed to be expressed using T7 polymerase through the desired input.
 However, the size of the parts is too large, especially if combined with the violacein genes, the expected size would be 15 kb, which would not be suitable for transform, so we looked for another way. 
 
 ### Split vio operon AND gate
