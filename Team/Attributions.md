@@ -1,6 +1,22 @@
 # Attributions
 
 
+## Activity
+### dd.mm.yyyy ~ 
+* designed AND gate....
+* wrote biosafety proposal...
+### dd.mm.yyyy ~
+* managing `benchling` site
+>plotted AND gate
+>suggested OR gate
+>...
+---
+## ....
+---
+## Links
+>...
+
+
 * [광호](https://github.com/KUAS-Korea/KUAS-2021-igem/blob/main/Team/광호.md)
 * [성욱](https://github.com/KUAS-Korea/KUAS-2021-igem/blob/main/Team/성욱.md)
 * [유진](https://github.com/KUAS-Korea/KUAS-2021-igem/blob/main/Team/유진.md)
