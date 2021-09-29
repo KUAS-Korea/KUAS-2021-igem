@@ -48,6 +48,21 @@ So we tried a weaker promoter J23106.
 
 This promoter suits our purpose; HSL/LuxR dimers reached around 10^1.5 molecules which is low enough to expect enough induction at higher number of HSL/LuxR dimer molecules.
 
+
+## Construct selection
+세포 하나일 때와 여러 개일때 dimer 의 농도가 다른 조합은 R100 34 / I106 32 밖에 없었다. 
+
+[Results for each construct.docx](https://github.com/KUAS-Korea/KUAS-2021-igem/files/7252979/Results.for.each.construct.docx)
+### Single cell: external HSL = 0
+![image](https://user-images.githubusercontent.com/87188354/135295998-2e6ae6fe-4ebb-4ec2-a4a8-2bbf78ebb45b.png)
+Dimers around 1e1.5
+
+### High density culture: closed 1ml env, cells 1e-3(dark color) ~ 1e5(bright color) 
+![image](https://user-images.githubusercontent.com/87188354/135296285-d6b808c3-11e8-4cff-aed6-674428672736.png)
+Dimers >1e 2.5
+![image](https://user-images.githubusercontent.com/87188354/135296306-2c1edd0a-9f53-4468-bbee-e1bfce6c6a0d.png)
+
+
 ## cI at different HSL/LuxR concentrations
     
     p.Kd = MolesToMolecules(200*10^(-9)); % dissociation constant of (LuxR·AI)2 to the lux promoter 200[nM] fitted https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3614889/
