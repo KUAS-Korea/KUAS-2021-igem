@@ -1,4 +1,5 @@
 ## Parts page update
+We updated the parts involved in tryptophol synthesis(BBa_K2352015,	BBa_K2352016, BBa_K2352017,	BBa_K2352018) submitted by UFlorida. We summarized what is known about the compound from literature using 5 additional references. We hope that our update will serve as a starting point for future teams willing to work on a similar project.
 ### Tryptophol 
 Tryptophol was used by UFlorida in 2017 as the anti fungal agent against Bd. They referenced a research on identification of chemicals proudced in supernatants of cocultures of microbes sampled from the skin of a salamander species(Plethodon cinereus)(1)     
 The extracted chemicals were tested for Bd inhibition and the most potent chemical was identified by LC-MS(High Resolution-Mass Spectrometer). The results indicate this chemical is tryptophol. 
