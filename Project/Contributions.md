@@ -1,5 +1,5 @@
 ## Parts page update
-We updated the parts involved in tryptophol synthesis(BBa_K2352015,	BBa_K2352016, BBa_K2352017,	BBa_K2352018) submitted by UFlorida. We summarized what is known about the compound from literature using 5 additional references. We hope that our update will serve as a starting point for future teams willing to work on a similar project.
+We updated the parts page involved in tryptophol synthesis(BBa_K2352015,	BBa_K2352016, BBa_K2352017,	BBa_K2352018) submitted by UFlorida. We summarized what is known about the compound from literature using 5 additional references. We hope that our update will serve as a starting point for future teams willing to work on a similar project.
 ### Tryptophol 
 Tryptophol was used by UFlorida in 2017 as the anti fungal agent against Bd. They referenced a research on identification of chemicals proudced in supernatants of cocultures of microbes sampled from the skin of a salamander species(Plethodon cinereus)(1)     
 The extracted chemicals were tested for Bd inhibition and the most potent chemical was identified by LC-MS(High Resolution-Mass Spectrometer). The results indicate this chemical is tryptophol. 
@@ -17,5 +17,6 @@ Tryptophol is synthesized from the amino acid tryptophan through the Ehrlich pat
  3) Verbrugghe Elin, Adriaensen Connie, Martel An, Vanhaecke Lynn, Pasmans Frank, Growth Regulation in Amphibian Pathogenic Chytrid Fungi by the Quorum Sensing Metabolite Tryptophol, Frontiers in Microbiology, Vol.9, 2019, URL=https://www.frontiersin.org/article/10.3389/fmicb.2018.03277, DOI=10.3389/fmicb.2018.03277
  4) Hazelwood, Lucie & Daran, Jean-Marc & Van Maris, Antonius & Pronk, Jack & Dickinson, J. (2008). The Ehrlich Pathway for Fusel Alcohol Production: a Century of Research on Saccharomyces cerevisiae Metabolism. Applied and environmental microbiology. 74. 2259-66. 10.1128/AEM.02625-07.
  5) Chen H, Fink GR. Feedback control of morphogenesis in fungi by aromatic alcohols. Genes Dev. 2006;20(9):1150-1161. doi:10.1101/gad.1411806
- 
+ ![image](https://user-images.githubusercontent.com/87188354/135450283-37a2691d-a74a-4334-9cae-772d861142fc.png)
+
 ## Modeling guide
