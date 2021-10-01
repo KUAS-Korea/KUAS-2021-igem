@@ -160,7 +160,7 @@ In 2008 iGEM, the Warsaw team synthesized the BBa_K103006 biobrick part, which c
 # 5. Kill switch
 To prevent the cell we designed from falling off the amphibian skin and proliferating elsewhere, we created a kill switch using the Lux gene and MazE, MazF gene so that the cells can survive only in areas with high cell density.
 
-(대략적인 그림)
+![alt text](https://raw.githubusercontent.com/KUAS-Korea/KUAS-2021-igem/main/Blank%20canvas%20template%20(2).jpeg?token=AUZMYUYY57V44R5NG2GNL33BK3MBQ)
 
 LuxI produces acyl-homoserine lactone (AHL). AHL can pass through the cell membrane, so the concentration of AHL increases as the number of cells increases, and this AHL and LuxR protein bind to stimulate the AHL and LuxR regulated promoters to promote cl repressor transcription. The generated cl repressor suppresses the cl regulated promoter, preventing transcription of MazF.
 <br/>MazE,F is a suicide system. MazF produces a stable toxin, and MazE produces an unstable antitoxin. mazF cuts a specific site of mRNA and causes apoptosis. mazE is an antitoxin against mazF, which prevents apoptosis.
