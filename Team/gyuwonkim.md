@@ -26,4 +26,7 @@
 * 홍보물 리플렛 제작
 * 	KUAS 2021 로고 디자인
 
+### dd.mm.yyyy ~ 
+* Collaboration wiki 작성
+
 
