@@ -12,6 +12,9 @@ At the meeting held on the 2nd of October,
 
 2. Collaborations with Yonsei-University iGEM Team
 
-Another iGEM participating team in Korea, Yonsei University, collaborated twice on 7/24 10PM and 8/8 9PM. As the number of Korean teams participating in iGEM with interest in synthetic biology is small, it was a good opportunity to meet and talk with more diverse people who are interested in synthetic biology. Both teams shared their promotion videos, discussed each team's progress and topics, and gave feedback.
+Another iGEM participating team in Korea, Yonsei University, collaborated twice on 7/24 10PM and 8/8 9PM. As the number of Korean teams participating in iGEM with interest in synthetic biology is small, it was a good opportunity to meet and talk with more diverse people who are interested in synthetic biology. Both teams shared their promotion videos, discussed each team's topics and progress and gave feedback each other.
+
+The 3rd collaboration meeting was held on 9/24 at 9PM. During this meeting, the progress of the project was shared. The Yonsei University team said that they are currently focusing on proof of concept, and shared the Spinach Roboswitch design and experimental results. KUAS also shared about the pDAWN light sensor and kill switch design. Also, Yonsei University team is participating in iGEM for the first time this year, for part design, we shared how KUAS completed the safety form,  wiki and judging form last year. In addition, based on successful experience of retrying an experiment that failed on the first attempt with sequences ordered from another synthesis service, we have learned to be careful when ordering sequences.
 
 ![image](https://user-images.githubusercontent.com/87228507/133252583-9b0ee443-e19d-4a0f-8c4e-befdaab44c04.png)
+![image](https://user-images.githubusercontent.com/87228507/135709367-846c0a6c-bbf2-46a3-b4c8-24501d08054f.png)
