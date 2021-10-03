@@ -65,8 +65,13 @@ However, the size of the parts is too large, especially if combined with the vio
 
 ## 1.2 The light sensors
 ## LovTAP 
-(LovTAP 작동방식 그림 첨부->저작권 때문에 현재 이미지 작업중)
-LovTAP mean LOV and tryptophan-activated protein. LovTAP consists of a LOV (light-oxygen-voltage) domain that bind a flavin-mononucleotide(FMN) of Avena sativa phototropin1 (AsLOV2) that senses blue light and trpR-DNA binding domain of the transcription factor trp repressor.
+LovTAP mean LOV and tryptophan-activated protein. LovTAP consists of a LOV (light-oxygen-voltage) domain that bind a flavin-mononucleotide(FMN) of Avena sativa phototropin1 (AsLOV2) that senses blue light and trpR-DNA binding domain of the transcription factor trp repressor.(1)
+
+In the dark DNA-dissociated state, the shared helix contacts the LOV domain, populating an inactive conformation of the TrpR domain. Photoexcitation disrupts contacts between the shared helix and the LOV domain, populating an active conformation of the TrpR domain. LovTAP binds DNA. The LOV domains return to the dark state. LovTAP dissociates from the DNA, contacts between the shared helix and the LOV domain are restored, and the system returns to the initial state.(2)
+
+### reference
+1. http://parts.igem.org/Part:BBa_K360021
+2. Devin Strickland, Keith Moffat, and Tobin R. Sosnick, "Light-activated DNA binding in a designed allosteric protein", PNAS, vol.105, no.31, 2008, pp.10709-10714.
 
 
 ## pDawn
