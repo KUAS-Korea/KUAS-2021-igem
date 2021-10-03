@@ -65,6 +65,9 @@ However, the size of the parts is too large, especially if combined with the vio
 
 ## 1.2 The light sensors
 ## LovTAP 
+(LovTAP 작동방식 그림 첨부->저작권 때문에 현재 이미지 작업중)
+LovTAP mean LOV and tryptophan-activated protein. LovTAP consists of a LOV (light-oxygen-voltage) domain that bind a flavin-mononucleotide(FMN) of Avena sativa phototropin1 (AsLOV2) that senses blue light and trpR-DNA binding domain of the transcription factor trp repressor.
+
 
 ## pDawn
 We used the plasmid pDawn, which uses a blue light photoreceptor, to allow the expression of light-inducing genes when bacteria are exposed to light. Plasmid pDawn was created by inserting a gene-inversion cassette into pDusk and can be compared through the figure below. Insertion of the λ phage repressor cI and the λ promoter pR in pDawn inverts signal polarity and renders gene expression light activated. YF1 has a blue light sensor domain, and in the absence of light, YF1 phosphorylates FixJ which activcates pFixK2. pDawn has a relatively higher dynamic range and lower background expression, and does not require additional components such as genes that encode enzymes for chromophore synthesis or incorporation.(12) And it can be adjusted by time and light intensity changes, making it suitable for automation, optimizing yield and purity. So we decided that pDawn was a good fit for this project.
