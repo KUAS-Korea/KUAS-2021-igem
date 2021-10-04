@@ -185,7 +185,7 @@ LuxI produces acyl-homoserine lactone (AHL). AHL can pass through the cell membr
 <br/>MazE,F is a suicide system. MazF produces a stable toxin, and MazE produces an unstable antitoxin. mazF cuts a specific site of mRNA and causes apoptosis. mazE is an antitoxin against mazF, which prevents apoptosis.
 <br/>In our kill switch, the antitoxin, MazE, is continuously expressed, but the toxin, MazF, is regulated by Lux. When the cell is removed from the skin of the amphibian and placed in a new environment, the concentration of AHL is lowered, the transcription of the cl repressor is suppressed, and the transcription of MazF proceeds. Although MazE is continuously expressed, it is unstable, so if more mazF is produced, the apoptosis process is triggered by toxin.
 
-For continuous expression of LuxI and LuxR, we tried to use promoters J23100 and RBS B0034. However, when J23100 and B0034 were used for LuxI and LuxR, the expression level of LuxR/HSL dimer was too high when there was one cell, so another combination of promoter and RBS was found through experiments.
+For continuous expression of LuxI and LuxR, we tried to use promoters J23100 and RBS B0034. However, when J23100 and B0034 were used for LuxI and LuxR, the expression level of LuxR/HSL dimer was too high when there was one cell, so another combination of promoter and RBS was found through experiments. More information on our *[Dry Lab](https://github.com/KUAS-Korea/KUAS-2021-igem/blob/main/Lab/DryLab.md) page.
 
 ## references
 - http://parts.igem.org/Part:BBa_K2292002
