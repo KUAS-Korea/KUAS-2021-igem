@@ -28,5 +28,5 @@
 * [준성](https://github.com/KUAS-Korea/KUAS-2021-igem/blob/main/Team/준성.md)
 * [예린](https://github.com/KUAS-Korea/KUAS-2021-igem/blob/main/Team/예린.md)
 * [현주](https://github.com/KUAS-Korea/KUAS-2021-igem/blob/main/Team/현주.md)
-* [민규](https://github.com/KUAS-Korea/KUAS-2021-igem/blob/main/Team/민규.md)
+* [MinkyuSong](https://github.com/KUAS-Korea/KUAS-2021-igem/blob/main/Team/민규.md)
 * [연준](https://github.com/KUAS-Korea/KUAS-2021-igem/blob/main/Team/연준.md)
