@@ -1,5 +1,5 @@
 # JunSung Park
-<img src="./tiger.jpg" height="500px" width="500px">
+<img src="./tiger.jpg" height="200px" width="200px">
 ---
 
 ## Bio
