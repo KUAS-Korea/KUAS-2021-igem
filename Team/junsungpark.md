@@ -1,6 +1,5 @@
 # JunSung Park
 <img src="./tiger.jpg" height="200px" width="200px">
----
 
 ## Bio
 * Major: Biology
@@ -22,7 +21,6 @@
 >suggested OR gate
 >...
 ---
-## ....
----
+
 ## Links
 * https://junsungpark-lab.github.io/AboutMe/index.html
