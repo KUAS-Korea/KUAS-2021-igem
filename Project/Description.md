@@ -1,7 +1,7 @@
 This is the description of our project
+![toad1](https://user-images.githubusercontent.com/87188354/135816209-badd7909-b17c-4c0d-8265-8d8c91382768.jpeg)
 
-![image](https://user-images.githubusercontent.com/87188354/133916832-f99b33b3-2390-4415-b899-110eb1a7d15f.png)
-Atelopus zeteki male taken in El Valle Panama by Brian Gratwicke (https://en.wikipedia.org/wiki/File:Atelopus_zeteki1.jpg#filelinks)
+Image of A.zeteki photo taken & provided by Edgardo Griffith, EVACC foundation director
 
 The inspiration for our project started from reading the book “the sixth extinction” by Elizabeth Kolbert. In her amazing book, I(Sungwook) read stories about how human activities were posing a threat towards our wildlife and ecosystems. Among the many episodes she delivers, I was especially astonished by the fact that the amphibian disease chytridomycosis caused by the fungal pathogen B. dendrobatidis(Bd)were pushing amphibian species towards the brink of extinction. I couldn’t believe that amphibian species living in the remotest parts of the globe were being affected. The beautiful anuran Panamian golden frog(A.zeteki) were so heavily affected that they were extinct in the wild. I thought that we should feel responsibility and should provide a solution. I brought up this issue during our weekly discussion earlier this year and eventually we decided to work on this project. 
 
