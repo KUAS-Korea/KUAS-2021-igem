@@ -62,6 +62,9 @@ However, the size of the parts is too large, especially if combined with the vio
 
 ### Split vio operon AND gate
 
+### References
+10 http://parts.igem.org/Part:BBa_K568004
+11 http://2011.igem.org/Team:TU_Munich/project/introduction
 
 ## 1.2 The light sensors
 ## LovTAP 
@@ -70,16 +73,15 @@ LovTAP mean LOV and tryptophan-activated protein. LovTAP consists of a LOV (ligh
 The operation of the LovTAP is as follows.
 In the dark DNA-dissociated state, the shared helix contacts the LOV domain, populating an inactive conformation of the TrpR domain. Photoexcitation disrupts contacts between the shared helix and the LOV domain, populating an active conformation of the TrpR domain. LovTAP binds DNA. The LOV domains return to the dark state. LovTAP dissociates from the DNA, contacts between the shared helix and the LOV domain are restored, and the system returns to the initial state.(2)
 
-### reference
+## pDawn
+We used the plasmid pDawn, which uses a blue light photoreceptor, to allow the expression of light-inducing genes when bacteria are exposed to light. Plasmid pDawn was created by inserting a gene-inversion cassette into pDusk and can be compared through the figure below. Insertion of the λ phage repressor cI and the λ promoter pR in pDawn inverts signal polarity and renders gene expression light activated. YF1 has a blue light sensor domain, and in the absence of light, YF1 phosphorylates FixJ which activcates pFixK2. pDawn has a relatively higher dynamic range and lower background expression, and does not require additional components such as genes that encode enzymes for chromophore synthesis or incorporation.(3) And it can be adjusted by time and light intensity changes, making it suitable for automation, optimizing yield and purity. So we decided that pDawn was a good fit for this project.
+(모식도 사진 첨부) pDawn for light-activated gene expression in E. coli (3)
+
+### References
 1. http://parts.igem.org/Part:BBa_K360021
 2. Devin Strickland, Keith Moffat, and Tobin R. Sosnick, "Light-activated DNA binding in a designed allosteric protein", PNAS, vol.105, no.31, 2008, pp.10709-10714.
-
-
-## pDawn
-We used the plasmid pDawn, which uses a blue light photoreceptor, to allow the expression of light-inducing genes when bacteria are exposed to light. Plasmid pDawn was created by inserting a gene-inversion cassette into pDusk and can be compared through the figure below. Insertion of the λ phage repressor cI and the λ promoter pR in pDawn inverts signal polarity and renders gene expression light activated. YF1 has a blue light sensor domain, and in the absence of light, YF1 phosphorylates FixJ which activcates pFixK2. pDawn has a relatively higher dynamic range and lower background expression, and does not require additional components such as genes that encode enzymes for chromophore synthesis or incorporation.(12) And it can be adjusted by time and light intensity changes, making it suitable for automation, optimizing yield and purity. So we decided that pDawn was a good fit for this project.
-(모식도 사진 첨부) pDawn for light-activated gene expression in E. coli (12)
-
-
+3. Ohlendorf, Robert, et al. "From dusk till dawn: one-plasmid systems for light-regulated gene expression." Journal of molecular biology 416.4 (2012): 534-542.
+ 
 # 2. Mucus binding domain surface display
 ## Mub:
 To minimize the engineered cells from detaching and leaking out to the environment after inoculation, we had to increase the cells’ adherence to the outermost mucus layer of the amphibians’ skin. Therefore, we decided to display mucus binding domains on the outer membrane of the cells. 
@@ -137,9 +139,6 @@ One of the concerns during the design process was that while the CERK1-ECD is a 
 
 8. Cao Y, Liang Y, Tanaka K, Nguyen CT, Jedrzejczak RP, Joachimiak A, Stacey G. The kinase LYK5 is a major chitin receptor in Arabidopsis and forms a chitin-induced complex with related kinase CERK1. Elife. 2014 Oct 23;3:e03766. doi: 10.7554/eLife.03766. PMID: 25340959; PMCID: PMC4356144.
 9.
-10. http://parts.igem.org/Part:BBa_K568004
-11. http://2011.igem.org/Team:TU_Munich/project/introduction
-12. Ohlendorf, Robert, et al. "From dusk till dawn: one-plasmid systems for light-regulated gene expression." Journal of molecular biology 416.4 (2012): 534-542.
 
 
 # 4.Surface display (surface expression)
