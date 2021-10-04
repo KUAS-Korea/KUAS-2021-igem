@@ -1,5 +1,5 @@
 # JunSung Park
-<img src="./tiger.jpg" height="200px" width="200px">
+<img src="./junsungpark.jpg" height="200px" width="200px">
 
 ## Bio
 * Major: Biology
