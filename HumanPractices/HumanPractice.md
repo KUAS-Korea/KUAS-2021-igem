@@ -9,3 +9,11 @@ The first webinar discussed the basic definition and actual case of synthetic bi
 
 
 2. Interview
+
+3. Leaflet production that does educational role and promotion of communication channel 
+
+In order to increase interest in synthetic biology, we have created a leaflet containing the subject of KUAS, an introduction to synthetic biology and biological safety. The reason that the form of the material is leaflet is that it is small and light so people can conveniently carry it and read it, and also we can publish more and distribute it to more people.
+
+We have placed leaflet throughout the school so that it can be viewed by as many students as possible, and we have listed a way to contact KUAS so that many people can also reach us online and share messages. In other words, this leaflet was also used to inform our communication channels. After that, we conducted additional communication such as promoting our topic and holding a webinar through communication channels with these communication channel. 
+
+Not only that, by placing them in the various buildings of the school, students from various fields can also read this leaflet. Students such as students who know some biology but not familiar with synthetic biology or students who are not familiar with biology can read this to learn what synthetic biology is and how it is used. 
