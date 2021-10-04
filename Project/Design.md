@@ -52,7 +52,9 @@ We have discovered various light sensing systems from the distribution kits and 
 The AND gate gives a high output only if both the inputs are high and represented as A·B or AB. Therefore, using AND gate, input A and B are set to blue light sensor and cell density. And if both inputs exceed the threshold, the parts are activated.(10)
 ![2 input AND gate](https://user-images.githubusercontent.com/87371591/135795677-a9edb71f-e5a8-43c2-93ed-555617c13940.png)
 <2 input AND gate>
+
 ![AND gate diagram](https://user-images.githubusercontent.com/87371591/135795738-572f63b3-1c5f-4e1f-b521-5c874bb514aa.png)
+
 <AND gate diagram>
  
 Our team used BBa_K568004.( http://parts.igem.org/Part:BBa_K568004)
