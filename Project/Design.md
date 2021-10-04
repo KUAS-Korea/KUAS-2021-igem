@@ -131,7 +131,7 @@ We also plan to express LYK5 fused CadCs to facilitate CERK1 dimerization. Howev
 
 One of the concerns during the design process was that while the CERK1-ECD is a N terminus domain, it had to be attached to the C terminus of CadC. However, we observed that the N & C terminus of CERK1-ECD is located close to each other (9). We thought that since the two termini are closely located, it wouldn’t make much of a difference whether the connection occurs in one or another. Though our intuition needs validation, we decided to proceed with the design. We also included a flexible GS linker between CERK-ECD and CadC so that CERK1-ECD is allowed more freedom in orientation while binding to chitin. 
 
-![image](https://user-images.githubusercontent.com/87194158/135798664-e8e0d2ca-e8cf-4e94-9a5a-13107d24086a.png)
+![image](https://user-images.githubusercontent.com/87194158/135799179-2a4d3532-574f-48a5-afe2-fe57f3e1e85a.png)
 
 # References
 1. Juge N. Microbial adhesins to gastrointestinal mucus. Trends Microbiol. 2012 Jan;20(1):30-9. doi: 10.1016/j.tim.2011.10.001. Epub 2011 Nov 14. PMID: 22088901.
