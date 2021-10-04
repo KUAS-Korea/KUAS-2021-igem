@@ -53,7 +53,7 @@ The AND gate gives a high output only if both the inputs are high and represente
 * ![2 input AND gate](https://user-images.githubusercontent.com/87371591/135795677-a9edb71f-e5a8-43c2-93ed-555617c13940.png)
 <2 input AND gate>
 * ![AND gate diagram](https://user-images.githubusercontent.com/87371591/135795738-572f63b3-1c5f-4e1f-b521-5c874bb514aa.png)
-<AND gate diagram>
+AND gate diagram
  
 * Our team used BBa_K568004.( http://parts.igem.org/Part:BBa_K568004)
  
