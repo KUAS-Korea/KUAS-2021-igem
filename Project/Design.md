@@ -108,8 +108,21 @@ The domain is composed of two structurally similar subdomains: the N-terminal do
  
  ![image](https://user-images.githubusercontent.com/87188354/130601467-e77a0662-94a0-4501-9673-78af2b026b9f.png)
 
-Since Mub1,2 domains were better characterized, we decided to fuse these domains to OmpA proteins (terminus? linker?)
-Just as the we fused R4-7 Mub2 domains to the OmpA part…
+Since Mub1,2 domains were better characterized, we decided to fuse these domains to the C terminuas of the surface protein OmpA. 
+We acquired the sequences of the Mub domains from https://www.ncbi.nlm.nih.gov/nuccore/6707063. 
+We fused the domainas R4-7 and R4,5 Mub2 domains to the partial OmpA part(K103006) with a GS linker in between.
+https://benchling.com/s/seq-5WW6LSK3eFmng9Z1SK5A
+https://benchling.com/s/seq-YFxJHRIgGRz0RiOCh3sY
+The new fusion proteins are registered as parts K3837005 & K3837006.
+
+# References
+1. Juge N. Microbial adhesins to gastrointestinal mucus. Trends Microbiol. 2012 Jan;20(1):30-9. doi: 10.1016/j.tim.2011.10.001. Epub 2011 Nov 14. PMID: 22088901.
+
+2. Roos S, Jonsson H. A high-molecular-mass cell-surface protein from Lactobacillus reuteri 1063 adheres to mucus components. Microbiology (Reading). 2002 Feb;148(Pt 2):433-442. doi: 10.1099/00221287-148-2-433. PMID: 11832507.
+
+3. MacKenzie DA, Jeffers F, Parker ML, Vibert-Vallet A, Bongaerts RJ, Roos S, Walter J, Juge N. Strain-specific diversity of mucus-binding proteins in the adhesion and aggregation properties of Lactobacillus reuteri. Microbiology (Reading). 2010 Nov;156(Pt 11):3368-3378. doi: 10.1099/mic.0.043265-0. Epub 2010 Sep 16. PMID: 20847011.
+
+4. MacKenzie DA, Tailford LE, Hemmings AM, Juge N. Crystal structure of a mucus-binding protein repeat reveals an unexpected functional immunoglobulin binding activity. J Biol Chem. 2009 Nov 20;284(47):32444-53. doi: 10.1074/jbc.M109.040907. Epub 2009 Sep 16. PMID: 19758995; PMCID: PMC2781659.
 
 # 3.Fungal pathogen detection through chitin
 ## CadC:
@@ -137,13 +150,6 @@ One of the concerns during the design process was that while the CERK1-ECD is a 
 ![image](https://user-images.githubusercontent.com/87194158/135799179-2a4d3532-574f-48a5-afe2-fe57f3e1e85a.png)
 
 # References
-1. Juge N. Microbial adhesins to gastrointestinal mucus. Trends Microbiol. 2012 Jan;20(1):30-9. doi: 10.1016/j.tim.2011.10.001. Epub 2011 Nov 14. PMID: 22088901.
-
-2. Roos S, Jonsson H. A high-molecular-mass cell-surface protein from Lactobacillus reuteri 1063 adheres to mucus components. Microbiology (Reading). 2002 Feb;148(Pt 2):433-442. doi: 10.1099/00221287-148-2-433. PMID: 11832507.
-
-3. MacKenzie DA, Jeffers F, Parker ML, Vibert-Vallet A, Bongaerts RJ, Roos S, Walter J, Juge N. Strain-specific diversity of mucus-binding proteins in the adhesion and aggregation properties of Lactobacillus reuteri. Microbiology (Reading). 2010 Nov;156(Pt 11):3368-3378. doi: 10.1099/mic.0.043265-0. Epub 2010 Sep 16. PMID: 20847011.
-
-4. MacKenzie DA, Tailford LE, Hemmings AM, Juge N. Crystal structure of a mucus-binding protein repeat reveals an unexpected functional immunoglobulin binding activity. J Biol Chem. 2009 Nov 20;284(47):32444-53. doi: 10.1074/jbc.M109.040907. Epub 2009 Sep 16. PMID: 19758995; PMCID: PMC2781659.
 
 5. https://2020.igem.org/Team:UofUppsala/Design
 6. Chang HJ, Mayonove P, Zavala A, De Visch A, Minard P, Cohen-Gonsaud M, Bonnet J. A Modular Receptor Platform To Expand the Sensing Repertoire of Bacteria. ACS Synth Biol. 2018 Jan 19;7(1):166-175. doi: 10.1021/acssynbio.7b00266. Epub 2017 Oct 30. PMID: 28946740; PMCID: PMC5880506.
