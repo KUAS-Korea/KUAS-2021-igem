@@ -1,7 +1,7 @@
 
 
-# Gyuwon Kim
-![image](https://user-images.githubusercontent.com/87228507/135812675-786f5e16-ed81-4491-9415-87cf32786aa3.png)
+# Gyuwon Kim 김규원
+<img src=https://user-images.githubusercontent.com/87228507/135812675-786f5e16-ed81-4491-9415-87cf32786aa3.png width=200px height=200px>
 ---
 
 ## Bio
