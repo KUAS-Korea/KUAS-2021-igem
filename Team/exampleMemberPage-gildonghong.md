@@ -1,5 +1,5 @@
 # Gildong Hong
-<img src="./tiger.jpg" height="100px" width="100px">
+<img src="./tiger.jpg" height="200px" width="200px">
 ---
 
 ## Bio
