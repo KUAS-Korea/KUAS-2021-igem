@@ -48,9 +48,15 @@ We have discovered various light sensing systems from the distribution kits and 
 
 ## 1.2 The AND Gate
 ### What is an AND gate?
+
 The AND gate gives a high output only if both the inputs are high and represented as A·B or AB. Therefore, using AND gate, input A and B are set to blue light sensor and cell density. And if both inputs exceed the threshold, the parts are activated.(10)
-사진3개 첨부(유진에게 있음)
+![2 input AND gate](https://user-images.githubusercontent.com/87371591/135795677-a9edb71f-e5a8-43c2-93ed-555617c13940.png)
+<2 input AND gate>
+![AND gate diagram](https://user-images.githubusercontent.com/87371591/135795738-572f63b3-1c5f-4e1f-b521-5c874bb514aa.png)
+<AND gate diagram>
 Our team used BBa_K568004.( http://parts.igem.org/Part:BBa_K568004이거 위키에 링크 첨부하면 좋을듯)
+![BBa_K568004](https://user-images.githubusercontent.com/87371591/135795766-553f6103-371f-4157-abb6-9b28e9275479.png)
+<BBa_K568004>
 
 ### Why use an AND gate?
 We want to produce violacein when frogs are exposed to chytridium in several conditions. Therefore, AND gate was used to produce violacein when frogs were exposed to these two conditions-normal activity->blue light, exposure to chytridium->chitin detection-corresponding.The first input uses the substance produced when detecting chytridium and then the supD tRNA produced from the previous input is available when exposed to blue light, so we can produce violacein only under the conditions we want.
