@@ -51,7 +51,9 @@ This promoter suits our purpose; HSL/LuxR dimers reached around 10^1.5 molecules
 
 ## Construct selection
 In the previous model we only modeled the molecules with in the cytoplasm. However, it is necessary to consider the external environment too if we want to model the outcomes at different cell densities. In the updated model, we included a variable for the external HSL concentration. 
-First, when there is only one cell in the environment, it would be reasonable to consider the external HSL as 0. Internal HSL concentration would be always higher than external HSL, so no HSL would return back into the cell. In the model external HSL concentration is fixed to 0. The following graph shows the results.
+First, when there is only one cell in the environment, it would be reasonable to consider the external HSL as 0. Internal HSL concentration would be always higher than external HSL, so no HSL would return back into the cell. In the single cell model, external HSL concentration is fixed to 0. 
+
+
 
 세포 하나일 때와 여러 개일때 dimer 의 농도가 다른 조합은 R100 34 / I106 32 밖에 없었다. 
 
@@ -62,6 +64,7 @@ Dimers around 1e1.5
 
 ### High density culture: closed 1ml env, cells 1e-3(dark color) ~ 1e5(bright color) 
 
+When cells are in high density, it would be fairly reasonable to imagine a region homogenous in HSL concentration. So in the high density model, we considered a mL of closed volume. When cells produce HSL it will start to accumulate. We plotted graphs with different number of cells in the volume with different combinations of promoters and RBS. Among the different constructs, the only construct with promising modeling results was the construct with J23106 B0034 which showed dimers in the single cell model and dimers in the high density model.
 ![image](https://user-images.githubusercontent.com/87188354/135296285-d6b808c3-11e8-4cff-aed6-674428672736.png)
 Dimers >1e 2.5
 ![image](https://user-images.githubusercontent.com/87188354/135296306-2c1edd0a-9f53-4468-bbee-e1bfce6c6a0d.png)
