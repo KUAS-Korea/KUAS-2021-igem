@@ -22,7 +22,7 @@
 * [YoojinChoi](https://github.com/KUAS-Korea/KUAS-2021-igem/blob/main/Team/YoojinChoi.md)
 * [규태](https://github.com/KUAS-Korea/KUAS-2021-igem/blob/main/Team/규태.md)
 * [경주](https://github.com/KUAS-Korea/KUAS-2021-igem/blob/main/Team/경주.md)
-* [경민](https://github.com/KUAS-Korea/KUAS-2021-igem/blob/main/Team/경민.md)
+* [경민](https://github.com/KUAS-Korea/KUAS-2021-igem/blob/main/Team/kyeongminkim.md)
 * [규원](https://github.com/KUAS-Korea/KUAS-2021-igem/blob/main/Team/규원.md)
 * [수민](https://github.com/KUAS-Korea/KUAS-2021-igem/blob/main/Team/수민.md)
 * [JunSungPark](https://github.com/KUAS-Korea/KUAS-2021-igem/blob/main/Team/준성.md)
