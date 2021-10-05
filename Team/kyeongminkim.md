@@ -14,24 +14,20 @@
 ---
 
 ## Activity
-### 12.07.2021 ~ 16.07.2021
-* Promotion video 제작, 전체 편집
 
 ### 01.08.2021 ~
-* managing instagram
-* 인스타그램 홍보 카드뉴스 제작
+* 인스타그램 및 페이스북 홍보 카드뉴스 제작 총괄
 
-### 08.08.2021 
-* 연세대학교 팀과 Collaboration
+### 08.08.2021 ~
+* 연세대학교 iGEM 팀과의 Collaboration
+* 연세대학교 iGEM 팀과의 Partnership
 
 ### 16.08.2021 ~
-* Webinar PPT 제작
-* Webinar 발표
+* 고려대학교 내 웨비나에서 발표 및 준비 PPT 제작
 
 ### 24.09.2021 
-* 홍보물 리플렛 제작
-* KUAS 2021 로고 디자인
+* 합성생물학, 학회, 그리고 연구 주제 등에 관한 홍보물 리플렛 제작
 
 ### 02.10.2021 ~ 
-* Collaboration wiki 작성
+* Collaboration wiki
 * Human Practice wiki 
