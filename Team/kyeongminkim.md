@@ -1,5 +1,5 @@
 # Kyeongmin Kim 김경민
-<img src="./kyeongminkim.jpg" height="250px" width="200px"> ---
+<img src="./kyeongminkim.jpg" height="250px" width="200px"> 
 
 ## Bio
 * Major: Business
@@ -7,7 +7,7 @@
 
 ## Role
 * 2021 Human Practice team leader
-
+* 2021 Fund Raiser
 ---
 
 ## Activity
