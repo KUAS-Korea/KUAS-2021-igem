@@ -1,5 +1,5 @@
 # Kyeongmin Kim 김경민
-<img src="./kyeongminkim.jpg" height="200px" width="200px">---
+<img src="./kyeongminkim.jpg" height="500px" width="500px"> ---
 
 ## Bio
 * Major: Business
