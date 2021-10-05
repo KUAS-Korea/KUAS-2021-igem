@@ -12,4 +12,4 @@ The most crucial discussion topic was regarding Kill Switch, and we were so insp
 
 사진 첨부 예정
 
-The second webinar was held for previous participants from the first program and new attendees including members of Yonsei University team, our iGEM project partner. 
+The second webinar was held for previous participants from the first program and new attendees including members of Yonsei University team, our iGEM project partner. Synthetic carbon dioxide fixation and other synthetic biological concepts have been explained through video materials and pre-handouts that we have produced, and we have answered questions during this session. In the first webinar, we mostly explained the basic concepts for non-major students, but this time was a valuable moment to learn in-depth content through mutual feedback.
