@@ -3,6 +3,9 @@
 
 ## Bio
 * Major: Business
+* Catchphrase: "Nothing is as important as passion. No matter what you want to do with your life, be passionate!"
+* Greeting: It was a valuable time to grow further on my own while preparing for iGEM following last year. Looking back on our team's strong passion and efforts, I am proud to be an undergraduate synthetic biologist who contributes to society.
+* Personal Interests: Genetic engineering
 ---
 
 ## Role
