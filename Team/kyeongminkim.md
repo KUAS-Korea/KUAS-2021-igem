@@ -1,6 +1,5 @@
 # Kyeongmin Kim 김경민
-<img src=https://user-images.githubusercontent.com/87228507/135812675-786f5e16-ed81-4491-9415-87cf32786aa3.png width=200px height=200px>
----
+<img src="./kyeongminkim.jpg" height="200px" width="200px">---
 
 ## Bio
 * Major: Business
