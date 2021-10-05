@@ -31,4 +31,8 @@
 * 합성생물학, 학회, 그리고 연구 주제 등에 관한 홍보물 리플렛 제작 (고려대 내에서 곧 배부할 예정이며, 이때 합성생물학에 대한 기본적 개괄과 우리의 연구주제 또한 설명할 계획)
 
 ### 2021.10.02 ~ 
-* Human Practices 활동 정리 및 WIKI 작성 진행  
+* Human Practices 활동 정리 및 WIKI 작성 진행 
+
+### Upcoming Schedule
+* Open seminar with EVACC Foundation 
+* Open seminar with Prof. Matthew Fisher from Imperial College, UK
