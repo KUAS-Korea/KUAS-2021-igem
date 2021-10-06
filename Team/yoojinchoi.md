@@ -12,24 +12,27 @@
 ---
 
 ## Role
-* 2021 KUAS_Korea (Dry Lab team member)
->genetic circuit designer (2020, 2021)
-
->fund raiser (2021)
-
->`....`
+* 2021 KUAS_Korea :Dry Lab team member
 
 ---
 
 ## Activity
-### dd.mm.yyyy ~ 
-* designed AND gate....
-* wrote biosafety proposal...
-### dd.mm.yyyy ~
-* managing `benchling` site
->plotted AND gate
->suggested OR gate
->...
+
+30.03.2021
+Introduce iGEM and Kuas_Korea to new members
+
+10.05.2021~
+Ideation & Research
+-Food Waste Processing Research
+-Feasibility Study of Chytridiomycosis treatment
+-Investigate the Ecosystem Impact of Chytridiomycosis
+
+07.09.2021~
+Wiki & Research
+- Design: AND gate parts, Blue Light Sensors 
+- Design: Light Sensors: pDawn
+- Implementation: Current Conservation Efforts
+
 ####  
 
 
