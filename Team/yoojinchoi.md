@@ -6,7 +6,7 @@
 ## Bio
 * Major: Environmental Science & Ecological Engineering
 * Catchphrase: `"I will be held in high esteem"`
-* Greeting: "I participate in ~~iGem~~ iGEM (KUAS_Korea) following last year. Due to the Covid-19 situation in South Korea, in 2021, the project was conducted entirely online, and there were several difficulties. However, the efforts of the KUAS team members made the project a success. Thank you all.
+* Greeting: "I participate in iGEM (KUAS_Korea) following last year. Due to the Covid-19 situation in South Korea, in 2021, the project was conducted entirely online, and there were several difficulties. However, the efforts of the KUAS team members made the project a success. Thank you all.
 * Personal Interests:
 
 ---
