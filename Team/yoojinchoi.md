@@ -23,9 +23,9 @@ Introduce iGEM and Kuas_Korea to new members
 
 10.05.2021~
 Ideation & Research
--Food Waste Processing Research
--Feasibility Study of Chytridiomycosis treatment
--Investigate the Ecosystem Impact of Chytridiomycosis
+- Food Waste Processing Research
+- Feasibility Study of Chytridiomycosis treatment
+- Investigate the Ecosystem Impact of Chytridiomycosis
 
 07.09.2021~
 Wiki & Research
