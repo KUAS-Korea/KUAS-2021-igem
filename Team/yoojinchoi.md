@@ -19,6 +19,7 @@
 ## Activity
 
 30.03.2021
+
 Introduce iGEM and Kuas_Korea to new members
 
 10.05.2021~
