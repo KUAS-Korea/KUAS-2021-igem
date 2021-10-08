@@ -17,20 +17,32 @@ Our engineered microbes will be applied to the skin of the amphibians...
 
 전지구적으로 양서류의 멸종을 방지하고 생물 다양성을 유지하는 것은 전반적인 생태계 밸런스를 유지하는 데 중요하다. 그러나 최근, 인간의 영향으로 종 다양성이 감소하고 있으며 곰팡이균이 빠른 속도로 확산되어 개체수가 급감하고 있다. 우리는 양서류 conservation plan에 대해 검토하여 우리 프로젝트가 어떻게 실행되어 양서류 conservation에 영향을 끼칠 수 있을지 보았다.
 
-Harlequin toad(Atelopus) conservation action plan에서 제시한 5가지 conservation plan은 다음과 같다. 
+전지구적으로 양서류의 멸종을 방지하고 생물 다양성을 유지하는 것은 전반적인 생태계 밸런스를 유지하는 데 중요하다. 그러나 최근, 인간의 영향으로 종 다양성이 감소하고 있으며 곰팡이균이 빠른 속도로 확산되어 개체수가 급감하고 있다. 우리는 양서류 conservation plan에 대해 검토하여 우리 프로젝트가 어떻게 실행되어 양서류 conservation에 영향을 끼칠 수 있을지 보았다.
+How will our engineered microbes benefit the conservation of amphibian species across the globe? How is our approach distinguished from other approaches? We tried to answer these questions in this section. 
+First, by reviewing a comprehensive article on conservation of Atelopus species, we gained understanding of the current conservation status and conservation plans for the next couple of decades. 
+Then, we examined the results of two conventional probiotic Bd mitigation approaches to assess the potential and limitations.
+The two activities mentioned above allowed us to better envision the context in which our microbes would be used and how our microbes could potentially provide a breakthrough for the status quo. 
+1.	Current conservation efforts
+Since there are over 8000 known amphibians species, we had to focus on a specific group of amphibians. We centered our focus on Atelopus species since our initial inspiration for this project came from the decline of the Panamian golden toads(Atelopus zeteki). 
+Atelopus are a genera of toads comprised of around 100 species found throughout Central and South America. They are given the name “Harlequin toads” due to their colorful appearances. Being such a diverse group of amphibians, many species of Atelopus are microendemic; occupying an extremely small geographic range with small populations. This nature makes them especially vulnerable for threats such as chytridomycosis(1). Currently among the 94 species evaluated by the IUCN, 15% are endangered, 65% are critically endangered and 4% are declared extinct(2). Their bleak conservation status deserves more attention from the global community and coordinated conservation efforts are demanded.
 
-1. Produce baseline knowledge
-- 현존하는 개체군에 대한 과학적 정보, 보전, 그리고 관리에 대한 기반 만들기
-2. Ensure viable populations in natural habitats
-- 자연 서식지에서 개체군 유지를 위한 부정적 영향 방지 전략 개발
-3. Maintain and manage captive survival-assurance colonies
-- reproductive technologies 개발 및 지속적인 모니터링
-4. Increase visibility of Atelopus
-- 대중 인식 높이기
-5. Create mechanisms for multi-stakeholder collaboration and participation
-- 장기 보전을 위한 기술적, 재정적 협력 증대
+In the article “Harlequin Toad (Atelopus) Conservation Action Plan (2021-2041)”, the following five agendas are prioritized(1). 
+1. Produce baseline knowledge: Gathering information about population status, natural history and threats 
+2. Ensure viable populations in natural habitats: Developing strategies and protocols to ensure the viability of stable natural populations.
+3. Maintain and manage captive survival-assurance colonies: maintenance of stable captive populations, implementing reintroduction programs and monitoring efforts post-release.
+4. Increase visibility of Atelopus: Raising public awareness.
+5. Create mechanisms for multi-stakeholder collaboration and participation: Collaborating with key sectors of the private and public. 
 
-우리는 우리 프로젝트를 활용한다면 현재 양서류 보전계획을 보완하고 더욱 효과적일 수 있다고 생각한다. 양서류 보전 5대 계획 중 우리는 'Ensure viable populations in natural habitats', 'Maintain and manage captive survival-assurance colonies'에 주목했다. 두번째 목표인 'Ensure viable populations in natural habitats'는 양서류를 위협하는 병원균을 제거하는 물질을 찾아 활용하는 것이다. 우리가 고안한 대장균을 양서류 피부에 바르면 병원균을 감지하고 억제한다. 세번째 목표인 'Maintain and manage captive survival-assurance colonies(CSC)'는 개체군을 야생과 비슷한 환경을 조성하여 적응을 보조하는 사육지를 만드는 것을 세부 목표로 가지고 있다. 또한 질병 예방 프로토콜을 만드는 것을 제안한다. 적응가능한 사육지에 사는 개체군을 우리가 개발한 대장균을 발라 방생한다면 야생에서도 질병 예방에 효과적일 수 있다. 그 결과, 우리 프로젝트는 양서류 보전 계획을 보완하여, 양서류 종 다양성을 높이고 개체군 유지에 큰 도움을 줄 수 있다.
+Among these agendas, the second and the third are worth noting in detail since they are relevant to our project.
+ Action plans for the second agenda, includes “2.3.1 Evaluate the effectiveness and feasibility if commercial fungicides in mitigating Bd in Atelopus”. Specific activities for this subcategory include compiling list of fungicides for potential usage and experimenting the effectiveness of fungicides against Bd, but the article doesn’t mention how these fungicides would be used after the experimenting stage. It is unclear whether fungicides would be used only in captive breeding aquariums or would also be used in patches of land to create Bd free environments. We hope later versions of this article to clarify how the fungicides would be used. 
+Another action plan for the second agenda is “2.3.2 identify natural biological agents to control Bd in Atelopus” which includes compiling, obtaining and testing Bd inhibiting microbes. But, like the previous action plan, there is no mention on how the microbes will be used after they have been characterized for bd inhibitory activities. 
+The third agenda is mainly about captive breeding and reintroduction efforts. In action plan “3.4.2 Implement reintroduction programs for priority species when … the risks of emerging disease [are] mitigated”, notes the fact that the pathogens in the environment must be controlled before the release of captive bred amphibians. As long as the pathogens are present in their natural environments, reintroduction efforts are likely to fail. In this case, reintroduction efforts will be limited to areas that are uncontaminated of Bd or removed of Bd which are very difficult to acquire. 
+
+So far, we analyzed the action plans and found areas that requires improvement. We think that the use of our microbes could be a potential solution. If our microbes are applied on the toad’s skin prior to reintroduction, it could confer the toads some resistance against the pathogen. This will greatly expand the possible reintroduction sites; not only limited to Bd free areas but also including areas that have been taken over by Bd. 
+
+2.	Valencia, L.M. and Fonte, L.F.M. 2021. Harlequin Toad (Atelopus) Conservation Action Plan (2021-2041). Atelopus Survival Initiative, 52 pp.  
+3.	IUCN 2021. The IUCN Red List of Threatened Species. Version 2021-1. https://www.iucnredlist. org. Downloaded on 9 August 2021. 
+![image](https://user-images.githubusercontent.com/87188354/136505136-912a5eb4-6bb5-4a6e-9bc0-6836de02c12c.png)
 
 # Conventional probiotic approaches
  민규
