@@ -39,10 +39,11 @@ The third agenda is mainly about captive breeding and reintroduction efforts. In
 
 So far, we analyzed the action plans and found areas that requires improvement. We think that the use of our microbes could be a potential solution. If our microbes are applied on the toad’s skin prior to reintroduction, it could confer the toads some resistance against the pathogen. This will greatly expand the possible reintroduction sites; not only limited to Bd free areas but also including areas that have been taken over by Bd. Also, since violacein is a antifungal chemical produced from J. lividium, a microbe naturally found on the skin of amphibians, our project in line with to the later stages of action plan 2.3.2.(identification, isolation and experimentation of natural Bd resistant microbes). Lastly, the concerns for action plan 2.3.1(use of fungicides) would also be resolved since it is not necessary to use fungicides if the amphibians can survive in Bd existing environments.
 
+References:
 
-2.	Valencia, L.M. and Fonte, L.F.M. 2021. Harlequin Toad (Atelopus) Conservation Action Plan (2021-2041). Atelopus Survival Initiative, 52 pp.  
-3.	IUCN 2021. The IUCN Red List of Threatened Species. Version 2021-1. https://www.iucnredlist. org. Downloaded on 9 August 2021. 
-![image](https://user-images.githubusercontent.com/87188354/136505136-912a5eb4-6bb5-4a6e-9bc0-6836de02c12c.png)
+1.	Valencia, L.M. and Fonte, L.F.M. 2021. Harlequin Toad (Atelopus) Conservation Action Plan (2021-2041). Atelopus Survival Initiative, 52 pp.  
+2.	IUCN 2021. The IUCN Red List of Threatened Species. Version 2021-1. https://www.iucnredlist. org. Downloaded on 9 August 2021. 
+
 
 # Conventional probiotic approaches
  민규
