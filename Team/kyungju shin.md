@@ -15,3 +15,7 @@ Introduce iGEM and Kuas_Korea to new members
 연세대학교 팀과 collaboration
 02.10.2021~
 human practice wiki
+01.06.2021~
+ater igem 활동
+06.10.2021
+after igem 중간발표
