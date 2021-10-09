@@ -2,10 +2,10 @@
 
 
 ## Activity
-### dd.mm.yyyy ~ 
+### MM.DD.yyyy ~ 
 * designed AND gate....
 * wrote biosafety proposal...
-### dd.mm.yyyy ~
+### MM.DD.yyyy ~
 * managing `benchling` site
 >plotted AND gate
 >suggested OR gate
