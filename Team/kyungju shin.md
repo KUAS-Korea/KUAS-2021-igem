@@ -3,7 +3,7 @@ kyungjushin 신경주
 Bio
 Major: life science
 Catchphrase: grind hard, shine hard
-Greeting:
+Greeting: There were many difficulties due to restrictions on meeting team members online, but I was able to think a lot about synthetic biology for two years. Thank you to all the team members and I hope we can prepare hard for the rest of the year and get good results.
 Role
 2021 KUAS_KOREA: human practice member, After iGem team leader
 Activity
