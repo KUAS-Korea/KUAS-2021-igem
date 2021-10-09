@@ -19,7 +19,7 @@ We have placed leaflet throughout the school so that it can be viewed by as many
 Not only that, by placing them in the various buildings of the school, students from various fields can also read this leaflet. Students such as students who know some biology but not familiar with synthetic biology or students who are not familiar with biology can read this to learn what synthetic biology is and how it is used. 
 
 4. instagram
- We used 'instagram' as a way to promote the webinar, which was carried out to easily introduce synthetic biology to the public, or to inspire interest in KUAS team project.
+5. We used 'instagram' as a way to promote the webinar, which was carried out to easily introduce synthetic biology to the public, or to inspire interest in KUAS team project.
   On August 8, 2021, we started posting on the topic <panamian golden frogs are threatened by superfungus>, emphasizing the dangers of superfungus and the importance of protecting amphibians. Since then, we have been uploading about 3 articles every week. We communicated with the public about the theme of this year's project, such as introducing the conservation efforts of amphibians, and introducing endangered amphibians in addition to panamian golden frogs.
   As we actively announced the team project through SNS, even the public who did not know much about synthetic biology showed interest in our activities. We plan to think about and practice how to use SNS in various ways.
   ![image](https://user-images.githubusercontent.com/87192944/136651648-e6872d8e-fe57-4783-90b3-63903c1e9ddf.png)
