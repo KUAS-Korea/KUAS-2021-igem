@@ -10,6 +10,19 @@ The first webinar discussed the basic definition and actual case of synthetic bi
 
 2. Interview
 
+1) Interview with Edgardo Griffth: the Director & Founder of EVACC foundation
+
+At 8 a.m. on October 9, 2021, KUAS held an open seminar with Mr. Griffith, EVACC Foundation representative, who strives to preserve endangered amphibians. Along with KUAS members and other participants, we were able to solve questions about the endangered amphibian conservation project.
+(Interview question link: https://docs.google.com/document/d/1-VjEK8h729N80bLvgeg7G6GlP6nSM7bZaEwhhMeInKU/edit) 
+
+Mr. Griffith has been interested in biology since he was young, so he majored in microbiology and parasitology in college. While only conducting research in the laboratory, he went to the field trip in 2000 and met amphibians. Since then he completely changed the direction of the study. Thanks to his original major, he was able to better understand the pathogen related to amphibians. 
+
+EVACC initially dealt with more than 50 species of amphibians, but now it is focusing on eight species and conducting conservation activities. Among them, the two core species are Atelopus zeteki (Panamanian golden toad) and Atelopus varius (Harlequin toad). The association's ultimate goal is to preserve nature through environmental education beyond the preservation of amphibians. Through the seminar, we learned about Panama's environmental characteristics and the appearance of amphibians living there, and how EVACC was established and operated so far. 
+
+After the seminar, I was able to give a brief introduction to KUAS’s current project and receive feedback. He said that if the project was successfully completed, it would be of great help to the association, and thanked KUAS for its interest in the endangered toads.
+Through the interview, Mr.Griffith emphasized the need to protect the environment a lot, and we were able to hear how much you love amphibians and strive to preserve them, so it was a good opportunity for KUAS to learn a lot about how to protect nature and work on projects.
+
+
 3. Leaflet production that does educational role and promotion of communication channel 
 
 In order to increase interest in synthetic biology, we have created a leaflet containing the subject of KUAS, an introduction to synthetic biology and biological safety. The reason that the form of the material is leaflet is that it is small and light so people can conveniently carry it and read it, and also we can publish more and distribute it to more people.
