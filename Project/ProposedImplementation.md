@@ -49,8 +49,8 @@ References:
  민규
  
  We investigated the Conventional Probiotic Approaches to get an idea of our implamantation. In conventional probiotic approaches, the bacteria that play an important role here are Janthinobacterium lividum, which survives in aerobic environments, is soil-dwelling bacteria, and is G (-) bacteria. In addition, because it produces violacein, it has anti-fungal properties for Batrachytrium dendrobatidis, a fungi that works fatal to amphibians. Therefore, we looked at the paper that confirmed the anti-fungal effect by applying J. lividum to frog skin. The frogs that examined the anti-fangal effect were Rama muscosa and Atelopus zeteki-panamanian golden frogs.
- ![Rama muscosa](https://user-images.githubusercontent.com/87221166/136716063-a74206fc-c726-43f9-8504-4d27f55da483.png)
-![Atelopus zeteki](https://user-images.githubusercontent.com/87221166/136716064-e25cda4f-b97d-4cf9-b298-f75457446e3a.png)
+ ![Rama muscosa]<img scr="https://user-images.githubusercontent.com/87221166/136716063-a74206fc-c726-43f9-8504-4d27f55da483.png" width="100" height="100">
+![Atelopus zeteki]<img scr="https://user-images.githubusercontent.com/87221166/136716064-e25cda4f-b97d-4cf9-b298-f75457446e3a.png" width="100" height="100">
 What's interesting here is that the anti-fungal effect of J. lividum was different when J. lividum was treated for each frog species.
 R. muscosa obtained the resistance of Bd through J. lividum treatment, but A. zeteki did not obtain the resistance of Bd.
 ![R.muscoosa result](https://user-images.githubusercontent.com/87221166/136716702-44924cce-0872-4926-b117-8a978cb96ae7.png)
