@@ -47,8 +47,10 @@ References:
 
 # Conventional probiotic approaches
  민규
- We investigated the Conventional Probiotic Approaches to get an idea of our implamantation.
-In conventional probiotic approaches, the bacteria that play an important role here are Janthinobacterium lividum, which survives in aerobic environments, is soil-dwelling bacteria, and is G (-) bacteria.
+ 
+ We investigated the Conventional Probiotic Approaches to get an idea of our implamantation. In conventional probiotic approaches, the bacteria that play an important role here are Janthinobacterium lividum, which survives in aerobic environments, is soil-dwelling bacteria, and is G (-) bacteria. In addition, because it produces violacein, it has anti-fungal properties for Batrachytrium dendrobatidis, a fungi that works fatal to amphibians. Therefore, we looked at the paper that confirmed the anti-fungal effect by applying J. lividum to frog skin. The frogs that examined the anti-fangal effect were Rama muscosa and Atelopus zeteki-panamanian golden frogs.
+ ![Rama muscosa](https://user-images.githubusercontent.com/87221166/136716063-a74206fc-c726-43f9-8504-4d27f55da483.png)
+![Atelopus zeteki](https://user-images.githubusercontent.com/87221166/136716064-e25cda4f-b97d-4cf9-b298-f75457446e3a.png)
 
  [Skin_microbes_on_frogs_prevent_morbidity.pdf](https://github.com/KUAS-Korea/KUAS-2021-igem/files/7275547/Skin_microbes_on_frogs_prevent_morbidity.pdf)
 [Towards_a_Better_Understanding_of_the_Use_of_Probiotics_for_Preventing_Chytridomycosis_in_Panamian_Golden_frogs.pdf](https://github.com/KUAS-Korea/KUAS-2021-igem/files/7275548/Towards_a_Better_Understanding_of_the_Use_of_Probiotics_for_Preventing_Chytridomycosis_in_Panamian_Golden_frogs.pdf)
