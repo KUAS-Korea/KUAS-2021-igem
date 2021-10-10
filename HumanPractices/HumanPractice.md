@@ -10,7 +10,7 @@ The first webinar discussed the basic definition and actual case of synthetic bi
 
 2. Interview
 
-1) Interview with Edgardo Griffth: the Director & Founder of EVACC foundation
+A. Interview with Edgardo Griffth: the Director & Founder of EVACC foundation
 
 At 8 a.m. on October 9, 2021, KUAS held an open seminar with Mr. Griffith, EVACC Foundation representative, who strives to preserve endangered amphibians. Along with KUAS members and other participants, we were able to solve questions about the endangered amphibian conservation project.
 (Interview question link: https://docs.google.com/document/d/1-VjEK8h729N80bLvgeg7G6GlP6nSM7bZaEwhhMeInKU/edit) 
