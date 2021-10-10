@@ -22,6 +22,7 @@ EVACC initially dealt with more than 50 species of amphibians, but now it is foc
 After the seminar, I was able to give a brief introduction to KUAS’s current project and receive feedback. He said that if the project was successfully completed, it would be of great help to the association, and thanked KUAS for its interest in the endangered toads.
 Through the interview, Mr.Griffith emphasized the need to protect the environment a lot, and we were able to hear how much you love amphibians and strive to preserve them, so it was a good opportunity for KUAS to learn a lot about how to protect nature and work on projects.
 
+( 사진 추가 예정입니다 )
 
 3. Leaflet production that does educational role and promotion of communication channel 
 
