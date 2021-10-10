@@ -47,6 +47,9 @@ References:
 
 # Conventional probiotic approaches
  민규
+ We investigated the Conventional Probiotic Approaches to get an idea of our implamantation.
+In conventional probiotic approaches, the bacteria that play an important role here are Janthinobacterium lividum, which survives in aerobic environments, is soil-dwelling bacteria, and is G (-) bacteria.
+
  [Skin_microbes_on_frogs_prevent_morbidity.pdf](https://github.com/KUAS-Korea/KUAS-2021-igem/files/7275547/Skin_microbes_on_frogs_prevent_morbidity.pdf)
 [Towards_a_Better_Understanding_of_the_Use_of_Probiotics_for_Preventing_Chytridomycosis_in_Panamian_Golden_frogs.pdf](https://github.com/KUAS-Korea/KUAS-2021-igem/files/7275548/Towards_a_Better_Understanding_of_the_Use_of_Probiotics_for_Preventing_Chytridomycosis_in_Panamian_Golden_frogs.pdf)
 
