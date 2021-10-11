@@ -27,7 +27,7 @@ We have discovered various light sensing systems from the distribution kits and 
 ## 1.2 The AND Gate
 ### What is an AND gate?
 
-The AND gate gives a high output only if both the inputs are high and represented as A·B or AB. Therefore, using AND gate, input A and B are set to blue light sensor and cell density. And if both inputs exceed the threshold, the parts are activated.(10)
+The AND gate gives a high output only if both the inputs are high and represented as A·B or AB. Therefore, using AND gate, input A and B are set to blue light sensor and cell density. And if both inputs exceed the threshold, the parts are activated(10).
 * ![2 input AND gate](https://user-images.githubusercontent.com/87371591/135795677-a9edb71f-e5a8-43c2-93ed-555617c13940.png)
 <2 input AND gate>
 * ![AND gate diagram](https://user-images.githubusercontent.com/87371591/135795738-572f63b3-1c5f-4e1f-b521-5c874bb514aa.png)
@@ -42,28 +42,28 @@ AND gate diagram
 We want to produce violacein when frogs are exposed to chytridium in several conditions. Therefore, AND gate was used to produce violacein when frogs were exposed to these two conditions-normal activity->blue light, exposure to chytridium->chitin detection-corresponding.The first input uses the substance produced when detecting chytridium and then the supD tRNA produced from the previous input is available when exposed to blue light, so we can produce violacein only under the conditions we want.
 
 ### T7 polymerase AND gate (BBa_K568004)
-We chose the promoter that is regulated by the YcgF/E system as blue light sensor. The domains YcgE and YcgF are endogenously present in Escherichia coli. The domains are thought to regulate the biofilm formation when E.coli is exposed in an aquatic environment. Blue light induces the dimerization of YcgF that then directly bind to the repressor YcgE and releases the repressor from the operator. The expression of YcgE and YcgF and therefore as well the expression of the controlled gene is increased at low temperatures.(11) (위키에 이 부분 각주 달아서 따온거 밝히기)->이거 문장 다듬어야합니다 따온부분임,
+We chose the promoter that is regulated by the YcgF/E system as blue light sensor. The domains YcgE and YcgF are endogenously present in Escherichia coli. The domains are thought to regulate the biofilm formation when E.coli is exposed in an aquatic environment. Blue light induces the dimerization of YcgF that then directly bind to the repressor YcgE and releases the repressor from the operator. The expression of YcgE and YcgF and therefore as well the expression of the controlled gene is increased at low temperature(11). (위키에 이 부분 각주 달아서 따온거 밝히기)->이거 문장 다듬어야합니다 따온부분임,
 The AND gate (BBa_K568004) uses the blue light sensor as a promoter and then transcribe the T7ptag. Since T7ptag is translation only through supD tRNA, we can make AND gate work through blue light and input we set if designed to be expressed using T7 polymerase through the desired input.
 However, the size of the parts is too large, especially if combined with the violacein genes, the expected size would be 15 kb, which would not be suitable for transform, so we looked for another way. 
 
 ### Split vio operon AND gate
 
 ### References
-10 http://parts.igem.org/Part:BBa_K568004
-11 http://2011.igem.org/Team:TU_Munich/project/introduction
+10. http://parts.igem.org/Part:BBa_K568004
+11. http://2011.igem.org/Team:TU_Munich/project/introduction
 
 ## 1.2 The light sensors
 ## LovTAP 
-LovTAP mean LOV and tryptophan-activated protein. LovTAP consists of a LOV (light-oxygen-voltage) domain that bind a flavin-mononucleotide(FMN) of Avena sativa phototropin1 (AsLOV2) that senses blue light and trpR-DNA binding domain of the transcription factor trp repressor.(1)
+LovTAP mean LOV and tryptophan-activated protein. LovTAP consists of a LOV (light-oxygen-voltage) domain that bind a flavin-mononucleotide(FMN) of Avena sativa phototropin1 (AsLOV2) that senses blue light and trpR-DNA binding domain of the transcription factor trp repressor(1).
 
 The operation of the LovTAP is as follows.
-In the dark DNA-dissociated state, the shared helix contacts the LOV domain, populating an inactive conformation of the TrpR domain. Photoexcitation disrupts contacts between the shared helix and the LOV domain, populating an active conformation of the TrpR domain. LovTAP binds DNA. The LOV domains return to the dark state. LovTAP dissociates from the DNA, contacts between the shared helix and the LOV domain are restored, and the system returns to the initial state.(2)
+In the dark DNA-dissociated state, the shared helix contacts the LOV domain, populating an inactive conformation of the TrpR domain. Photoexcitation disrupts contacts between the shared helix and the LOV domain, populating an active conformation of the TrpR domain. LovTAP binds DNA. The LOV domains return to the dark state. LovTAP dissociates from the DNA, contacts between the shared helix and the LOV domain are restored, and the system returns to the initial state(2).
 
 ## pDawn
-We used the plasmid pDawn, which uses a blue light photoreceptor, to allow the expression of light-inducing genes when bacteria are exposed to light. Plasmid pDawn was created by inserting a gene-inversion cassette into pDusk and can be compared through the figure below. Insertion of the λ phage repressor cI and the λ promoter pR in pDawn inverts signal polarity and renders gene expression light activated. YF1 has a blue light sensor domain, and in the absence of light, YF1 phosphorylates FixJ which activcates pFixK2. pDawn has a relatively higher dynamic range and lower background expression, and does not require additional components such as genes that encode enzymes for chromophore synthesis or incorporation.(3) And it can be adjusted by time and light intensity changes, making it suitable for automation, optimizing yield and purity. So we decided that pDawn was a good fit for this project.
+We used the plasmid pDawn, which uses a blue light photoreceptor, to allow the expression of light-inducing genes when bacteria are exposed to light. Plasmid pDawn was created by inserting a gene-inversion cassette into pDusk and can be compared through the figure below. Insertion of the λ phage repressor cI and the λ promoter pR in pDawn inverts signal polarity and renders gene expression light activated. YF1 has a blue light sensor domain, and in the absence of light, YF1 phosphorylates FixJ which activcates pFixK2. pDawn has a relatively higher dynamic range and lower background expression, and does not require additional components such as genes that encode enzymes for chromophore synthesis or incorporation(3). And it can be adjusted by time and light intensity changes, making it suitable for automation, optimizing yield and purity. So we decided that pDawn was a good fit for this project.
 (모식도 사진 첨부)
 ![pDawn1](https://user-images.githubusercontent.com/87215187/135804789-08d66dc6-3d5a-494b-b6b5-2107e0fe34bc.png)
-pDawn for light-activated gene expression in E. coli (3)
+pDawn for light-activated gene expression in E. coli(3).
 
 ### References
 1. http://parts.igem.org/Part:BBa_K360021
@@ -129,13 +129,13 @@ In 2008 iGEM, the Warsaw team synthesized the BBa_K103006 biobrick part, which c
 For pathogen detection, receptor mediated detection was necessary since it was unclear whether the pathogen associated molecules would diffuse into the cell.
 In search for a suitable system, we looked at previous igem projects.  
 We found a few previous projects that included a receptor mediated detection system.
-Various receptor based systems were tested by previous igem teams, but the one that was the most suitable overall for our project was the CadC-pCadBA used by team Uppsala (5). 
-Their project was based on a previous research (6) which engineered the wild type CadC receptor by fusing caffein-binding single domain antibodies(VHHs) at the periplasmic portion. Upon ligand binding, the periplasmic domain(C-terminus) dimerizes and brings together the split DNA binding domains(DBDs) in the cytosolic side(N-terminus) to express genes under the pCadBA promoter.
+Various receptor based systems were tested by previous igem teams, but the one that was the most suitable overall for our project was the CadC-pCadBA used by team Uppsala(5). 
+Their project was based on a previous research(6) which engineered the wild type CadC receptor by fusing caffein-binding single domain antibodies(VHHs) at the periplasmic portion. Upon ligand binding, the periplasmic domain(C-terminus) dimerizes and brings together the split DNA binding domains(DBDs) in the cytosolic side(N-terminus) to express genes under the pCadBA promoter.
 This research further improved the design by testing different version of linkers and found that the removal of the juxtamembrane linker increased the fold change of the reporter gene expression. 
 
 ## CERK1, LYK5:
 To use the CadC system, we needed to find domain that dimerizes upon the binding of the pathogen specific ligand. 
-This property was found in the chitin binding receptor CERK1 of A. thaliana. This Not only the whole receptor, but also just the ectodomain(ECD) showed dimerizing properties in pull down and western blotting experiments when treated with chitin. No dimerization was observed when peptidoglycan was treated. Crystallization data revealed the presence of 3 LysM domains in atCERK1-ECD. It also enabled the identification of key residues of atCERK1 interacting with NAG of chitin. Structure of ECD can be viewed at PDB (7)
+This property was found in the chitin binding receptor CERK1 of A. thaliana. This Not only the whole receptor, but also just the ectodomain(ECD) showed dimerizing properties in pull down and western blotting experiments when treated with chitin. No dimerization was observed when peptidoglycan was treated. Crystallization data revealed the presence of 3 LysM domains in atCERK1-ECD. It also enabled the identification of key residues of atCERK1 interacting with NAG of chitin. Structure of ECD can be viewed at PDB(7).
 This domain will be fused at the periplasmic side of CadC. 
 
 Also, a coreceptor LYK5 was shown to facilitate the dimerization. LYK5 showed even higher binding affinity towards chitin and LYK-CERK association in the presence of chitin was stronger than the dimerizing association of CERK1 monomers. Dimerization of CERK1 was absent in LYK5 mutant protoplasts (8). 
@@ -145,7 +145,7 @@ The dimerization of LYK5 is independent of chitin or CERK1 presence. Therefore, 
 With the information gathered we decided to fuse CERK1-ECD at the periplasmic side of the CadC protein. The chitin of the cell wall of the fungal pathogen Bd will trigger the dimerization of the CERK1-ECD and the subsequent dimerization of intracellular DBD and the activation of pCadBA. 
 We also plan to express LYK5 fused CadCs to facilitate CERK1 dimerization. However, the dimerization of LYK5 is independent of chitin or CERK1 presence, so LYK5 domains will be fused to CadC that is missing a DBD.
 
-One of the concerns during the design process was that while the CERK1-ECD is a N terminus domain, it had to be attached to the C terminus of CadC. However, we observed that the N & C terminus of CERK1-ECD is located close to each other (9). We thought that since the two termini are closely located, it wouldn’t make much of a difference whether the connection occurs in one or another. Though our intuition needs validation, we decided to proceed with the design. We also included a flexible GS linker between CERK-ECD and CadC so that CERK1-ECD is allowed more freedom in orientation while binding to chitin. 
+One of the concerns during the design process was that while the CERK1-ECD is a N terminus domain, it had to be attached to the C terminus of CadC. However, we observed that the N & C terminus of CERK1-ECD is located close to each other(9). We thought that since the two termini are closely located, it wouldn’t make much of a difference whether the connection occurs in one or another. Though our intuition needs validation, we decided to proceed with the design. We also included a flexible GS linker between CERK-ECD and CadC so that CERK1-ECD is allowed more freedom in orientation while binding to chitin. 
 
 ![image](https://user-images.githubusercontent.com/87194158/135799179-2a4d3532-574f-48a5-afe2-fe57f3e1e85a.png)
 
