@@ -104,6 +104,7 @@ Stratum germinativum is the innermost layer of the epidermis, composed of mitoti
 <br/>The outermost mucosal layer consists of mucus, and mucus contains microbial-community factors such as antibodies, AMPs, and lysozymes.
 
 reference :
+
 (1)Joseph F.A. Varga, Maxwell P. Bui-Marinos et al., “Frog Skin Innate Immune Defences: Sensing and Surviving Pathogens”, Front. Immunol., 2019
 
 
@@ -126,7 +127,11 @@ Exposure to Bd occurs when the defense mechanisms of the epidermis (AMP, bacteri
 Bd has an endobiotic cycle and an epibiotic cycle.(1)(2) In the endobiotic cycle, fungus enters the skin and causes serious problems. When Bd contacts with the amphibian epidermis, the zoospore creates a germ tube that penetrates the host cell membrane. The distal end of the germinal tube is enlarged and the chytrid talus and sporangium are created in the cell. Repeat this process, digging into the deeper layers of the amphibian's epidermis. After full penetration, immature sporangia is transported to the skin surface. When the sporangia matures, the discharge tube releases the mature zoospore to the outside, causing new infections. (3)(4)
 
 reference : 
+
 (1) Génesis L. Romero-Zambrano, Stalin A. Bermúdez-Puga et al., “Amphibian chytridiomycosis, a lethal pandemic disease caused by the killer fungus Batrachochytrium dendrobatidis: New approaches to host defense mechanisms and techniques for detection and monitoring”, Bionatura, 2021
+
 (2) Van Rooij, P., Martel, A., Haesebrouck, F. et al., “Amphibian chytridiomycosis: a review with focus on fungus-host interactions”, Vet Res 46, 137 (2015), https://doi.org/10.1186/s13567-015-0266-0
+
 (3) Lee Berger, Rick Speare et al., “Chytridiomycosis causes amphibian mortality associated with population declines in the rain forests of Australia and Central America”, Proceedings of the National Academy of Sciences, 1998
+
 (4) Laura F. Grogan, Jacques Robert et al., “Review of the Amphibian Immune Response to Chytridiomycosis, and Future Directions”, Front. Immunol., 2018
