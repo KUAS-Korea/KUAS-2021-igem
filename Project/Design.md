@@ -171,6 +171,6 @@ LuxI produces acyl-homoserine lactone (AHL). AHL can pass through the cell membr
 
 For continuous expression of LuxI and LuxR, we tried to use promoters J23100 and RBS B0034. However, when J23100 and B0034 were used for LuxI and LuxR, the expression level of LuxR/HSL dimer was too high when there was one cell, so another combination of promoter and RBS was found through experiments. We decided to use J23100, B0034 for LuxR and J23106, B0034 for LuxI. More information on our *[Dry Lab](https://github.com/KUAS-Korea/KUAS-2021-igem/blob/main/Lab/DryLab.md) page.
 
-## references
+## References
 - http://parts.igem.org/Part:BBa_K2292002
 - http://parts.igem.org/Lux
