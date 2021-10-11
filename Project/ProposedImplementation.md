@@ -46,7 +46,6 @@ References:
 
 
 # Conventional probiotic approaches
- 민규
  
  We investigated the Conventional Probiotic Approaches to get an idea of our implamantation. In conventional probiotic approaches, the bacteria that play an important role here are Janthinobacterium lividum, which survives in aerobic environments, is soil-dwelling bacteria, and is G (-) bacteria. In addition, because it produces violacein, it has anti-fungal properties for Batrachytrium dendrobatidis, a fungi that works fatal to amphibians. Therefore, we looked at the paper that confirmed the anti-fungal effect by applying J. lividum to frog skin. The frogs that examined the anti-fangal effect were Rama muscosa and Atelopus zeteki-panamanian golden frogs.
 ![Rama muscosa](https://user-images.githubusercontent.com/87221166/136716063-a74206fc-c726-43f9-8504-4d27f55da483.png)
