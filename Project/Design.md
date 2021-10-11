@@ -3,7 +3,7 @@
 ## 1.1 Vio Genes
 
  ## Violacein
- The bisindole alkaloid violacein is a natural bluepurple pigment isolated from Gram-negative bacteria. The violacein is an indole derived violet pigmented compound and a promising agent with following biological activities: antibacterial antifungal, antiprotozoan, and anticancer. These biological and pharmacological activities of violacein have made it attractive for biotechnology research. Increasing concentrations of violacein and indole-3-carbox- aldehyde reduced B. dendrobatidis growth(1). 
+ The bisindole alkaloid violacein is a natural bluepurple pigment isolated from Gram-negative bacteria. The violacein is an indole derived violet pigmented compound and a promising agent with following biological activities: antibacterial antifungal, antiprotozoan, and anticancer. These biological and pharmacological activities of violacein have made it attractive for biotechnology research. It's known that increasing concentrations of violacein reduced Batrachochytrium dendrobatidis growth(1). 
 
  Several terrestrial and marine gram-negative bacteria were known to produce violacein including Chromobacterium violaceum, Janthionobacterium lividum and 7 other genus(1). Violacein is formed by enzymatic condensation of two tryptophan molecules, requiring the action of five proteins(2). The genes required for its production, vioABCDE, and the regulatory mechanisms employed have been studied within a small number of violacein-producing strains. In Massilia genus, three strains have been reported as producing violacein and recently, the complete genome of Massilia sp. strain NR 4-1 as well as five key enzymes of the violacein biosynthesis has reported(3).
  
