@@ -22,4 +22,3 @@ Tryptophol is synthesized from the amino acid tryptophan through the Ehrlich pat
 ## Modeling guide
 
 ![제목_없는_아트워크](https://user-images.githubusercontent.com/87215187/136744380-7e28d5a6-f29f-4bdb-b26a-6bda60b9b0dd.jpeg)
-
