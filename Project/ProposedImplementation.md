@@ -63,17 +63,27 @@ R. muscosa obtained the resistance of Bd through J. lividum treatment, but A. ze
 ![R.muscoosa result](https://user-images.githubusercontent.com/87221166/136716702-44924cce-0872-4926-b117-8a978cb96ae7.png)
 
 Figuer 3. The results of R. muscosa 
+
 (a) Survival of frog: (b) Portional change in mass: (c)Log no. zoospore equivalents: (d) concentration of Violacein(nM)
 
 ![Atelopus zeteki](https://user-images.githubusercontent.com/87221166/136716715-ca0dbc49-741c-438f-aec7-9b45a9d75db5.png)
 
 Figure 4. The results of A. zeteki 
+
 (a) Survival of frog: (b) Cell no.(Bd, Bacteria) on the skins of frogs (c)Bd infection intensity
 
 Each result shows a significant change after treatment in the case of R. muscosa, but A. zeteki shows only a slight decrease in Bd, and eventually Frog dies.
+
 There are main reasons for the difference between R. musosa and A. zeteki. 
+
 The first is that A. zeteki's skin is not suitable for J. lividum to survive. A. zeteki secretes several skin toxins, which are anti-bacterial materials and can affect the growth of bacteria. 
+
 The second is Different evolutionary histories of the host and symbiont. R. muscosa and J. lividum have long evolutionary histories of the host and symbiont to find symbiosis with each other in nature, but A. zeteki and J. lividum have not found such symbiosis. What we need to supplement through the previous problem is that our strain are also bacteria, so we need to have resistance to skin toxins, and we need to devise a way to combine bacteria through the common part of frog skin to prevent differences in behavior according to evolutionary history of the host and symbol.
+Reference:
+
+1.
+
+2.
 
  [Skin_microbes_on_frogs_prevent_morbidity.pdf](https://github.com/KUAS-Korea/KUAS-2021-igem/files/7275547/Skin_microbes_on_frogs_prevent_morbidity.pdf)
 [Towards_a_Better_Understanding_of_the_Use_of_Probiotics_for_Preventing_Chytridomycosis_in_Panamian_Golden_frogs.pdf](https://github.com/KUAS-Korea/KUAS-2021-igem/files/7275548/Towards_a_Better_Understanding_of_the_Use_of_Probiotics_for_Preventing_Chytridomycosis_in_Panamian_Golden_frogs.pdf)
