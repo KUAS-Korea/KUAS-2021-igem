@@ -93,7 +93,7 @@ Reference:
 # Frog skin composition 
 Chytridiomycosis is a disease of amphibians caused by the chytrid fungus Batrachochytrium dendrobatidis. Batrachochytrium dendrobatidis is transmitted through the skin of amphibians and has a critical effect on survival, causing rapid population decline. The skin of amphibians is very active. They can regulate respiration, moisture, and electrolytes well through the skin. It is not yet known exactly how the fungus kills amphibians, but it is known to interfere with the normal functioning of the amphibians' skin, causing death.
 
-Our team plans to study focuses on the frogs of amphibians. Frog skin consists of epidermal and dermal layers. Each layer is mainly composed of epithelial and fibroblasts cells. The epidermal layer consists of stratum germinativum, stratum spinosum, stratum granulosum, and stratum corneum, and the mucosal layer exists at the outermost part of the epidermis.
+Our team plans to study focuses on the frogs of amphibians. Frog skin consists of epidermal and dermal layers. Each layer is mainly composed of epithelial and fibroblasts cells. The epidermal layer consists of stratum germinativum, stratum spinosum, stratum granulosum, and stratum corneum, and the mucosal layer exists at the outermost part of the epidermis.(1)
 
 ![image](https://www.frontiersin.org/files/Articles/433806/fimmu-09-03128-HTML/image_m/fimmu-09-03128-g001.jpg)
 
@@ -102,6 +102,10 @@ Stratum germinativum is the innermost layer of the epidermis, composed of mitoti
 <br/>Stratum granulosum consists of granular keratinocytes migrated from the stratum spinosum. These keratinocytes contain keratohyalin granules that aid in the binding of keratin filaments and also have lamellar bodies filled with lipids. These keratinocytes secrete them as they migrate from stratum spinosum to the upper layers of the epidermis. At the same time, when they reach the stratum corneum, they lose their nuclei and organelles and become corneocytes.
 <br/>The stratum corneum is the outermost layer of the epidermis, which is composed of keratinocytes and is responsible for most of the skin's protective barrier function. The stratum corneum has 10 to 30 corneocytes layers and has a thickness of 10 to 40 μm. Keratinocytes are filled with keratin protein to become corneocytes, and corneocytes hold each other through corneodesmosomes.
 <br/>The outermost mucosal layer consists of mucus, and mucus contains microbial-community factors such as antibodies, AMPs, and lysozymes.
+
+reference :
+(1)Joseph F.A. Varga, Maxwell P. Bui-Marinos et al., “Frog Skin Innate Immune Defences: Sensing and Surviving Pathogens”, Front. Immunol., 2019
+
 
 # The phylogeny of mucin of different species
 
@@ -119,4 +123,10 @@ Exposure to Bd occurs when the defense mechanisms of the epidermis (AMP, bacteri
 
 ![image](http://revistabionatura.com/images/2021.06.01.28-Figure1.png)
 
-Bd has an endobiotic cycle and an epibiotic cycle. In the endobiotic cycle, fungus enters the skin and causes serious problems. When Bd contacts with the amphibian epidermis, the zoospore creates a germ tube that penetrates the host cell membrane. The distal end of the germinal tube is enlarged and the chytrid talus and sporangium are created in the cell. Repeat this process, digging into the deeper layers of the amphibian's epidermis. After full penetration, immature sporangia is transported to the skin surface. When the sporangia matures, the discharge tube releases the mature zoospore to the outside, causing new infections.
+Bd has an endobiotic cycle and an epibiotic cycle.(1)(2) In the endobiotic cycle, fungus enters the skin and causes serious problems. When Bd contacts with the amphibian epidermis, the zoospore creates a germ tube that penetrates the host cell membrane. The distal end of the germinal tube is enlarged and the chytrid talus and sporangium are created in the cell. Repeat this process, digging into the deeper layers of the amphibian's epidermis. After full penetration, immature sporangia is transported to the skin surface. When the sporangia matures, the discharge tube releases the mature zoospore to the outside, causing new infections. (3)(4)
+
+reference : 
+(1) Génesis L. Romero-Zambrano, Stalin A. Bermúdez-Puga et al., “Amphibian chytridiomycosis, a lethal pandemic disease caused by the killer fungus Batrachochytrium dendrobatidis: New approaches to host defense mechanisms and techniques for detection and monitoring”, Bionatura, 2021
+(2) Van Rooij, P., Martel, A., Haesebrouck, F. et al., “Amphibian chytridiomycosis: a review with focus on fungus-host interactions”, Vet Res 46, 137 (2015), https://doi.org/10.1186/s13567-015-0266-0
+(3) Lee Berger, Rick Speare et al., “Chytridiomycosis causes amphibian mortality associated with population declines in the rain forests of Australia and Central America”, Proceedings of the National Academy of Sciences, 1998
+(4) Laura F. Grogan, Jacques Robert et al., “Review of the Amphibian Immune Response to Chytridiomycosis, and Future Directions”, Front. Immunol., 2018
