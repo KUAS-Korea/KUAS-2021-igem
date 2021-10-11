@@ -3,24 +3,24 @@
 ## 1.1 Vio Genes
 
  ## Violacein
- The bisindole alkaloid violacein is a natural bluepurple pigment isolated from Gram-negative bacteria. The violacein is an indole derived violet pigmented compound and a promising agent with following biological activities: antibacterial antifungal, antiprotozoan, and anticancer. These biological and pharmacological activities of violacein have made it attractive for biotechnology research. Several terrestrial and marine gram-negative bacteria were known to produce violacein including Chromobacterium violaceum, Janthionobacterium lividum and 7 other genus. Violacein is formed by enzymatic condensation of two tryptophan molecules, requiring the action of five proteins. The genes required for its production, vioABCDE, and the regulatory mechanisms employed have been studied within a small number of violacein-producing strains. In Massilia genus, three strains have been reported as producing violacein and recently, the complete genome of Massilia sp. strain NR 4-1 as well as five key enzymes of the violacein biosynthesis has reported.
+ The bisindole alkaloid violacein is a natural bluepurple pigment isolated from Gram-negative bacteria. The violacein is an indole derived violet pigmented compound and a promising agent with following biological activities: antibacterial antifungal, antiprotozoan, and anticancer. These biological and pharmacological activities of violacein have made it attractive for biotechnology research. Several terrestrial and marine gram-negative bacteria were known to produce violacein including Chromobacterium violaceum, Janthionobacterium lividum and 7 other genus(1). Violacein is formed by enzymatic condensation of two tryptophan molecules, requiring the action of five proteins(2). The genes required for its production, vioABCDE, and the regulatory mechanisms employed have been studied within a small number of violacein-producing strains. In Massilia genus, three strains have been reported as producing violacein and recently, the complete genome of Massilia sp. strain NR 4-1 as well as five key enzymes of the violacein biosynthesis has reported(3).
  
- Recent study sought to engineer E. coli and its metabolic pathways to improve the violacein yields. For this, the authors overexpressed the genes related to tryptophan production and knocked out several genes and pathways which would detract the carbon flux away from this amino acid. The engineered E. coli strain, TRP11, produces about 20 𝜇mol tryptophan per gram DCW (gDCW). By comparison, the control wild-type strain only produced about 0.3 𝜇mol tryptophan/gDCW, representing an increase in the tryptophan concentration of more the 60-fold. They next introduced the vioD gene into the chromosome of this strain and a plasmid expressing the vioABCE genes. Performing fed batch fermentations over a 12-day period with this strain, which they designated as Vio-4, they were able to generate 710 mg/L violacein at more than 99% purity, demonstrating that E. coli can be used to produce high level concentrations of this bisindole specifically.
+ Recent study sought to engineer E. coli and its metabolic pathways to improve the violacein yields. For this, the authors overexpressed the genes related to tryptophan production and knocked out several genes and pathways which would detract the carbon flux away from this amino acid(4). The engineered E. coli strain, TRP11, produces about 20 𝜇mol tryptophan per gram DCW (gDCW). By comparison, the control wild-type strain only produced about 0.3 𝜇mol tryptophan/gDCW, representing an increase in the tryptophan concentration of more the 60-fold. They next introduced the vioD gene into the chromosome of this strain and a plasmid expressing the vioABCE genes(5). Performing fed batch fermentations over a 12-day period with this strain, which they designated as Vio-4, they were able to generate 710 mg/L violacein at more than 99% purity, demonstrating that E. coli can be used to produce high level concentrations of this bisindole specifically(6).
 
 
-## Reference
+### Reference
 
-* Brucker, Robert M., et al. “Amphibian Chemical Defense: Antifungal Metabolites of the Microsymbiont Janthinobacterium Lividum on the Salamander Plethodon Cinereus.” Journal of Chemical Ecology, vol. 34, no. 11, 2008, pp. 1422–1429., doi:10.1007/s10886-008-9555-7. 
+1. Brucker, Robert M., et al. “Amphibian Chemical Defense: Antifungal Metabolites of the Microsymbiont Janthinobacterium Lividum on the Salamander Plethodon Cinereus.” Journal of Chemical Ecology, vol. 34, no. 11, 2008, pp. 1422–1429., doi:10.1007/s10886-008-9555-7. 
 
-* Verbrugghe, Elin, et al. “Growth Regulation in Amphibian Pathogenic CHYTRID Fungi by the Quorum Sensing Metabolite Tryptophol.” Frontiers in Microbiology, vol. 9, 2019, doi:10.3389/fmicb.2018.03277. 
+2. Verbrugghe, Elin, et al. “Growth Regulation in Amphibian Pathogenic CHYTRID Fungi by the Quorum Sensing Metabolite Tryptophol.” Frontiers in Microbiology, vol. 9, 2019, doi:10.3389/fmicb.2018.03277. 
 
-* Myeong, Nu Ri, et al. (2016). "Complete genome sequence of antibiotic and anticancer agent violacein producing Massilia sp. Strain NR 4-1". Journal of Biotechnology. 223: 36–7. doi:10.1016/j.jbiotec.2016.02.027
+3. Myeong, Nu Ri, et al. (2016). "Complete genome sequence of antibiotic and anticancer agent violacein producing Massilia sp. Strain NR 4-1". Journal of Biotechnology. 223: 36–7. doi:10.1016/j.jbiotec.2016.02.027
 
-* Choi, S.Y., et al. (2015). Violacein: properties andproduction of a versatile bacterial pigment. BioMed Res. Int. 2015, 465056.
+4. Choi, S.Y., et al. (2015). Violacein: properties and production of a versatile bacterial pigment. BioMed Res. Int. 2015, 465056.
 
-* Haisheng Wang, et al. (2012). Biosynthesis and characterization of violacein, deoxyviolacein and oxyviolacein in heterologous host, and their antimicrobial activities
+5. Haisheng Wang, et al. (2012). Biosynthesis and characterization of violacein, deoxyviolacein and oxyviolacein in heterologous host, and their antimicrobial activities
 
-* Seong Yeol Choi, et al. (2015).  Violacein: Properties and Production of a Versatile Bacterial Pigment, Hindawi
+6. Seong Yeol Choi, et al. (2015).  Violacein: Properties and Production of a Versatile Bacterial Pigment, Hindawi
 
 We have discovered various light sensing systems from the distribution kits and the registy. The motive for including the light sensors in our system can be seen at the [description page](). Some of the designs we considered are as below.
 
@@ -157,8 +157,7 @@ One of the concerns during the design process was that while the CERK1-ECD is a 
 7. Liu T, Liu Z, Song C, Hu Y, Han Z, She J, Fan F, Wang J, Jin C, Chang J, Zhou JM, Chai J. Chitin-induced dimerization activates a plant immune receptor. Science. 2012 Jun 1;336(6085):1160-4. doi: 10.1126/science.1218867. PMID: 22654057.
 
 8. Cao Y, Liang Y, Tanaka K, Nguyen CT, Jedrzejczak RP, Joachimiak A, Stacey G. The kinase LYK5 is a major chitin receptor in Arabidopsis and forms a chitin-induced complex with related kinase CERK1. Elife. 2014 Oct 23;3:e03766. doi: 10.7554/eLife.03766. PMID: 25340959; PMCID: PMC4356144.
-
-9. Schlundt, A., Buchner, S., Janowski, R., Heydenreich, T., Heermann, R., Lassak, J., Geerlof, A., Stehle, R., Niessing, D., Jung, K., & Sattler, M. (2017). Structure-function analysis of the DNA-binding domain of a transmembrane transcriptional activator. Scientific Reports, 7(1). https://doi.org/10.1038/s41598-017-01031-9
+9.
 
 
 # 4. Kill switch
