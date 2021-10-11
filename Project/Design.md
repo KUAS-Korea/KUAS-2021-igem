@@ -157,7 +157,8 @@ One of the concerns during the design process was that while the CERK1-ECD is a 
 7. Liu T, Liu Z, Song C, Hu Y, Han Z, She J, Fan F, Wang J, Jin C, Chang J, Zhou JM, Chai J. Chitin-induced dimerization activates a plant immune receptor. Science. 2012 Jun 1;336(6085):1160-4. doi: 10.1126/science.1218867. PMID: 22654057.
 
 8. Cao Y, Liang Y, Tanaka K, Nguyen CT, Jedrzejczak RP, Joachimiak A, Stacey G. The kinase LYK5 is a major chitin receptor in Arabidopsis and forms a chitin-induced complex with related kinase CERK1. Elife. 2014 Oct 23;3:e03766. doi: 10.7554/eLife.03766. PMID: 25340959; PMCID: PMC4356144.
-9.
+
+9. Schlundt, A., Buchner, S., Janowski, R., Heydenreich, T., Heermann, R., Lassak, J., Geerlof, A., Stehle, R., Niessing, D., Jung, K., & Sattler, M. (2017). Structure-function analysis of the DNA-binding domain of a transmembrane transcriptional activator. Scientific Reports, 7(1). https://doi.org/10.1038/s41598-017-01031-9
 
 
 # 4. Kill switch
