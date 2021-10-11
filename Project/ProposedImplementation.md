@@ -80,9 +80,9 @@ The second is Different evolutionary histories of the host and symbiont. R. musc
 
 Reference:
 
-1. Reid N Harris, Robert M Brucker, Jenifer B Walke, Matthew H Becker et al.,"Skin microbes on frogs prevent morbidity and mortality caused by a lethal skin fungus", The ISME Journal, pp818-824, 2009.
+1. Reid N Harris, Matthew H Becker et al.,"Skin microbes on frogs prevent morbidity and mortality caused by a lethal skin fungus", The ISME Journal, pp818-824, 2009.
 
-2. Matthew H. Becker, Reid N. Harris, Kevin P. C. Minbiole et al., "Towards a Better Understanding of the Use of Probiotics for Preventing Chytridiomycosis in Panamanian Golden Frogs", EcoHealth, 2012.
+2. Matthew H. Becker, Reid N. Harris et al., "Towards a Better Understanding of the Use of Probiotics for Preventing Chytridiomycosis in Panamanian Golden Frogs", EcoHealth, 2012.
 
  [Skin_microbes_on_frogs_prevent_morbidity.pdf](https://github.com/KUAS-Korea/KUAS-2021-igem/files/7275547/Skin_microbes_on_frogs_prevent_morbidity.pdf)
 [Towards_a_Better_Understanding_of_the_Use_of_Probiotics_for_Preventing_Chytridomycosis_in_Panamian_Golden_frogs.pdf](https://github.com/KUAS-Korea/KUAS-2021-igem/files/7275548/Towards_a_Better_Understanding_of_the_Use_of_Probiotics_for_Preventing_Chytridomycosis_in_Panamian_Golden_frogs.pdf)
