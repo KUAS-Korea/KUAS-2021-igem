@@ -50,18 +50,18 @@ References:
  We investigated the Conventional Probiotic Approaches to get an idea of our implamantation. In conventional probiotic approaches, the bacteria that play an important role here are Janthinobacterium lividum, which survives in aerobic environments, is soil-dwelling bacteria, and is G (-) bacteria. In addition, because it produces violacein, it has anti-fungal properties for Batrachytrium dendrobatidis, a fungi that works fatal to amphibians. Therefore, we looked at the paper that confirmed the anti-fungal effect by applying J. lividum to frog skin. The frogs that examined the anti-fangal effect were Rama muscosa and Atelopus zeteki-panamanian golden frogs.
 ![Rama muscosa](https://user-images.githubusercontent.com/87221166/136716063-a74206fc-c726-43f9-8504-4d27f55da483.png)
  
-Figure 1. R. muscosa 
+Figure 1. ***R. muscosa***
 
 ![Atelopus zeteki](https://user-images.githubusercontent.com/87221166/136716064-e25cda4f-b97d-4cf9-b298-f75457446e3a.png)
 
-Figure 2. A. zeteki 
+Figure 2. ***A. zeteki***
 
 What's interesting here is that the anti-fungal effect of J. lividum was different when J. lividum was treated for each frog species.
 R. muscosa obtained the resistance of Bd through J. lividum treatment, but A. zeteki did not obtain the resistance of Bd.
 
 ![R.muscoosa result](https://user-images.githubusercontent.com/87221166/136716702-44924cce-0872-4926-b117-8a978cb96ae7.png)
 
-Figuer 3. The results of R. muscosa 
+Figuer 3. **The results of *R. muscosa***
 
 (a) Survival of frog: (b) Portional change in mass: (c)Log no. zoospore equivalents: (d) concentration of Violacein(nM)
 
@@ -77,6 +77,7 @@ There are main reasons for the difference between R. musosa and A. zeteki.
 The first is that A. zeteki's skin is not suitable for J. lividum to survive. A. zeteki secretes several skin toxins, which are anti-bacterial materials and can affect the growth of bacteria. 
 
 The second is Different evolutionary histories of the host and symbiont. R. muscosa and J. lividum have long evolutionary histories of the host and symbiont to find symbiosis with each other in nature, but A. zeteki and J. lividum have not found such symbiosis. What we need to supplement through the previous problem is that our strain are also bacteria, so we need to have resistance to skin toxins, and we need to devise a way to combine bacteria through the common part of frog skin to prevent differences in behavior according to evolutionary history of the host and symbol.
+
 Reference:
 
 1.
