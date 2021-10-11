@@ -67,8 +67,7 @@ Figuer 3. The results of R. muscosa
 
 ![Atelopus zeteki](https://user-images.githubusercontent.com/87221166/136716715-ca0dbc49-741c-438f-aec7-9b45a9d75db5.png)
 
-Figure 4. The results of A. zeteki 
-
+Figure 4. **The results of *A. zeteki***
 (a) Survival of frog: (b) Cell no.(Bd, Bacteria) on the skins of frogs (c)Bd infection intensity
 
 Each result shows a significant change after treatment in the case of R. muscosa, but A. zeteki shows only a slight decrease in Bd, and eventually Frog dies.
