@@ -88,12 +88,6 @@ Model Single Cell
 
 Model Hifh Density
 
-1.  ⅆ[mRNA_100 ]/ⅆt   = CN×k_1(100) − d_1×[mRNA_100 ]
-2.  ⅆ[LuxI]/ⅆt  = k_2(34) ×[mRNA_100 ]  − d_2×[LuxI]
-3.  ⅆ[LuxR]/ⅆt  = k_2(34) ×[mRNA_100 ]  − d_2×[LuxR]   − k_RA×[LuxR][HSL]  + k_RA×[HSL/LuxR]
-4.  ⅆ[HSL_in ]/ⅆt  = V_max×[LuxI]  − k_RA×[LuxR][HSL_in ]  + k_(〖RA〗_^− )×[HSL/LuxR]  −k_diff×([mRNA_106 ]−[HSL_in ])
-5.  ⅆ[HSL/LuxR]/ⅆt  =  k_RA×[LuxR][HSL]  − k_RA×[HSL/LuxR]  −2×{k_((RA)_2 )×[HSL/LuxR]^2+ k_((RA)_2^− )×[HSL/LuxR D]}
-6.  ⅆ[HSL_out ]/ⅆt  =  N×k_diff×([HSL_in ]−[mRNA_106 ])
-7.  ⅆ[mRNA_106 ]/ⅆt  =  CN×k_1(106) − d_1×[mRNA_106 ]
-![image](https://user-images.githubusercontent.com/87221166/137178495-afc0071a-688e-406a-b792-fa514baa7442.png)
+![image](https://user-images.githubusercontent.com/87221166/137178718-45debb01-9621-4b02-b3ae-28088e90de0c.png)
+
 
