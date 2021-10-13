@@ -78,3 +78,16 @@ Dimers >1e 2.5
     % Rest of the parameters are same as above
     Protein  = alpha ./p.d2 .* (TF.^2 ./ (p.Kd +TF.^2))
 ![image](https://user-images.githubusercontent.com/87188354/134773893-b7194059-6af8-4751-ba8a-9c0f2fc21aeb.png)
+
+## ODEs
+
+Model Single Cell
+1.  ⅆ[mRNA_100 ]/ⅆt   = CN×k_1(100) − d_1×[mRNA_100 ]
+2.  ⅆ[LuxI]/ⅆt  = k_2(34) ×[mRNA_100 ]  − d_2×[LuxI]
+3.  ⅆ[LuxR]/ⅆt  = k_2(34) ×[mRNA_100 ]  − d_2×[LuxR]   − k_RA×[LuxR][HSL]  + k_RA×[HSL/LuxR]
+4.  ⅆ[HSL]/ⅆt  = V_max×[LuxI]  − k_RA×[LuxR][HSL]  + k_RA×[HSL/LuxR]  −k_diff×[HSL]
+5.  ⅆ[HSL/LuxR]/ⅆt  =  k_RA×[LuxR][HSL]  − k_RA×[HSL/LuxR]  −2×{k_((RA)_2 )×[HSL/LuxR]^2+ k_((RA)_2^− )×[HSL/LuxR D]}
+6.  ⅆ[HSL/LuxR D]/ⅆt  =  k_((RA)_2 )×[HSL/LuxR]^2  − k_((RA)_2^− )×[HSL/LuxR D]
+7.  ⅆ[mRNA_106 ]/ⅆt  =  CN×k_1(106) − d_1×[mRNA_106 ]
+![image](https://user-images.githubusercontent.com/87221166/137178223-a3d765e0-58d2-4e31-88ba-e6ceb87d8b5a.png)
+
