@@ -86,7 +86,7 @@ Model Single Cell
 ![Model Single Cell](https://user-images.githubusercontent.com/87221166/137178223-a3d765e0-58d2-4e31-88ba-e6ceb87d8b5a.png)
 
 
-Model Hifh Density
+Model High Density
 
 ![image](https://user-images.githubusercontent.com/87221166/137178718-45debb01-9621-4b02-b3ae-28088e90de0c.png)
 
