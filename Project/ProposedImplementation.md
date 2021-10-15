@@ -125,6 +125,7 @@ Exposure to Bd occurs when the defense mechanisms of the epidermis (AMP, bacteri
 ![image](http://revistabionatura.com/images/2021.06.01.28-Figure1.png)
 
 Bd has an endobiotic cycle and an epibiotic cycle.(1)(2) In the endobiotic cycle, fungus enters the skin and causes serious problems. When Bd contacts with the amphibian epidermis, the zoospore creates a germ tube that penetrates the host cell membrane. The distal end of the germinal tube is enlarged and the chytrid talus and sporangium are created in the cell. Repeat this process, digging into the deeper layers of the amphibian's epidermis. After full penetration, immature sporangia is transported to the skin surface. When the sporangia matures, the discharge tube releases the mature zoospore to the outside, causing new infections. (3)(4)
+
 Bacterial species from the skin of _A. elegans, A. aff. limosus_, and _A. spurrelli_ were showed by Flechas, Sandra V et al. For _A. elegans_-C(captive), bacterial species of their skin included _Massilia, Novosphingobium, Microbacterium_, and etc, while _A. elegans_-W(wild) skin had _Rhizobium, Caulobacter_, and so on. In _A. aff. limosus_-C, several bacteria including _Listeria and bacillus_ were discovered. _Pseudomonas_ were found in all species in common. Also, they had common bacterial species such as 
 _Acinetobacter_(except _A. elegans_-W), _Chryseobacterium_(except _A. elegans_), _Comamonas_(except _A. elegans_-W), and _Stenotrophomonas_(except _A. elegans_-C and _A. aff. limosus_-W) (5)
 
