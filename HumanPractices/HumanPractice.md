@@ -24,6 +24,16 @@ Through the interview, Mr.Griffith emphasized the need to protect the environmen
 
 ( 사진 추가 예정입니다 )
 
+B. Open Seminar with Prof. Matthew Fisher from Imperial College London
+At 5:30p.m on October 15, 2021, KUAS held an open seminar with Prof. Matthew Fisher from Imperial College London, who deals with fungal disease epidemiology. By holding this seminar with professor who have been constantly interacting through e-mail, we learned how to deal with fungal pathogens such as Bd as well as feedback on our research. It was a valuable moment that we seriously consider the mindset as synthetic biology researcher and the future of Chytridiomycosis disease. (Interview Questions:https://docs.google.com/document/d/1ravZWHqjRYwiblC0ZuxcZ_QzqVWbFrS9xuQ4K9LvbDg/edit)	
+
+First, we shared research focus of Prof. Matthew Fisher that have changed over time. The biggest research focus was pathogenic fungi, but when professor tried to incorporate it into issues in the wild and animals he was interested in, he is now dealing with amphibian pathogen Bd mostly. Currently, most of his research is conducted in the laboratory without field trips due to pandemic, but he usually conducted field research regardless of nations. It is based on bioinformatics, and our KUAS has also decided to be more active in the field work and learn knowledge for it. As the professor told us the skills that synthetic biology researchers should prepare after COVID-19, our KUAS members will follow them. (Especially collaborative efforts during research)
+
+Next, we discussed about the commonalities of vulnerable amphibians toward infectious diseases and its required data for observation. Data should be collected in consideration of the severity of different infections depending on the species, and we learned the differentiated method for dealing with fungal pathogens compared to other prokaryotic or viral pathogens. The professor's words that the natural recovery of Chytridiomycosis disease is not so easy have spurred our research, also we have announced projects worked so far including kill switches and received detail feedback on them.
+
+With this open seminar, we learned the attitude we should have when looking at or directly working on synthetic biology research beyond this year's project. And after reinforcing the weak points in our research and the strengths with high sustainability, we decided to maintain partnership with professor. We hope to hold Zoom meetings in the future to share opinions on related issues, and hope that more people to feel the value of synthetic biology including our research.
+
+
 3. Leaflet production that does educational role and promotion of communication channel 
 
 In order to increase interest in synthetic biology, we have created a leaflet containing the subject of KUAS, an introduction to synthetic biology and biological safety. The reason that the form of the material is leaflet is that it is small and light so people can conveniently carry it and read it, and also we can publish more and distribute it to more people.
