@@ -55,14 +55,16 @@ However, the size of the parts is too large, especially if combined with the vio
 11. http://2011.igem.org/Team:TU_Munich/project/introduction
 
 ## 1.2 The light sensors
+To prevent cells from distrupting soil ecosystems by producing violacein under soil, we decided to use light as one of the inputs that induce violacein production.
+Below are some light sensing systems we considered during the design process. 
 ## LovTAP 
-LovTAP mean LOV and tryptophan-activated protein. LovTAP consists of a LOV (light-oxygen-voltage) domain that bind a flavin-mononucleotide(FMN) of Avena sativa phototropin1 (AsLOV2) that senses blue light and trpR-DNA binding domain of the transcription factor trp repressor(1).
+LovTAP means LOV and tryptophan-activated protein. LovTAP consists of a LOV (light-oxygen-voltage) domain that bind a flavin-mononucleotide(FMN) of Avena sativa phototropin1 (AsLOV2) that senses blue light and trpR-DNA binding domain of the transcription factor trp repressor(1).
 
 The operation of the LovTAP is as follows.
 In the dark DNA-dissociated state, the shared helix contacts the LOV domain, populating an inactive conformation of the TrpR domain. Photoexcitation disrupts contacts between the shared helix and the LOV domain, populating an active conformation of the TrpR domain. LovTAP binds DNA. The LOV domains return to the dark state. LovTAP dissociates from the DNA, contacts between the shared helix and the LOV domain are restored, and the system returns to the initial state(2).
 
 ## pDawn
-We used the plasmid pDawn, which uses a blue light photoreceptor, to allow the expression of light-inducing genes when bacteria are exposed to light. Plasmid pDawn was created by inserting a gene-inversion cassette into pDusk and can be compared through the figure below. Insertion of the λ phage repressor cI and the λ promoter pR in pDawn inverts signal polarity and renders gene expression light activated. YF1 has a blue light sensor domain, and in the absence of light, YF1 phosphorylates FixJ which activcates pFixK2. pDawn has a relatively higher dynamic range and lower background expression, and does not require additional components such as genes that encode enzymes for chromophore synthesis or incorporation(3). And it can be adjusted by time and light intensity changes, making it suitable for automation, optimizing yield and purity. So we decided that pDawn was a good fit for this project.
+We used the plasmid pDawn, which uses a blue light photoreceptor, to allow the expression of light-inducing genes when bacteria are exposed to light. Plasmid pDawn was created by inserting a cI inverter in pDusk as shown in the figure below. Insertion of the λ phage repressor cI and the λ promoter pR in pDawn inverts the the system to be light activated. YF1 has a blue light sensor domain, and in the absence of light, YF1 phosphorylates FixJ which activcates pFixK2. pDawn has a relatively higher dynamic range and lower background expression, and does not require additional components such as genes that encode enzymes for chromophore synthesis or incorporation(3). And it can be adjusted by time and light intensity changes, making it suitable for automation, optimizing yield and purity. So we decided that pDawn was a good fit for this project.
 
 ![pDawn1](https://user-images.githubusercontent.com/87215187/135804789-08d66dc6-3d5a-494b-b6b5-2107e0fe34bc.png)
 pDawn for light-activated gene expression in E. coli(3).
