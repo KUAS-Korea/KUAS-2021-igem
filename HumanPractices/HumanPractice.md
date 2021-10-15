@@ -32,7 +32,7 @@ We have placed leaflet throughout the school so that it can be viewed by as many
 
 Not only that, by placing them in the various buildings of the school, students from various fields can also read this leaflet. Students such as students who know some biology but not familiar with synthetic biology or students who are not familiar with biology can read this to learn what synthetic biology is and how it is used. 
 
-4. instagram
+4. Let's communicate with the world through Instagram
 
 We used 'instagram' as a way to promote the webinar, which was carried out to easily introduce synthetic biology to the public, or to inspire interest in KUAS team project.
 
