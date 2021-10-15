@@ -135,3 +135,5 @@ reference :
 (3) Lee Berger, Rick Speare et al., “Chytridiomycosis causes amphibian mortality associated with population declines in the rain forests of Australia and Central America”, Proceedings of the National Academy of Sciences, 1998
 
 (4) Laura F. Grogan, Jacques Robert et al., “Review of the Amphibian Immune Response to Chytridiomycosis, and Future Directions”, Front. Immunol., 2018
+
+(5) Flechas, Sandra V et al. “The effect of captivity on the skin microbial symbionts in three Atelopus species from the lowlands of Colombia and Ecuador.” PeerJ vol. 5 e3594. 31 Jul. 2017, doi:10.7717/peerj.3594
