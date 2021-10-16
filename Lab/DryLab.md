@@ -1,19 +1,8 @@
 
-## LuxR, LuxI Constitutive Protein expression: J23100, B0034 
-We tried to model HSL production from our design
-
-
-Then we modeled the production of LuxR/HSL dimers(the transcription activator of pLux) in our original construct with strong promoters (J23100) for LuxR and LuxI.
-
-
-
-However, there were too much dimers(In SkyBlue, over 10^2.5 dimers) that an induced increase in protein production could not be achieved. 
-
-
 
 ## Construct selection
-In the previous model we only modeled the molecules with in the cytoplasm. However, it is necessary to consider the external environment too if we want to model the outcomes at different cell densities. In the updated model, we included a variable for the external HSL concentration. 
-First, when there is only one cell in the environment, it would be reasonable to consider the external HSL as 0. Internal HSL concentration would be always higher than external HSL, so no HSL would return back into the cell. In the single cell model, external HSL concentration is fixed to 0. 
+Our initial design of the kill switch comprised of the J23100 promoters and B0034 RBS constitutively expressing both LuxI and LuxR. However, we were not sure if or design would achieve the proper induction at high densities. So, we created ODE models to evaluate the performance of constructs containing different combinations of promoters and RBSs. We created a single cell model to account for cells that have fallen off of the colony and a high density model for cells with in a colony. Constructs with low HSL/LuxR dimers in the single cell model and high HSL/LuxR dimers in the high density model would be chosen as our improved design.
+First, when a single cell remains free in the environment, it would be reasonable to consider the external HSL as 0. Internal HSL concentration would be always higher than external HSL, so no HSL would return back into the cell. Thusm in this single cell model, external HSL concentration is fixed to 0. 
 
 Our model was developed upon the model created by UPV Valencia's project in 2018 (1).
 The ODEs for the single cell model is as below:
