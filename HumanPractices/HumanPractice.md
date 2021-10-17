@@ -22,9 +22,11 @@ EVACC initially dealt with more than 50 species of amphibians, but now it is foc
 After the seminar, I was able to give a brief introduction to KUAS’s current project and receive feedback. He said that if the project was successfully completed, it would be of great help to the association, and thanked KUAS for its interest in the endangered toads.
 Through the interview, Mr.Griffith emphasized the need to protect the environment a lot, and we were able to hear how much you love amphibians and strive to preserve them, so it was a good opportunity for KUAS to learn a lot about how to protect nature and work on projects.
 
-( 사진 추가 예정입니다 )
+![Griffith](https://user-images.githubusercontent.com/87228507/137613391-5718d855-1a1b-45ca-a192-98bcd58d1020.jpg)
+
 
 B. Open Seminar with Prof. Matthew Fisher from Imperial College London
+
 At 5:30p.m on October 15, 2021, KUAS held an open seminar with Prof. Matthew Fisher from Imperial College London, who deals with fungal disease epidemiology. By holding this seminar with professor who have been constantly interacting through e-mail, we learned how to deal with fungal pathogens such as Bd as well as feedback on our research. It was a valuable moment that we seriously consider the mindset as synthetic biology researcher and the future of Chytridiomycosis disease. (Interview Questions:https://docs.google.com/document/d/1ravZWHqjRYwiblC0ZuxcZ_QzqVWbFrS9xuQ4K9LvbDg/edit)	
 
 First, we shared research focus of Prof. Matthew Fisher that have changed over time. The biggest research focus was pathogenic fungi, but when professor tried to incorporate it into issues in the wild and animals he was interested in, he is now dealing with amphibian pathogen Bd mostly. Currently, most of his research is conducted in the laboratory without field trips due to pandemic, but he usually conducted field research regardless of nations. It is based on bioinformatics, and our KUAS has also decided to be more active in the field work and learn knowledge for it. As the professor told us the skills that synthetic biology researchers should prepare after COVID-19, our KUAS members will follow them. (Especially collaborative efforts during research)
@@ -32,6 +34,8 @@ First, we shared research focus of Prof. Matthew Fisher that have changed over t
 Next, we discussed about the commonalities of vulnerable amphibians toward infectious diseases and its required data for observation. Data should be collected in consideration of the severity of different infections depending on the species, and we learned the differentiated method for dealing with fungal pathogens compared to other prokaryotic or viral pathogens. The professor's words that the natural recovery of Chytridiomycosis disease is not so easy have spurred our research, also we have announced projects worked so far including kill switches and received detail feedback on them.
 
 With this open seminar, we learned the attitude we should have when looking at or directly working on synthetic biology research beyond this year's project. And after reinforcing the weak points in our research and the strengths with high sustainability, we decided to maintain partnership with professor. We hope to hold Zoom meetings in the future to share opinions on related issues, and hope that more people to feel the value of synthetic biology including our research.
+
+![image](https://user-images.githubusercontent.com/87228507/137613467-b5f54f8f-b4fb-4000-8128-0f559c52d0d3.png)
 
 
 3. Leaflet production that does educational role and promotion of communication channel 
@@ -41,6 +45,8 @@ In order to increase interest in synthetic biology, we have created a leaflet co
 We have placed leaflet throughout the school so that it can be viewed by as many students as possible, and we have listed a way to contact KUAS so that many people can also reach us online and share messages. In other words, this leaflet was also used to inform our communication channels. After that, we conducted additional communication such as promoting our topic and holding a webinar through communication channels with these communication channel. 
 
 Not only that, by placing them in the various buildings of the school, students from various fields can also read this leaflet. Students such as students who know some biology but not familiar with synthetic biology or students who are not familiar with biology can read this to learn what synthetic biology is and how it is used. 
+
+![image](https://user-images.githubusercontent.com/87228507/137613567-308f2132-a34f-416e-be65-2511cf1575a1.png)
 
 4. Let's communicate with the world through Instagram
 
