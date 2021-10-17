@@ -50,7 +50,7 @@ Figure 2. ***A. zeteki*** Reference: The Panamanian golden frog (Atelopus zeteki
 What's interesting here is that the anti-fungal effect of J. lividum was different for each frog species.
 R. muscosa obtained the resistance of Bd through J. lividum treatment, but A. zeteki did not obtain the resistance of Bd.
 
-![R.muscoosa result](https://user-images.githubusercontent.com/87221166/136716702-44924cce-0872-4926-b117-8a978cb96ae7.png)
+https://www.nature.com/articles/ismej200927/figures/1
 
 Figuer 3. **The results of *R. muscosa***
 (a) Survival of frog (b) Portional change in mass (c)Log no. zoospore equivalents (d) concentration of Violacein(nM)
