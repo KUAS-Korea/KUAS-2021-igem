@@ -57,7 +57,10 @@ However, the size of the parts is too large, especially if combined with the vio
 ## 1.2 The light sensors
 To prevent cells from distrupting soil ecosystems by producing violacein under soil, we decided to use light as one of the inputs that induce violacein production.
 Below are some light sensing systems we considered during the design process. 
-## LovTAP 
+## YF1
+
+![YF1_Lov_blue light](https://user-images.githubusercontent.com/87221166/137621093-c1d7c697-b29c-4ece-a958-937c6901f127.png)
+
 LovTAP means LOV and tryptophan-activated protein. LovTAP consists of a LOV (light-oxygen-voltage) domain that bind a flavin-mononucleotide(FMN) of Avena sativa phototropin1 (AsLOV2) that senses blue light and trpR-DNA binding domain of the transcription factor trp repressor(1).
 
 The operation of the LovTAP is as follows.
