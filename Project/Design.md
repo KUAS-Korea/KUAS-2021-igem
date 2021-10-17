@@ -59,35 +59,38 @@ To prevent cells from distrupting soil ecosystems by producing violacein under s
 Below are some light sensing systems we considered during the design process. 
 ## YF1
 
-![YF1_Lov_blue light](https://user-images.githubusercontent.com/87221166/137621093-c1d7c697-b29c-4ece-a958-937c6901f127.png) Figure 1. (1)
+![YF1_Lov_blue light](https://user-images.githubusercontent.com/87221166/137621093-c1d7c697-b29c-4ece-a958-937c6901f127.png) 
+
+Figure 1. YF1(PDB ID: 4GCZ)(1)
 
 YF1 is a protein with a Lov domain which bind a FMN, so blue light can be detected. Also, YF1 has a kinase site, so can phosphorylate other proteins. However, when YF1 is exposed to blue light, YF1 do not phosphorylate other proteins due to conformation change of YF1.
 In this figure, Lov domain is the Red and Blue section and FMN is the Yellow section. If YF1 is not exposed to blue light, FixJ may be phosphorylated. The FixJ phosphorylation is performed by ADP represented by green and 161 histidine represented by Magenta, that is kinase site(2).
 
 ![blue light X](https://user-images.githubusercontent.com/87221166/137627495-66aa46f4-9394-49f7-8744-c705765dfca3.png)
 
-Figure 2. YF1 phosphorylate FixJ
+Figure 2. YF1 phosphorylate FixJ (3)
 
 
 ![blue light O](https://user-images.githubusercontent.com/87221166/137627493-6097f8ee-4890-4dd7-905a-d7bdf550366f.png)
 
-Figure 3. YF1 exposed to blue light
+Figure 3. YF1 exposed to blue light (3)
 
 
 
 ## pDawn
-We used the plasmid pDawn, which uses a blue light photoreceptor, to allow the expression of light-inducing genes when bacteria are exposed to light. Plasmid pDawn was created by inserting a cI inverter in pDusk as shown in the figure below. Insertion of the λ phage repressor cI and the λ promoter pR in pDawn inverts the the system to be light activated. YF1 has a blue light sensor domain, and in the absence of light, YF1 phosphorylates FixJ which activcates pFixK2. pDawn has a relatively higher dynamic range and lower background expression, and does not require additional components such as genes that encode enzymes for chromophore synthesis or incorporation(3). And it can be adjusted by time and light intensity changes, making it suitable for automation, optimizing yield and purity. So we decided that pDawn was a good fit for this project.
+We used the plasmid pDawn, which uses a blue light photoreceptor, to allow the expression of light-inducing genes when bacteria are exposed to light. Plasmid pDawn was created by inserting a cI inverter in pDusk as shown in the figure below. Insertion of the λ phage repressor cI and the λ promoter pR in pDawn inverts the the system to be light activated. YF1 has a blue light sensor domain, and in the absence of light, YF1 phosphorylates FixJ which activcates pFixK2. pDawn has a relatively higher dynamic range and lower background expression, and does not require additional components such as genes that encode enzymes for chromophore synthesis or incorporation(4). And it can be adjusted by time and light intensity changes, making it suitable for automation, optimizing yield and purity. So we decided that pDawn was a good fit for this project.
 
 ![pDawn_edit](https://user-images.githubusercontent.com/87221166/137610680-54ecb34a-1cf6-4701-9529-8b7cb7ec3c25.png)
 
 
-pDawn for light-activated gene expression in E. coli(3).
+pDawn for light-activated gene expression in E. coli(4).
 
 
 ### References
 1. https://www.rcsb.org/structure/4GCZ
 2. Oskar Berntsson et al., "Sequential conformational transitions and α-helical supercoiling regulate a sensor histidine kinase", Nature communication 8(1), 2017, pp1-8.
-3. Ohlendorf, Robert et al., "From dusk till dawn: one-plasmid systems for light-regulated gene expression." Journal of molecular biology 416.4 (2012): 534-542.
+3. http://parts.igem.org/Part:BBa_K1065310
+4. Ohlendorf, Robert et al., "From dusk till dawn: one-plasmid systems for light-regulated gene expression." Journal of molecular biology 416.4 (2012): 534-542.
  
 # 2. Mucus binding domain surface display
 ## Mub:
