@@ -1,16 +1,4 @@
-## 표절(plagiarism)주의
-1. ### 항상 어디서 인용했는지, 참고문헌과 인용을 표시하세요. 인터넷 페이지를 참고하는 것은 최대한 피하고, 심사를 통과한 논문(peer-reviewed paper)를 참고문헌으로 사용하고 인용하세요.
-2. ### 그림도 출처와 인용을 통해 참고문헌으로 정리하세요.
-3. ### 내용은 'copy & paste'또는 'cut & paste' 금지 - 일부 문장은 그대로 옮겨온것으로 확인됩니다. 여러분이 내용을 이해하고 이해한 바를 자신의 언어로 풀어서 작성하세요.
-4. ### [그림과 표작성](https://www.enago.co.kr/academy/tips-for-writing-legends-of-tables-and-figures/) - !!! 다양한 스타일의 한가지 예 !!!
-> 그림을 사용할 때는 반드시 그에 대한 `서술적인 설명과 함께 제시`(with figure legend)하여야 하며, 본문에서 인용한 순서에 따라 그림 번호를 붙여줍니다. 그림 제목은 구(phrase)로 만들면 좋습니다.
-> 이미 출판된 사진을 인용할 경우 원저자의 서면 동의를 얻어야 하며 동의를 얻었다는 구문을 사진 밑에 표기한다 - 동의를 받기 어렵다면 해당그림을 직접 그리고 표시 - e.g. the image was redrawn and modified from Fig. 1 in `참고문헌`
-5. ### 학명은 이탤릭체
-6. ### 핵심만 명료하게 서술할것
-7. ### ....
 
-우리의 프로젝트의 발전 방향과 실제로 적용된다면 어떤 모습일지를 설명. 실제로 구현하는데 극복해야할 과제 등도 적어도 좋음
-Our engineered microbes will be applied to the skin of the amphibians...
 # Current conservation efforts
  성욱, 유진 
  [Atelopus conservation.pdf](https://github.com/KUAS-Korea/KUAS-2021-igem/files/7275504/Atelopus.conservation.pdf)
@@ -50,11 +38,14 @@ References:
  We investigated the Conventional Probiotic Approaches to get an idea of our implamantation. In conventional probiotic approaches, the bacteria that play an important role here are Janthinobacterium lividum, which survives in aerobic environments, is soil-dwelling bacteria, and is G (-) bacteria. In addition, because it produces violacein, it has anti-fungal properties for Batrachytrium dendrobatidis, a fungi that works fatal to amphibians. Therefore, we looked at the paper that confirmed the anti-fungal effect by applying J. lividum to frog skin. The frogs that examined the anti-fangal effect were Rama muscosa and Atelopus zeteki-panamanian golden frogs.
 ![Rama muscosa](https://user-images.githubusercontent.com/87221166/136716063-a74206fc-c726-43f9-8504-4d27f55da483.png)
  
-Figure 1. ***R. muscosa***
+Figure 1. ***R. muscosa*** Reference: Rana muscosa, Author: Eugene van der Pijll, Date: 2005-12-17
+https://ceb.wikipedia.org/wiki/Rana_muscosa#/media/Payl:Rana_muscosa.jpg
+
 
 ![Atelopus zeteki](https://user-images.githubusercontent.com/87221166/136716064-e25cda4f-b97d-4cf9-b298-f75457446e3a.png)
 
-Figure 2. ***A. zeteki***
+Figure 2. ***A. zeteki*** Reference: The Panamanian golden frog (Atelopus zeteki) is a critically endangered toad which is endemic to Panama, Author: Brian Gratwicke, Date: 2008-08-02, https://en.wikipedia.org/wiki/Panamanian_golden_frog#/media/File:Atelopus_zeteki1.jpg
+
 
 What's interesting here is that the anti-fungal effect of J. lividum was different when J. lividum was treated for each frog species.
 R. muscosa obtained the resistance of Bd through J. lividum treatment, but A. zeteki did not obtain the resistance of Bd.
