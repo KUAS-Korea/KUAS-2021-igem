@@ -66,7 +66,8 @@ In the dark DNA-dissociated state, the shared helix contacts the LOV domain, pop
 ## pDawn
 We used the plasmid pDawn, which uses a blue light photoreceptor, to allow the expression of light-inducing genes when bacteria are exposed to light. Plasmid pDawn was created by inserting a cI inverter in pDusk as shown in the figure below. Insertion of the λ phage repressor cI and the λ promoter pR in pDawn inverts the the system to be light activated. YF1 has a blue light sensor domain, and in the absence of light, YF1 phosphorylates FixJ which activcates pFixK2. pDawn has a relatively higher dynamic range and lower background expression, and does not require additional components such as genes that encode enzymes for chromophore synthesis or incorporation(3). And it can be adjusted by time and light intensity changes, making it suitable for automation, optimizing yield and purity. So we decided that pDawn was a good fit for this project.
 
-![pDawn1](https://user-images.githubusercontent.com/87215187/135804789-08d66dc6-3d5a-494b-b6b5-2107e0fe34bc.png)
+![pDawn_edit](https://user-images.githubusercontent.com/87221166/137610680-54ecb34a-1cf6-4701-9529-8b7cb7ec3c25.png)
+
 pDawn for light-activated gene expression in E. coli(3).
 
 ### References
