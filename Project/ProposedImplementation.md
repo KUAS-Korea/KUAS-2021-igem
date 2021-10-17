@@ -78,8 +78,6 @@ Reference:
  [Skin_microbes_on_frogs_prevent_morbidity.pdf](https://github.com/KUAS-Korea/KUAS-2021-igem/files/7275547/Skin_microbes_on_frogs_prevent_morbidity.pdf)
 [Towards_a_Better_Understanding_of_the_Use_of_Probiotics_for_Preventing_Chytridomycosis_in_Panamian_Golden_frogs.pdf](https://github.com/KUAS-Korea/KUAS-2021-igem/files/7275548/Towards_a_Better_Understanding_of_the_Use_of_Probiotics_for_Preventing_Chytridomycosis_in_Panamian_Golden_frogs.pdf)
 
-# Our improved approach
- 현주
  
 # Frog skin composition 
 Chytridiomycosis is a disease of amphibians caused by the chytrid fungus Batrachochytrium dendrobatidis. Batrachochytrium dendrobatidis is transmitted through the skin of amphibians and has a critical effect on survival, causing rapid population decline. The skin of amphibians is very active. They can regulate respiration, moisture, and electrolytes well through the skin. It is not yet known exactly how the fungus kills amphibians, but it is known to interfere with the normal functioning of the amphibians' skin, causing death.
