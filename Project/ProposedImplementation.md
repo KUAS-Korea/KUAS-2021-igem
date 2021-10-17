@@ -55,7 +55,7 @@ https://www.nature.com/articles/ismej200927/figures/1
 Figuer 3. **The results of *R. muscosa***
 (a) Survival of frog (b) Portional change in mass (c)Log no. zoospore equivalents (d) concentration of Violacein(nM)
 
-![Atelopus zeteki](https://user-images.githubusercontent.com/87221166/136716715-ca0dbc49-741c-438f-aec7-9b45a9d75db5.png)
+https://www.researchgate.net/figure/Batrachochytrium-dendrobatidis-infection-intensity-no-of-cells-on-the-skins-of-frogs_fig3_221826433
 
 Figure 4. **The results of *A. zeteki***
 (a) Survival of frog (b) Cell no.(Bd, Bacteria) on the skins of frogs (c)Bd infection intensity
