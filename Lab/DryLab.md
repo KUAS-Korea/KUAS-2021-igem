@@ -1,4 +1,13 @@
+# Kill switch construct
+![image](https://user-images.githubusercontent.com/87188354/137716967-9e626c2c-8519-4f5e-9fc7-e5e306688dd5.png)
 
+
+## cI at different HSL/LuxR concentrations
+
+In order to know understand the amount of protein(cI repressor) produced by the lux promoter at each transcription factor (HSL/LuxR dimers) levels, we used the Hill equation to plot the graph. 
+
+
+![image](https://user-images.githubusercontent.com/87188354/134773893-b7194059-6af8-4751-ba8a-9c0f2fc21aeb.png)
 
 ## Construct selection
 Our initial design of the kill switch comprised of the J23100 promoters and B0034 RBS constitutively expressing both LuxI and LuxR. However, we were not sure if or design would achieve the proper induction at high densities. So, we created ODE models to evaluate the performance of constructs containing different combinations of promoters and RBSs. We created a single cell model to account for cells that have fallen off of the colony and a high density model for cells with in a colony. Constructs with low HSL/LuxR dimers in the single cell model and high HSL/LuxR dimers in the high density model would be chosen as our improved design.
@@ -37,14 +46,8 @@ The graph above shows the internal(int) and external(ext) HSL in molecules
 ![image](https://user-images.githubusercontent.com/87188354/137711927-4eaa58a1-a28f-4216-9543-e7875d67a774.png)
 The graph above shows the number of HSL/LuxR dimers over an hour.
 
-
-## cI at different HSL/LuxR concentrations
-    
-    p.Kd = MolesToMolecules(200*10^(-9)); % dissociation constant of (LuxR·AI)2 to the lux promoter 200[nM] fitted https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3614889/
-    alpha = p.k2 * p.k1 * p.CN / p.d1; % Maximal Expression rate [molecules/min]   
-    % Rest of the parameters are same as above
-    Protein  = alpha ./p.d2 .* (TF.^2 ./ (p.Kd +TF.^2))
-![image](https://user-images.githubusercontent.com/87188354/134773893-b7194059-6af8-4751-ba8a-9c0f2fc21aeb.png)
+Therefore our final design will use J23106 & B0032 for both luxR and luxI
+![image](https://user-images.githubusercontent.com/87188354/137717150-3a532a67-31b9-4fb7-9d45-99388d7c6817.png)
 
 
 References
