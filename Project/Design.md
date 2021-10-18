@@ -114,6 +114,8 @@ We fused the domainas R4-7 and R4,5 Mub2 domains to the partial OmpA part(K10300
 https://benchling.com/s/seq-5WW6LSK3eFmng9Z1SK5A
 https://benchling.com/s/seq-YFxJHRIgGRz0RiOCh3sY
 The new fusion proteins are registered as parts K3837005 & K3837006.
+![image](https://user-images.githubusercontent.com/87188354/137760591-d5956ec4-1960-4819-9b0a-33ea48b25c56.png)
+![image](https://user-images.githubusercontent.com/87188354/137760507-8758cd38-510a-4d05-be4e-78ba93a07112.png)
 
 # References
 1. Juge N. Microbial adhesins to gastrointestinal mucus. Trends Microbiol. 2012 Jan;20(1):30-9. doi: 10.1016/j.tim.2011.10.001. Epub 2011 Nov 14. PMID: 22088901.
