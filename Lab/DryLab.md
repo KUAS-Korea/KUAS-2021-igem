@@ -1,13 +1,18 @@
-# Kill switch construct
+## Kill switch construct
 ![image](https://user-images.githubusercontent.com/87188354/137716967-9e626c2c-8519-4f5e-9fc7-e5e306688dd5.png)
-
+Above is a diagram of our quorum sensing Kill switch. The system is intended to produce the toxin MazF when a cell detaches from the colony and does not recieve enough LuxR/HSL dimers. 
 
 ## cI at different HSL/LuxR concentrations
 
-In order to know understand the amount of protein(cI repressor) produced by the lux promoter at each transcription factor (HSL/LuxR dimers) levels, we used the Hill equation to plot the graph. 
+In order to know understand the amount of protein(cI repressor) produced by the lux promoter at each transcription factor (HSL/LuxR dimers) levels, we used the Hill equation to plot the graph. For more information about the derivation of the Hill function, see Contributions. 
 
+The Matlab code is as below 
+[TF_vs_cI.zip](https://github.com/KUAS-Korea/KUAS-2021-igem/files/7364177/TF_vs_cI.zip)
 
+The results is as below
 ![image](https://user-images.githubusercontent.com/87188354/134773893-b7194059-6af8-4751-ba8a-9c0f2fc21aeb.png)
+
+The graph tells us that transcription factors(HSL/LuxR) should be in the range of 10~10^4 molecules and that half the maximum induction is achieved around 100 molecules. 
 
 ## Construct selection
 Our initial design of the kill switch comprised of the J23100 promoters and B0034 RBS constitutively expressing both LuxI and LuxR. However, we were not sure if or design would achieve the proper induction at high densities. So, we created ODE models to evaluate the performance of constructs containing different combinations of promoters and RBSs. We created a single cell model to account for cells that have fallen off of the colony and a high density model for cells with in a colony. Constructs with low HSL/LuxR dimers in the single cell model and high HSL/LuxR dimers in the high density model would be chosen as our improved design.
