@@ -21,6 +21,7 @@ Tryptophol is synthesized from the amino acid tryptophan through the Ehrlich pat
 
 ## Modeling guide
 To help future teams in the process of modeling, we created a concise modeling guide that is based on the igem engineering webinar. We hope our contribution could help future igem teams to understand the concepts in the derivation of the Hill function.  
+![image](https://user-images.githubusercontent.com/87188354/137721174-c41d53ef-4498-4019-9194-205d1cbc696e.png)
 
 [ModelingGuide.pdf](https://github.com/KUAS-Korea/KUAS-2021-igem/files/7364359/ModelingGuide.pdf)
 
