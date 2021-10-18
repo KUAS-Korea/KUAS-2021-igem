@@ -36,6 +36,8 @@ Model High Density
 
 ![image](https://user-images.githubusercontent.com/87221166/137178718-45debb01-9621-4b02-b3ae-28088e90de0c.png)
 
+[HIghDensity.zip](https://github.com/KUAS-Korea/KUAS-2021-igem/files/7363816/HIghDensity.zip)
+
 References
 
 1. http://2018.igem.org/Team:Valencia_UPV/Model
