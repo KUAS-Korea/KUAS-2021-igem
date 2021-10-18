@@ -1,11 +1,6 @@
 
 # Current conservation efforts
- 성욱, 유진 
- [Atelopus conservation.pdf](https://github.com/KUAS-Korea/KUAS-2021-igem/files/7275504/Atelopus.conservation.pdf)
-
-전지구적으로 양서류의 멸종을 방지하고 생물 다양성을 유지하는 것은 전반적인 생태계 밸런스를 유지하는 데 중요하다. 그러나 최근, 인간의 영향으로 종 다양성이 감소하고 있으며 곰팡이균이 빠른 속도로 확산되어 개체수가 급감하고 있다. 우리는 양서류 conservation plan에 대해 검토하여 우리 프로젝트가 어떻게 실행되어 양서류 conservation에 영향을 끼칠 수 있을지 보았다.
-
-전지구적으로 양서류의 멸종을 방지하고 생물 다양성을 유지하는 것은 전반적인 생태계 밸런스를 유지하는 데 중요하다. 그러나 최근, 인간의 영향으로 종 다양성이 감소하고 있으며 곰팡이균이 빠른 속도로 확산되어 개체수가 급감하고 있다. 우리는 양서류 conservation plan에 대해 검토하여 우리 프로젝트가 어떻게 실행되어 양서류 conservation에 영향을 끼칠 수 있을지 보았다.
+ 
 How will our engineered microbes benefit the conservation of amphibian species across the globe? How is our approach distinguished from other approaches? We tried to answer these questions in this section. 
 
 First, by reviewing a comprehensive article on conservation of Atelopus species, we gained understanding of the current conservation status and conservation plans for the next couple of decades. Then, we examined the results of two conventional probiotic Bd mitigation approaches to assess the potential and limitations. The two activities mentioned above allowed us to better envision the context in which our microbes would be used and how our microbes could potentially provide a breakthrough for the status quo.
