@@ -27,6 +27,8 @@ When we reviewed our designs, we could think of two scenarios that may be potent
 
 With our input options(light & chitin) ready, we could combine them to create an AND gate, and improve specificity. For example, we could make the cells to produce violacein only when there is light and when chitin is detected. Violacein is synthesized from tryptophol with 5 enzymes(VioABCDE) catalyzing each reaction. If the enzymes are separated into 2 operons, each with a different promoter, the production of violacein would depend on both inputs, similar to an AND gate. Inputs could be changed by swapping the promoters of each operon. More at Design page. 
 
+![image](https://user-images.githubusercontent.com/87188354/137738288-de4e7543-08b0-4fbd-b734-0eb5f51dace0.png)
+
 ## References
 * 1. O'Hanlon SJ et. al, 'Recent Asian origin of chytrid fungi causing global amphibian declines'. Science. 2018 May 11;360(6389):621-627. doi: 10.1126/science.aar1965. PMID: 29748278; PMCID: PMC6311102.
 * 2. http://2017.igem.org/Team:UFlorida
