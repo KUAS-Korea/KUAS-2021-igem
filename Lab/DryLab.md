@@ -1,3 +1,13 @@
+## Light induction Violacein modeling
+
+
+
+
+
+
+
+
+
 ## Kill switch construct
 ![image](https://user-images.githubusercontent.com/87188354/137716967-9e626c2c-8519-4f5e-9fc7-e5e306688dd5.png)
 Above is a diagram of our quorum sensing Kill switch. The system is intended to produce the toxin MazF when a cell detaches from the colony and does not recieve enough LuxR/HSL dimers. 
