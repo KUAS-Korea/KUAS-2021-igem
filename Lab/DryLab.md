@@ -36,7 +36,11 @@ HSL/LuxR dimers(dimer) and internal HSL(int) levels for the construct R10632_I10
 ### High density culture: closed 1nL env, cells 1(dark color) ~ 1e5(bright color) 
 
 When cells are in high density, it would be fairly reasonable to imagine a region homogenous in HSL concentration. So in the high density model, we considered a nL of closed volume. When cells produce HSL, it will start to accumulate and at some point, HSL will flow back into the cell. The ODEs used in the model is as below. 
-![image](https://user-images.githubusercontent.com/87221166/137178718-45debb01-9621-4b02-b3ae-28088e90de0c.png)
+
+Model High Density
+
+![image](https://user-images.githubusercontent.com/87221166/137867223-8990fd67-d0fe-43ae-9b20-b807fd4acfe4.png)
+
 
 Using the ODEs above, we plotted 5 graphs, each corresponding to 1 ~ 10^5 cells/nL, for each constructs. 
 [HIghDensity.zip](https://github.com/KUAS-Korea/KUAS-2021-igem/files/7363816/HIghDensity.zip)
