@@ -5,6 +5,7 @@ The original design for the AND gate was to use an igem part T7 polymerase AND g
 As described in the Description page, we decided to use light as one of the inputs for violacein production. For the second input, for simplification and reliability, the IPTG inducible lac promoter was used. 
 Gibson assembly was used to connect two addgene plasmids: 
 [Violacein `addgene' vector](https://www.addgene.org/73440/)
+
 [Violacein `addgene' vector](https://www.addgene.org/43796/)
  
 The final construct is as follows. 
