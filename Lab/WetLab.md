@@ -18,6 +18,18 @@ Due to time constraints and the fact that there were no experienced wet lab memb
 
 The protocols for the experiments can be seen below.
 
+### vio ABE chemical transformation
+ 
+1. competent cell 50ul + plasmid(pDawn_vio ABE) 2ul
+2. ice 30m incubation
+3. 43℃ 40s incubation
+4. ice 5m incubation
+5. Mix LB 1ml
+6. 37℃ 1h incubation
+7. centrifuge 13,500rpm 1m
+8. supernatant 800ul 버리고, 나머지 resuspension
+9. 빛O/X 조건으로 나눠서 100ul씩 LB/KAN 배지에 spreading
+10. 37℃ overnight incubation
 
 
 ## Kill switch design
