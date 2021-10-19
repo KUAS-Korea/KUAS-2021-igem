@@ -19,3 +19,5 @@ human practice wiki
 ater igem 활동
 06.10.2021
 after igem 중간발표
+09.24.2021
+프로젝트 홍보 리플렛 제작
