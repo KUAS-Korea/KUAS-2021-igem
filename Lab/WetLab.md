@@ -3,7 +3,9 @@
 ## Violacein AND gate
 The original design for the AND gate was to use an igem part T7 polymerase AND gate (BBa_K568004). However this part along with the Vio operon would result a part that is almost 15kb. Our PI noted us of the difficulties of transforming a part of such size an suggested a different AND gate design. His AND gate design was a split vio operon which had few vio genes under control of one promoter and the rest of the genes under the control of a different promoter. Thus, the full violacein pathway is constituted only when both of the promoters are activated. 
 As described in the Description page, we decided to use light as one of the inputs for violacein production. For the second input, for simplification and reliability, the IPTG inducible lac promoter was used. 
-Gibson assembly was used to connect two addgene plasmids: [Violacein `addgene' vector](https://www.addgene.org/73440/), [Violacein `addgene' vector](https://www.addgene.org/43796/)
+Gibson assembly was used to connect two addgene plasmids: 
+[Violacein `addgene' vector](https://www.addgene.org/73440/)
+[Violacein `addgene' vector](https://www.addgene.org/43796/)
  
 The final construct is as follows. 
 ![image](https://user-images.githubusercontent.com/87188354/137825930-f057ebca-0942-45a7-8f6b-6c5e437be36e.png)
