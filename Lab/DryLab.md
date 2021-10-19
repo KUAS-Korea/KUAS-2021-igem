@@ -39,7 +39,7 @@ When cells are in high density, it would be fairly reasonable to imagine a regio
 
 Model High Density
 
-![image](https://user-images.githubusercontent.com/87221166/137867223-8990fd67-d0fe-43ae-9b20-b807fd4acfe4.png)
+![image](https://user-images.githubusercontent.com/87221166/137867373-287d28a0-86c3-4efb-a5f8-5a6a693b1931.png)
 
 
 Using the ODEs above, we plotted 5 graphs, each corresponding to 1 ~ 10^5 cells/nL, for each constructs. 
