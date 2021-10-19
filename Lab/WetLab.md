@@ -1,19 +1,17 @@
 # Wet Lab
-## Design tools (drawing)
-* [SBOLCanvas](https://pubs.acs.org/doi/10.1021/acssynbio.1c00096)
----
 
-## AND gate, Violacein production
-<!---
-* AND gate example
-1. [based on TF factors](https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-11-S4-S16)
-2. [Light/Arabinose](https://pubs.acs.org/doi/10.1021/acssynbio.8b00280)
-3. Sungwook's original design
-<img alt="sw's design" src="../AND%20gate(Light%20and%20Cell%20density).png" width=400 height=200>
----
---->
+## Violacein AND gate
+The original design for the AND gate was to use an igem part T7 polymerase AND gate (BBa_K568004). However this part along with the Vio operon would result a part that is almost 15kb. Our PI noted us of the difficulties of transforming a part of such size an suggested a different AND gate design. His AND gate design was a split vio operon which had few vio genes under control of one promoter and the rest of the genes under the control of a different promoter. Thus, the full violacein pathway is constituted only when both of the promoters are activated. 
+As described in the Description page, we decided to use light as one of the inputs for violacein production. For the second input, for simplification and reliability, the IPTG inducible lac promoter was used. 
+Gibson assembly was used to connect two addgene plasmids: pDawn and Vio 
+The final construct is as follows. 
+![image](https://user-images.githubusercontent.com/87188354/137825930-f057ebca-0942-45a7-8f6b-6c5e437be36e.png)
 
-### Designs for Experiments: 3-1/3-2/3-3 
+Due to time constraints and the fact that there were no experienced wet lab member in our team, our wet lab instructors Sera Kang and Xiaoyue conducted the assembly and transformation proccess. 
+
+The protocols for the experiments can be seen below.
+
+
 
 #### Experiment 3-3 Design
 ![AND gate for violacein synthesis](https://user-images.githubusercontent.com/14289498/131956796-8ce9716c-a63b-43da-aae1-c37b9866843e.png)
@@ -22,53 +20,7 @@
 --->
 <img src="./pDawn.png">
 
-* singal 1 & 2: light ([`pDawn`](https://www.sciencedirect.com/science/article/pii/S0022283612000113)) induces `vioA` genes from ([`addgene` vector](https://www.addgene.org/73440/)) in which vioABECD genes were under `PlacT7` promoters. As a result, if a `vioABE` block is directly cloned into `pDawn` vector, the final construction will be `AND-gate` (light induces `vioA` and IPTG induces `vioBE`; both signal 1 & 2 are required to synthesize violacein.
-
----
-<!--- 
->various optogenetic promoters can be considered:
-1. [2017 Heidelberg team](http://2017.igem.org/Team:Heidelberg/Optogenetics) 
-2. [single component light-sensing](https://academic.oup.com/nar/article/48/6/e33/5716458)
---->
-
-* signal 2: any signal (IPTG/arabinose/aTc/fungi sensing/fungi QS molecules) induces `vioCDE` genes (or vice versa)
-* output: only if signal 1 & 2 are true, `violacein` will be synthesized
-
-<img src=https://2019.igem.org/wiki/images/4/42/T--Guelph--VioPathwayDevin.png width=500 height=300>
-
-| signal 1 | signal 2 | output |
-| ---- | ---- | ---- |
-|1|1|1|
-|1|0|0|
-|0|1|0|
-|0|0|0|
-
-* To do
-1. signal receiver part1 - [`pDawn`](https://www.sciencedirect.com/science/article/pii/S0022283612000113)+`vioAB`
-2. signal receiver part2 - `pLac`+ `vioCDE`
-3. insulator - `pCon`+`LacI`
-4. Design part 1,2,3 at Benchling
-5. Combine parts into a single vector at Benchling
-6. Order required primers/oligos/synthetic DNA/Build/test vectors
-
-#### Experiment 3-1 Design
-* 병꼴균 탐지 - tryptophan 농도 (QS) - E. coli trpR/trpL sensor/promoter
-> [trpL](http://parts.igem.org/Part:BBa_K360124)
-* To do
-1. Sensor construction at Benchling - `trpL` + `vioABCDE`/`vioCDE`
-2. Order synthetic DNA
-3. Build/Test vector
----
-
-#### Experiment 3-4
-* violacein 농도측정 - [iGEM part registry](http://parts.igem.org/Part:BBa_K274002:Experience)
-![TLC](http://parts.igem.org/wiki/images/7/71/Tlc_%28tinal%29.jpg)
-* 필요한 최소농도는?
-* 빛(신호1)과 신호2의 세기에 따라 조절가능한 프로모터를 찾아볼것.
-* 프로모터조합으로 생합성되는 violacein의 양을 측정하고 최적의 농도를 만드는 프로모터조합확인
-* 참고 - [promoter tuning - 2011 iGEM 북경대](http://2011.igem.org/Team:Peking_R/Project/Application/VIO)
-
-#### Experiment 3-5 문헌조사 및 요약정리/제안
+* singal 1 & 2: light ([`pDawn`](https://www.sciencedirect.com/science/article/pii/S0022283612000113)) induces `vioA` genes from ([`addgene` vector](https://www.addgene.org/73440/)) 
 
 #### Kill switch design
 * MazE (toxin), MazF (anti-toxin)을 이용
