@@ -22,6 +22,7 @@ The protocols for the experiments can be seen below.
 ### Prepare pDawn vector with enzyme cut for Gibson Assembly(GA)
 - plasmid enzyme cut -> check gel -> inactivation -> clean up
 1. Mix all below chemical substances to make total 50㎕ solution.
+
 Total         | 50㎕ 
 --------------|-------
 pDawn         | 40㎕   
