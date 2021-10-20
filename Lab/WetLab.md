@@ -315,19 +315,19 @@ DW    | 7.5 ㎕
 
 #### 14 Oct. 2 days after transformation (both immediately after taking out of refrigerator)
 
-
+-----
 
 ![10 14 both open](https://user-images.githubusercontent.com/79410957/138144129-22d8e2e4-2226-442e-82ac-de5c3968c7ca.jpg)
 
 #### 14 Oct. 2 days after transformation (both plates after removing tin foil from the plate grown without light)
 
-
+-----
 
 ![10 14 with light](https://user-images.githubusercontent.com/79410957/138143799-6384aa14-05c4-49af-ab76-1548bdee6c68.jpg)
 
 #### 14 Oct. 2 days after transformation (plate grown with light)
 
-
+-----
 
 ![10 14 without light](https://user-images.githubusercontent.com/79410957/138144013-a1c68920-3b56-4c2e-b1dd-becc0f36171e.jpg)
 
@@ -348,12 +348,13 @@ DW    | 7.5 ㎕
 
 #### 18 Oct. 6 days after transformation (both plates after removing tin foil from the plate grown without light)
 
+-----
 
 ![10 18 with light](https://user-images.githubusercontent.com/79410957/138144973-116bc7e2-0c24-42a4-b6bc-28093a0cd514.jpg)
 
 #### 18 Oct. 6 days after transformation (plate grown with light)
 
-
+-----
 
 ![10 18 without light](https://user-images.githubusercontent.com/79410957/138144963-53af02d2-4c75-47c4-b48c-e0538dbf1feb.jpg)
 
