@@ -299,4 +299,16 @@ DW    | 7.5 ㎕
 #### 11. Incubate them in 37℃ through overnight.
 
 
+## Results
+ - We made vector and insert sequence that include vio genes into a single plasmid through Gibson assembly.
+ - By inserting the plasmid into E. coli through transformation, it was possible to create a strain having vioABE that we wanted. This strain was observed to form colonies while growing them in medium.
+ - In addition, the light was adjusted to confirm that it was sensitive to light conditions, and it was confirmed that the E. coli strain that gave the light grew finer but better. In addition, the light condition corresponding to the original AND gate was blue light, but failed to implement so the results are not remarkably succeed.
+ - We can get some pictures after transformation that we gained the strain we wanted.
+
+![10 14](https://user-images.githubusercontent.com/79410957/138141100-46237957-3737-4b1e-93e9-89df008d8963.jpg)
+
+
+
+
+
 
