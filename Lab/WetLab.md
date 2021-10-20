@@ -342,7 +342,7 @@ DW    | 7.5 ㎕
 
 #### 18 Oct. 6 days after transformation (both immediately after taking out of refrigerator)
 
-
+-----
 
 ![10 18 both open](https://user-images.githubusercontent.com/79410957/138144433-20d6d046-8c09-4255-aaca-e7f6fecdc090.jpg)
 
