@@ -23,16 +23,20 @@ The protocols for the experiments can be seen below.
 - plasmid enzyme cut -> check gel -> inactivation -> clean up
 1. Mix all below chemical substances to make total 50㎕ solution.
 
-|pDawn         | 40㎕   |
-|NdeI          | 1㎕    |
-|NotI-HF       | 1㎕    |
-|Cutsmart(10x) | 5㎕    |
-|DW            | 3㎕    |
-|**Total       | 50㎕** |
+pDawn---------|-40㎕   
+NdeI----------|-1㎕    
+NotI-HF-------|-1㎕    
+Cutsmart(10x)-|-5㎕    
+DW------------|-3㎕    
+**Total-------|-50㎕** 
+
 2. Let mixture in 37℃ for 50 minutes.
-3. Check gel with uncut.
-4. Put mixture in 65℃ for 20 minutes.
-5. Clean up
+
+4. Check gel with uncut.
+
+6. Put mixture in 65℃ for 20 minutes.
+
+8. Clean up
 - 1-1, 1-3 -> 50㎕ elution
 - 2-1, 2-2, 2-3 -> 100㎕ elution
 
