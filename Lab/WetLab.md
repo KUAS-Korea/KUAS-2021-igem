@@ -58,7 +58,8 @@ DW               | 13.8㎕
 * plasmid: pETM6-G6-vioABE-4A6-vioC-3A2-vioD
 * primer
 
-(1) vioA(1.4kb) : vioA_F(55℃), vioA_R(60℃) /n
+(1) vioA(1.4kb) : vioA_F(55℃), vioA_R(60℃)
+
 (2) vioAB(4.7kb) : vioA_F(55℃), vioAB_R(53℃)
 
 (3) vioAB(vioABE)(3.5kb) : vioA_F(55℃), vioABE_mid_R(56℃)
@@ -67,7 +68,13 @@ DW               | 13.8㎕
 
 (5) vioABE(5.6kb) : vioA_F(55℃), vioABE_R(54℃)
 
-2. 
+2. Turn PCR.
+![image](https://user-images.githubusercontent.com/79410957/138125700-d86c41f4-21d6-4c67-b16d-1c0c3b51d61d.png)
+
+
+
+
+
 
 ### vio ABE chemical transformation
  
