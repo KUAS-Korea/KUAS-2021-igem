@@ -358,7 +358,7 @@ DW    | 7.5 ㎕
 
 ![10 18 without light](https://user-images.githubusercontent.com/79410957/138144963-53af02d2-4c75-47c4-b48c-e0538dbf1feb.jpg)
 
-#### 18 Oct. 6 days after transformation (plate grown without light)
+#### 18 Oct. < 6 days after transformation (plate grown without light) >
 
 
 
