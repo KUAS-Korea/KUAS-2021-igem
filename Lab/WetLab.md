@@ -31,14 +31,3 @@ The protocols for the experiments can be seen below.
 9. 빛O/X 조건으로 나눠서 100ul씩 LB/KAN 배지에 spreading
 10. 37℃ overnight incubation
 
-
-## Kill switch design
-* MazE (toxin), MazF (anti-toxin)을 이용
-* AND gate (3-3) output (MazE) overexpression (일종의 inverter로 출력신호가 참인경우 궁긍적으로 kill)
-
-Final design: https://benchling.com/s/seq-6qhcqiyf7aGrzehEtqXO
-
-
-## Cell counting protocols
-[Cell counting.pdf](https://github.com/KUAS-Korea/KUAS-2021-igem/files/7158512/Cell.counting.pdf)
-
