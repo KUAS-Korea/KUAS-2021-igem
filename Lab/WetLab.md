@@ -21,7 +21,7 @@ The protocols for the experiments can be seen below.
 ## Protocol
 ### 1. Prepare pDawn vector with enzyme cut for Gibson Assembly(GA)
 - plasmid enzyme cut -> check gel -> inactivation -> clean up
-(1) Mix all below chemical substances to make total 50㎕ solution.
+1. Mix all below chemical substances to make total 50㎕ solution.
 
 Total         | 50㎕ 
 --------------|-------
@@ -42,7 +42,27 @@ DW            | 3㎕
 - 1-1, 1-3 -> 50㎕ elution
 - 2-1, 2-2, 2-3 -> 100㎕ elution
 
+### 2. vio ABE PCR for GA
+1. Mix all below chemical substances
 
+Total            | 25㎕ 
+--------------   | ----
+template(1/10)   | 2㎕
+reaction buffer  | 5㎕ 
+dNTP             | 2㎕ 
+Primer -Forward  | 1㎕ 
+Primer -Reverse  | 1㎕
+Q5 polymerase    | 0.2㎕ 
+DW               | 13.8㎕ 
+
+* plasmid: pETM6-G6-vioABE-4A6-vioC-3A2-vioD
+* primer
+
+(1) vioA(1.4kb) * vioA_F(55℃)
+
+
+
+2. 
 
 ### vio ABE chemical transformation
  
