@@ -305,9 +305,65 @@ DW    | 7.5 ㎕
  - In addition, the light was adjusted to confirm that it was sensitive to light conditions, and it was confirmed that the E. coli strain that gave the light grew finer but better. In addition, the light condition corresponding to the original AND gate was blue light, but failed to implement so the results are not remarkably succeed.
  - We can get some pictures after transformation that we gained the strain we wanted.
 
-![10 14](https://user-images.githubusercontent.com/79410957/138141100-46237957-3737-4b1e-93e9-89df008d8963.jpg)
+![10 12](https://user-images.githubusercontent.com/79410957/138143507-9a81f908-4393-42da-831d-8ba7b1afc561.jpg)
 
-12 Oct. immediately after transformation
+#### 12 Oct. immediately after transformation
+
+---------------------------------------------------------------------------------------------------------
+
+![10 14 both](https://user-images.githubusercontent.com/79410957/138143456-fd19abd5-66fe-48e1-9d3f-e52060439c46.jpg)
+
+#### 14 Oct. 2 days after transformation (both immediately after taking out of refrigerator)
+
+
+
+![10 14 both open](https://user-images.githubusercontent.com/79410957/138144129-22d8e2e4-2226-442e-82ac-de5c3968c7ca.jpg)
+
+#### 14 Oct. 2 days after transformation (both plates after removing tin foil from the plate grown without light)
+
+
+
+![10 14 with light](https://user-images.githubusercontent.com/79410957/138143799-6384aa14-05c4-49af-ab76-1548bdee6c68.jpg)
+
+#### 14 Oct. 2 days after transformation (plate grown with light)
+
+
+
+![10 14 without light](https://user-images.githubusercontent.com/79410957/138144013-a1c68920-3b56-4c2e-b1dd-becc0f36171e.jpg)
+
+#### 14 Oct. 2 days after transformation (plate grown without light)
+
+
+
+--------------------------------------------------------------------------------------------------------------
+
+
+![10 18 both](https://user-images.githubusercontent.com/79410957/138144332-1665e426-2aad-47b9-ad47-c567952e39c3.jpg)
+
+#### 18 Oct. 6 days after transformation (both immediately after taking out of refrigerator)
+
+
+
+![10 18 both open](https://user-images.githubusercontent.com/79410957/138144433-20d6d046-8c09-4255-aaca-e7f6fecdc090.jpg)
+
+#### 18 Oct. 6 days after transformation (both plates after removing tin foil from the plate grown without light)
+
+
+![10 18 with light](https://user-images.githubusercontent.com/79410957/138144973-116bc7e2-0c24-42a4-b6bc-28093a0cd514.jpg)
+
+#### 18 Oct. 6 days after transformation (plate grown with light)
+
+
+
+![10 18 without light](https://user-images.githubusercontent.com/79410957/138144963-53af02d2-4c75-47c4-b48c-e0538dbf1feb.jpg)
+
+#### 18 Oct. 6 days after transformation (plate grown without light)
+
+
+
+
+
+
 
 
 
