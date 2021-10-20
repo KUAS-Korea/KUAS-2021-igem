@@ -93,6 +93,7 @@ DW               | 13.8㎕
 
 ### 3. Combine vector and insert in order to do GA
 1. vioABE
+
 pDawn(vector) | vioAB(vioABE) | vioBE(vioABE)
 ------------- |-----------    | -------------
 7.1 kb        | 3.5 kb        | 2.1kb
@@ -102,12 +103,28 @@ pDawn(vector) | vioAB(vioABE) | vioBE(vioABE)
 (1) Mix vioAB and vioBE with 2 : 1 ratio.
 
 (2)
-------| 1:2 | 1:3 
+
+      | 1:2 | 1:3 
 ------|-----|-----
 vector| 5\1 | 5\1.5
 
-(3) 
+(3-1) 
 
+Total           | 20㎕
+-----           |------
+pDawn           | 5㎕
+insert          | 1㎕
+HiFi master mix | 10㎕
+DW              | 4㎕
+
+(3-2) If insert is 0.03 to 0.2 pmol, follow below table. (This can make total amount in a half)
+
+Total           | 20㎕
+------          |------
+pDawn           | 5㎕
+insert          | 1.5㎕
+HiFi master mix | 10㎕
+DW              | 3.5㎕
 
 
 
