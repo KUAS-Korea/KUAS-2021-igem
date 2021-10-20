@@ -29,11 +29,12 @@ The protocols for the experiments can be seen below.
 
 
 
-======================================================
+----------------------------------------------
 
 
 ## Protocol
 
+-------------------------------------------------
 
 ### 1. Prepare pDawn vector with enzyme cut for Gibson Assembly(GA)
 - plasmid enzyme cut -> check gel -> inactivation -> clean up
