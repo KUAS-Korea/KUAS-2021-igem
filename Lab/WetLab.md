@@ -307,7 +307,7 @@ DW    | 7.5 ㎕
 
 ![10 14](https://user-images.githubusercontent.com/79410957/138141100-46237957-3737-4b1e-93e9-89df008d8963.jpg)
 
-
+12 Oct. immediately after transformation
 
 
 
