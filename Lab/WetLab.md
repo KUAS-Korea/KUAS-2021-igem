@@ -76,7 +76,8 @@ DW            | 3 ㎕
 
 ### 2. Prepare insert sequence "vio ABE" PCR for GA
 
-1. Mix all below chemical substances
+
+#### 1. Mix all below chemical substances
 
 Total            | 25 ㎕ 
 --------------   | ----
@@ -102,24 +103,28 @@ DW               | 13.8 ㎕
 (5) vioABE(5.6 kb) : vioA_F(55℃), vioABE_R(54℃)
 
 
-2. Turn PCR.
+
+#### 2. Turn PCR.
 ![image](https://user-images.githubusercontent.com/79410957/138125700-d86c41f4-21d6-4c67-b16d-1c0c3b51d61d.png)
 
-(1) 56℃ / 58℃ / 60℃ in 1 minute.
+ - (1) 56℃ / 58℃ / 60℃ in 1 minute.
 
-(2), (5) 53℃ / 55℃ / 57℃ in 3 minutes.
+ - (2), (5) 53℃ / 55℃ / 57℃ in 3 minutes.
 
-(3) 54℃ / 56℃ / 58℃ in 2 minutes.
+ - (3) 54℃ / 56℃ / 58℃ in 2 minutes.
 
-(4) 53℃ / 55℃ / 57℃ in 1 and a half minute.
+ - (4) 53℃ / 55℃ / 57℃ in 1 and a half minute.
 
-(1), (4) 53℃ / 56℃ / 60℃ in 1 and a half minute.
+ - (1), (4) 53℃ / 56℃ / 60℃ in 1 and a half minute.
+ 
  => Mix and put DPN 1.5 ㎕ each of them.
 
-(2), (3), (5) 53℃ / 56℃ / 58℃ in 3 minutes.
+ - (2), (3), (5) 53℃ / 56℃ / 58℃ in 3 minutes.
+ 
  => (5) showed 2 bands, so we redo with a little higher temperature.
 
-(5) again 58℃ / 60℃ / 62℃ in 3 minutes.
+ - (5) again 58℃ / 60℃ / 62℃ in 3 minutes.
+
  => It showed 2 bands again, and we figured out that vioA_F has overlapped sequence so that it resulted in 2 bands.
  
 ![image](https://user-images.githubusercontent.com/79410957/138127890-c71e1eeb-b9ee-48e0-94e6-8e22556ea161.png)
@@ -143,7 +148,8 @@ DW               | 13.8 ㎕
 ### 3. Combine vector and insert in order to do GA
 
 
-1. vioABE
+
+#### 1. vioABE
 
 pDawn(vector) | vioAB(vioABE) | vioBE(vioABE)
 ------------- |-----------    | -------------
@@ -181,7 +187,8 @@ DW              | 3.5 ㎕
 
 
 
-2. vioA
+
+#### 2. vioA
 
 pDawn(vector) | vioA(insert) 
 ------------- |-----------    
@@ -219,7 +226,8 @@ DW              | 2 ㎕
 
 
 
-3. vioAB
+
+#### 3. vioAB
 
 pDawn(vector) | vioAB(insert) 
 ------------- |-----------    
@@ -252,16 +260,18 @@ vioAB           | 6 ㎕
 HiFi master mix | 10 ㎕
 
 
-4. control
+
+#### 4. control
 
 Total | 10 ㎕
 ----- | -------
 pDawn | 2.5 ㎕
 DW    | 7.5 ㎕
 
-5. Put all in 50℃ for 15 minutes.
 
-6. transformation (DH5α)
+#### 5. Put all in 50℃ for 15 minutes.
+
+#### 6. transformation (DH5α)
 
 
 
