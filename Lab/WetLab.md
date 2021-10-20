@@ -58,8 +58,7 @@ DW               | 13.8㎕
 * plasmid: pETM6-G6-vioABE-4A6-vioC-3A2-vioD
 * primer
 
-(1) vioA(1.4kb) : vioA_F(55℃), vioA_R(60℃)
-
+(1) vioA(1.4kb) : vioA_F(55℃), vioA_R(60℃) /n
 (2) vioAB(4.7kb) : vioA_F(55℃), vioAB_R(53℃)
 
 (3) vioAB(vioABE)(3.5kb) : vioA_F(55℃), vioABE_mid_R(56℃)
