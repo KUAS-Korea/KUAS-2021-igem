@@ -18,6 +18,25 @@ Due to time constraints and the fact that there were no experienced wet lab memb
 
 The protocols for the experiments can be seen below.
 
+## Protocol
+### Prepare pDawn vector with enzyme cut for Gibson Assembly(GA)
+: plasmid enzyme cut -> check gel -> inactivation -> clean up
+1. Mix all below chemical substances to make total 50㎕ solution.
+pDawn         | 40㎕ 
+NdeI          | 1㎕
+NotI-HF       | 1㎕
+Cutsmart(10x) | 5㎕
+DW            | 3㎕
+**Total       | 50㎕**
+2. Let mixture in 37℃ for 50 minutes.
+3. Check gel with uncut.
+4. Put mixture in 65℃ for 20 minutes.
+5. Clean up
+: 1-1, 1-3 -> 50㎕ elution
+: 2-1, 2-2, 2-3 -> 100㎕ elution
+
+
+
 ### vio ABE chemical transformation
  
 1. competent cell 50ul + plasmid(pDawn_vio ABE) 2ul
