@@ -34,7 +34,7 @@ The protocols for the experiments can be seen below.
 
 ## Protocol
 
--------------------------------------------------
+
 
 ### 1. Prepare pDawn vector with enzyme cut for Gibson Assembly(GA)
 - plasmid enzyme cut -> check gel -> inactivation -> clean up
@@ -286,14 +286,17 @@ DW    | 7.5 ㎕
 
 ### 4. vio ABE chemical transformation
  
-1. competent cell 50ul + plasmid(pDawn_vio ABE) 2ul
-2. ice 30m incubation
-3. 43℃ 40s incubation
-4. ice 5m incubation
-5. Mix LB 1ml
-6. 37℃ 1h incubation
-7. centrifuge 13,500rpm 1m
-8. supernatant 800ul 버리고, 나머지 resuspension
-9. 빛O/X 조건으로 나눠서 100ul씩 LB/KAN 배지에 spreading
-10. 37℃ overnight incubation
+#### 1. Mix competent cell 50 ㎕ and plasmid(pDawn_vio ABE) 2 ㎕.
+#### 2. Incubate ice for 30 minutes.
+#### 3. Incubate it in 43℃ for 40 seconds.
+#### 4. Incubate it in ice for 5 minutes.
+#### 5. Mix LB 1ml.
+#### 6. Incubate in 37℃ for 1 hour.
+#### 7. Centrifuge 13,500 rpm for 1 minute.
+#### 8. Discard supernatant 800ul and resuspense leftover.
+#### 9. Spread each of 100 ㎕ in LB/KAN plate.
+#### 10. Separate each plate with light, and without light. So wrap with tinfoil plate without light.
+#### 11. Incubate them in 37℃ through overnight.
+
+
 
