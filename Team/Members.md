@@ -13,11 +13,11 @@ Environmental Science & Ecological Engineering
 "I will be held in high esteem"
 : I participate in iGem following last year. Due to the Covid-19 situation in South Korea, in 2021, the project was conducted entirely online, and there were several difficulties. However, the efforts of the KUAS team members made the project a success. Thank you all.
 
-## Sungwook Lee(Student Leader)
+## Sungwook Lee (Student Leader)
 Biotechnology
 "Be happy"
 
-## Hyunju Lee(Wet Lab team member)
+## Hyunju Lee (Wet Lab team member)
 Biotechnology
 "Serendipity"
 : It was regrettable that the intensified COVID-19 situation made it more difficult to participate in the activities in depth, but I was able to experience and experiment with the study of synthetic biology, which I had been vaguely thinking of, and this makes me fun. That's happy enough.
