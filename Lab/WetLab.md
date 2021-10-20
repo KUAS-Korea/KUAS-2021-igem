@@ -42,7 +42,7 @@ DW            | 3㎕
 - 1-1, 1-3 -> 50㎕ elution
 - 2-1, 2-2, 2-3 -> 100㎕ elution
 
-### 2. vio ABE PCR for GA
+### 2. Prepare insert sequence "vio ABE" PCR for GA
 1. Mix all below chemical substances
 
 Total            | 25㎕ 
@@ -87,9 +87,16 @@ DW               | 13.8㎕
 
 (5) again 58℃/60℃/62℃ in 3 minutes.
  => It showed 2 bands again, and we figured out that vioA_F has overlapped sequence so that it resulted in 2 bands.
+ 
 ![image](https://user-images.githubusercontent.com/79410957/138127890-c71e1eeb-b9ee-48e0-94e6-8e22556ea161.png)
 ![image](https://user-images.githubusercontent.com/79410957/138127912-a6787096-09cf-43ad-81f4-1cce91052a83.png)
 
+### 3. Combine vector and insert in order to do GA
+1. vioABE
+ - pDawn(vector)
+ - vioAB(vioABE)
+ - vioBE(vioABE)
+ - 
 
 
 
