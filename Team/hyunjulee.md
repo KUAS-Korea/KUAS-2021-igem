@@ -4,16 +4,13 @@
 ---
 
 ## Bio
-* Major
-* Personal Interests
-* `....`
+* Major : Biotechnology
+
 ---
 
 ## Role
-* 2021 team leader
-* genetic circuit designer (2020, 2021)
-* fund raiser (2021)
-* `....`
+* 2021 wet lab team member
+
 ---
 
 ## Activity
