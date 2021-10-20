@@ -129,6 +129,7 @@ DW               | 13.8 ㎕
  => It showed 2 bands again, and we figured out that vioA_F has overlapped sequence so that it resulted in 2 bands.
  
 ![image](https://user-images.githubusercontent.com/79410957/138127890-c71e1eeb-b9ee-48e0-94e6-8e22556ea161.png)
+
 ![image](https://user-images.githubusercontent.com/79410957/138127912-a6787096-09cf-43ad-81f4-1cce91052a83.png)
 
 
