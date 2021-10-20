@@ -104,7 +104,7 @@ pDawn(vector) | vioAB(vioABE) | vioBE(vioABE)
 
 (2)
 
-      | 1:2 | 1:3 
+  \   | 1:2 | 1:3 
 ------|-----|-----
 vector| 5\1 | 5\1.5
 
