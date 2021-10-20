@@ -18,114 +18,258 @@ Due to time constraints and the fact that there were no experienced wet lab memb
 
 The protocols for the experiments can be seen below.
 
+
+
+
+
+
+
+
+
+
+
+
+======================================================
+
+
 ## Protocol
+
+
 ### 1. Prepare pDawn vector with enzyme cut for Gibson Assembly(GA)
 - plasmid enzyme cut -> check gel -> inactivation -> clean up
-1. Mix all below chemical substances to make total 50㎕ solution.
 
-Total         | 50㎕ 
+
+1. Mix all below chemical substances to make total 50 ㎕ solution.
+
+Total         | 50 ㎕ 
 --------------|-------
-pDawn         | 40㎕   
-NdeI          | 1㎕    
-NotI-HF       | 1㎕    
-Cutsmart(10x) | 5㎕    
-DW            | 3㎕ 
+pDawn         | 40 ㎕   
+NdeI          | 1 ㎕    
+NotI-HF       | 1 ㎕    
+Cutsmart(10x) | 5 ㎕    
+DW            | 3 ㎕ 
 
 
 2. Let mixture in 37℃ for 50 minutes.
 
-4. Check gel with uncut.
+3. Check gel with uncut.
 
-6. Put mixture in 65℃ for 20 minutes.
+4. Put mixture in 65℃ for 20 minutes.
 
-8. Clean up
-- 1-1, 1-3 -> 50㎕ elution
-- 2-1, 2-2, 2-3 -> 100㎕ elution
+5. Clean up
+- 1-1, 1-3 -> 50 ㎕ elution
+- 2-1, 2-2, 2-3 -> 100 ㎕ elution
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------
+
+
 
 ### 2. Prepare insert sequence "vio ABE" PCR for GA
+
 1. Mix all below chemical substances
 
-Total            | 25㎕ 
+Total            | 25 ㎕ 
 --------------   | ----
-template(1/10)   | 2㎕
-reaction buffer  | 5㎕ 
-dNTP             | 2㎕ 
-Primer -Forward  | 1㎕ 
-Primer -Reverse  | 1㎕
-Q5 polymerase    | 0.2㎕ 
-DW               | 13.8㎕ 
+template(1/10)   | 2 ㎕
+reaction buffer  | 5 ㎕ 
+dNTP             | 2 ㎕ 
+Primer -Forward  | 1 ㎕ 
+Primer -Reverse  | 1 ㎕
+Q5 polymerase    | 0.2 ㎕ 
+DW               | 13.8 ㎕ 
 
 * plasmid: pETM6-G6-vioABE-4A6-vioC-3A2-vioD
 * primer
 
-(1) vioA(1.4kb) : vioA_F(55℃), vioA_R(60℃)
+(1) vioA(1.4 kb) : vioA_F(55℃), vioA_R(60℃)
 
-(2) vioAB(4.7kb) : vioA_F(55℃), vioAB_R(53℃)
+(2) vioAB(4.7 kb) : vioA_F(55℃), vioAB_R(53℃)
 
-(3) vioAB(vioABE)(3.5kb) : vioA_F(55℃), vioABE_mid_R(56℃)
+(3) vioAB(vioABE)(3.5 kb) : vioA_F(55℃), vioABE_mid_R(56℃)
 
-(4) vioBE(vioABE)(2.1kb) : vioABE_mid_F(56℃), vioABE_R(54℃)
+(4) vioBE(vioABE)(2.1 kb) : vioABE_mid_F(56℃), vioABE_R(54℃)
 
-(5) vioABE(5.6kb) : vioA_F(55℃), vioABE_R(54℃)
+(5) vioABE(5.6 kb) : vioA_F(55℃), vioABE_R(54℃)
+
 
 2. Turn PCR.
 ![image](https://user-images.githubusercontent.com/79410957/138125700-d86c41f4-21d6-4c67-b16d-1c0c3b51d61d.png)
 
-(1) 56℃/58℃/60℃ in 1 minute.
+(1) 56℃ / 58℃ / 60℃ in 1 minute.
 
-(2), (5) 53℃/55℃/57℃ in 3 minutes.
+(2), (5) 53℃ / 55℃ / 57℃ in 3 minutes.
 
-(3) 54℃/56℃/58℃ in 2 minutes.
+(3) 54℃ / 56℃ / 58℃ in 2 minutes.
 
-(4) 53℃/55℃/57℃ in 1 and a half minute.
+(4) 53℃ / 55℃ / 57℃ in 1 and a half minute.
 
-(1), (4) 53℃/56℃/60℃ in 1 and a half minute.
- => Mix and put DPN 1.5㎕ each of them.
+(1), (4) 53℃ / 56℃ / 60℃ in 1 and a half minute.
+ => Mix and put DPN 1.5 ㎕ each of them.
 
-(2), (3), (5) 53℃/56℃/58℃ in 3 minutes.
+(2), (3), (5) 53℃ / 56℃ / 58℃ in 3 minutes.
  => (5) showed 2 bands, so we redo with a little higher temperature.
 
-(5) again 58℃/60℃/62℃ in 3 minutes.
+(5) again 58℃ / 60℃ / 62℃ in 3 minutes.
  => It showed 2 bands again, and we figured out that vioA_F has overlapped sequence so that it resulted in 2 bands.
  
 ![image](https://user-images.githubusercontent.com/79410957/138127890-c71e1eeb-b9ee-48e0-94e6-8e22556ea161.png)
 ![image](https://user-images.githubusercontent.com/79410957/138127912-a6787096-09cf-43ad-81f4-1cce91052a83.png)
 
+
+
+
+
+
+
+
+
+
+
+------------------------------------------------------
+
+
+
+
 ### 3. Combine vector and insert in order to do GA
+
+
 1. vioABE
 
 pDawn(vector) | vioAB(vioABE) | vioBE(vioABE)
 ------------- |-----------    | -------------
-7.1 kb        | 3.5 kb        | 2.1kb
-21 ng/㎕      | 47 ng/㎕      | 65ng/㎕
+7.1 kb        | 3.5 kb        | 2.1 kb
+21 ng/㎕      | 47 ng/㎕      | 65 ng/㎕
 0.0045 pmol   | 0.02 pmol     | 0.047 pmol
 
 (1) Mix vioAB and vioBE with 2 : 1 ratio.
 
 (2)
 
-  -   | 1:2 | 1:3 
+  \   | 1:2 | 1:3 
 ------|-----|-----
 vector| 5\1 | 5\1.5
 
 (3-1) 
 
-Total           | 20㎕
+Total           | 20 ㎕
 -----           |------
-pDawn           | 5㎕
-insert          | 1㎕
-HiFi master mix | 10㎕
-DW              | 4㎕
+pDawn           | 5 ㎕
+insert          | 1 ㎕
+HiFi master mix | 10 ㎕
+DW              | 4 ㎕
 
 (3-2) If insert is 0.03 to 0.2 pmol, follow below table. (This can make total amount in a half)
 
-Total           | 20㎕
+Total           | 20 ㎕
 ------          |------
-pDawn           | 5㎕
-insert          | 1.5㎕
-HiFi master mix | 10㎕
-DW              | 3.5㎕
+pDawn           | 5 ㎕
+insert          | 1.5 ㎕
+HiFi master mix | 10 ㎕
+DW              | 3.5 ㎕
 
+
+
+
+
+2. vioA
+
+pDawn(vector) | vioA(insert) 
+------------- |-----------    
+7.1 kb        | 1.4 kb       
+21 ng/㎕      | 54 ng/㎕      
+0.0045 pmol   | 0.058 pmol    
+
+
+(1)
+
+  \   | 1:2   | 1:3 
+------|-------|-----
+vector| 6.5\1 | 6.5\1.5
+
+
+(2-1)
+
+Total           | 20 ㎕
+-----           |------
+pDawn           | 6.5 ㎕
+vioA            | 1 ㎕
+HiFi master mix | 10 ㎕
+DW              | 2.5 ㎕
+
+(2-2) 
+
+Total           | 20 ㎕
+------          |------
+pDawn           | 6.5 ㎕
+vioA            | 1.5 ㎕
+HiFi master mix | 10 ㎕
+DW              | 2 ㎕
+
+
+
+
+
+3. vioAB
+
+pDawn(vector) | vioAB(insert) 
+------------- |-----------    
+7.1 kb        | 4.7 kb       
+21 ng/㎕      | 30 ng/㎕     
+0.0045 pmol   | 0.0097 pmol  
+
+(1)
+
+  \   | 1:2   | 1:3 
+------|-------|-----
+vector| 4\4   | 4\6
+
+
+(2-1)
+
+Total           | 20 ㎕
+-----           |------
+pDawn           | 4 ㎕
+vioAB           | 4 ㎕
+HiFi master mix | 10 ㎕
+DW              | 2 ㎕
+
+(2-2) 
+
+Total           | 20 ㎕
+------          |------
+pDawn           | 4 ㎕
+vioAB           | 6 ㎕
+HiFi master mix | 10 ㎕
+
+
+4. control
+
+Total | 10 ㎕
+----- | -------
+pDawn | 2.5 ㎕
+DW    | 7.5 ㎕
+
+5. Put all in 50℃ for 15 minutes.
+
+6. transformation (DH5α)
+
+
+
+
+
+
+
+---------------------------------------------------
 
 
 
