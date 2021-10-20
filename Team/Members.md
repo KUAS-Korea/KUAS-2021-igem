@@ -16,3 +16,8 @@ Environmental Science & Ecological Engineering
 ## Sungwook Lee(Student Leader)
 Biotechnology
 "Be happy"
+
+## Hyunju Lee(Wet Lab team member)
+Biotechnology
+"Serendipity"
+: It was regrettable that the intensified COVID-19 situation made it more difficult to participate in the activities in depth, but I was able to experience and experiment with the study of synthetic biology, which I had been vaguely thinking of, and this makes me fun. That's happy enough.
