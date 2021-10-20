@@ -59,7 +59,7 @@ DW               | 13.8㎕
 * primer
 
 (1) vioA(1.4kb) * vioA_F(55℃)
-
+                * vioA_R(60℃)
 
 
 2. 
