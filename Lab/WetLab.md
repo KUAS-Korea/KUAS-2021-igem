@@ -93,16 +93,26 @@ DW               | 13.8㎕
 
 ### 3. Combine vector and insert in order to do GA
 1. vioABE
- - pDawn(vector)
- - vioAB(vioABE)
- - vioBE(vioABE)
- - 
+pDawn(vector) | vioAB(vioABE) | vioBE(vioABE)
+------------- |-----------    | -------------
+7.1 kb        | 3.5 kb        | 2.1kb
+21 ng/㎕      | 47 ng/㎕      | 65ng/㎕
+0.0045 pmol   | 0.02 pmol     | 0.047 pmol
+
+(1) Mix vioAB and vioBE with 2 : 1 ratio.
+
+(2)
+------| 1:2 | 1:3 
+------|-----|-----
+vector| 5\1 | 5\1.5
+
+(3) 
 
 
 
 
 
-### vio ABE chemical transformation
+### 4. vio ABE chemical transformation
  
 1. competent cell 50ul + plasmid(pDawn_vio ABE) 2ul
 2. ice 30m incubation
