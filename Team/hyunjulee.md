@@ -9,7 +9,7 @@
 ---
 
 ## Role
-* 2021 wet lab team member
+* 2021 Wet lab team member
 
 ---
 
