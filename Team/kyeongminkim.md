@@ -14,6 +14,11 @@
 ---
 
 ## Activity
+* Lead Weekly human practice team meeting
+* Lead leaflet production for project promotion
+* Conduct regular KUAS card news posting on official SNS
+* Managing interviews and collaborations with other teams 
+* Managing webinar program toward Korea University Students
 
 ### 2021.05.15 ~
 * 고려대학교 사회봉사단 봉사동아리 인증제 진행
