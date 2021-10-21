@@ -1,4 +1,4 @@
-# JunSung Park
+# JunSung Park 박준성
 <img src="./junsungpark.jpg" height="200px" width="200px">
 
 ## Bio
