@@ -9,6 +9,7 @@ Gibson assembly was used to connect two addgene plasmids:
 
 [Violacein `addgene' vector](https://www.addgene.org/43796/)
  
+ 
 The final construct is as follows. 
 ![image](https://user-images.githubusercontent.com/87188354/137825930-f057ebca-0942-45a7-8f6b-6c5e437be36e.png)
 Though it would be the best to include the full violacein pathway, the gibson process would be a lot more complicated. Thus, our PI suggested a proof of concept plasmid which has vioA under the control of pDawn system and vioB and vioE under the control of the IPTG inducible system. 
