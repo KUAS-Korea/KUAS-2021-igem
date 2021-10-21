@@ -18,7 +18,7 @@
 
 
 * [광호](https://github.com/KUAS-Korea/KUAS-2021-igem/blob/main/Team/광호.md)
-* [성욱](https://github.com/KUAS-Korea/KUAS-2021-igem/blob/main/Team/성욱.md)
+* [SungwookLee](https://github.com/KUAS-Korea/KUAS-2021-igem/blob/main/Team/sungwooklee.md)
 * [YoojinChoi](https://github.com/KUAS-Korea/KUAS-2021-igem/blob/main/Team/yoojinchoi.md)
 * [규태](https://github.com/KUAS-Korea/KUAS-2021-igem/blob/main/Team/규태.md)
 * [KyungjuShin](https://github.com/KUAS-Korea/KUAS-2021-igem/blob/main/Team/kyungjushin.md)
