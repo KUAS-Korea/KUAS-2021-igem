@@ -20,8 +20,6 @@ The only construct that showed a significant difference of HSL/LuxR dimers at th
 Through this modeling process, we were able to finalize the design which is expected to show the most promising results. 
 
 
-# AtCERK design
-
 # Disabling CadC DBD
 
 The dimerization of LYK5 is independent of chitin or CERK1 presence. Therefore, to prevent spontaneous gene experssion by the dimerization of DBDs, LYK5 domains have to be fused to CadC with a nonfunctional DBD.
