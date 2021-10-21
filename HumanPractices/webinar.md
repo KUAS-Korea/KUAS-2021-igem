@@ -2,7 +2,7 @@ We conducted webinars for undergraduate students at Korea University to discuss 
 
 1. The Primary Webinar, the beginning of synthetic biological communication with baby tigers (2021.08.16)
 
-사진 첨부 예정
+<img src="./First Webinar.jpg" height="250px" width="200px"> 
 
 The first webinar discussed the basic definition and actual case of synthetic biology with this year's project. As participants from various majors are gathered to agonize our topics and learn synthetic biology, we were able to gain insight into breaking the stationary framework. We led participants to express their own opinions on synthetic biology issues and aimed to ensure them could continue this academic communication in next upcoming webinar program and online community.
 
@@ -10,7 +10,7 @@ The most crucial discussion topic was regarding Kill Switch, and we were so insp
 
 2. The Second Webinar, he gateway to deliver synthetic biology to a wider world beyond Korea University (2021.09.12)
 
-사진 첨부 예정
+<img src="./Second Webinar.jpg" height="250px" width="200px"> 
 
 The second webinar was held for previous participants from the first program and new attendees including members of Yonsei University team, our iGEM project partner. Synthetic carbon dioxide fixation and other synthetic biological concepts have been explained through video materials and pre-handouts that we have produced, and we have answered questions during this session. In the first webinar, we mostly explained the basic concepts for non-major students, but this time was a valuable moment to learn in-depth content through mutual feedback.
 
