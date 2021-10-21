@@ -15,6 +15,8 @@ I have participated in iGEM projects on different topics over the past three yea
 * parts designer (2021)
 
 ## Activity
+* Ideation : A bio-monitor that reacts rapidly according to an changing external signal (input signal, chromoprotein, melanin, protein degradation, etc.)
+* surface expression methods(EstA, OmpT, SPATEs, AIDA-I, Type V secretion system)
 * Designed Mucus binding proteins & chitin receptors with Sungwook Lee
 * Modeled light induction and IPTG induction constructs
 
