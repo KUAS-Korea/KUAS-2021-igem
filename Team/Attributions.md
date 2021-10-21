@@ -29,4 +29,4 @@
 * [YerinSeo](https://github.com/KUAS-Korea/KUAS-2021-igem/blob/main/Team/yerinseo.md)
 * [HyunjuLee](https://github.com/KUAS-Korea/KUAS-2021-igem/blob/main/Team/hyunjulee.md)
 * [MinkyuSong](https://github.com/KUAS-Korea/KUAS-2021-igem/blob/main/Team/minkyusong.md)
-* [연준](https://github.com/KUAS-Korea/KUAS-2021-igem/blob/main/Team/연준.md)
+* [YeonjunLim](https://github.com/KUAS-Korea/KUAS-2021-igem/blob/main/Team/yeonjunlim.md)
