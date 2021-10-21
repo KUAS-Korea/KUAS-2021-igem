@@ -113,7 +113,7 @@ DW               | 13.8 ㎕
  - (2), (5) 53℃ / 55℃ / 57℃ in 3 minutes.
 
  - (3) 54℃ / 56℃ / 58℃ in 2 minutes.
-
+P
  - (4) 53℃ / 55℃ / 57℃ in 1 and a half minute.
 
  - (1), (4) 53℃ / 56℃ / 60℃ in 1 and a half minute.
