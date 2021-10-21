@@ -14,7 +14,7 @@
 ---
 
 ## Activity
-* Lead Weekly human practice team meeting
+* Lead weekly human practice team meeting
 * Lead leaflet production for project promotion
 * Conduct regular KUAS card news posting on official SNS
 * Managing interviews and collaborations with other teams 
@@ -41,6 +41,5 @@
 ### 2021.10.02 ~ 
 * Human Practices 활동 정리 및 WIKI 작성 진행 
 
-### Upcoming Schedule
-* Open seminar with EVACC Foundation 
-* Open seminar with Prof. Matthew Fisher from Imperial College, UK
+### 2021.10.13 ~ 
+* Imperial College 소속 Matthew Fisher 교수님과의 인터뷰 진행
