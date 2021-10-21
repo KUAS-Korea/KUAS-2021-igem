@@ -159,7 +159,10 @@ This research further improved the design by testing different version of linker
 
 ## CERK1, LYK5:
 To use the CadC system, we needed to find domain that dimerizes upon the binding of the pathogen specific ligand. 
-This property was found in the chitin binding receptor CERK1 of A. thaliana. This Not only the whole receptor, but also just the ectodomain(ECD) showed dimerizing properties in pull down and western blotting experiments when treated with chitin(7). No dimerization was observed when peptidoglycan was treated. Crystallization data revealed the presence of 3 LysM domains in atCERK1-ECD. It also enabled the identification of key residues of atCERK1 interacting with NAG of chitin. Structure of ECD can be viewed at PDB(7).
+This property was found in the chitin binding receptor CERK1 of A. thaliana. This Not only the whole receptor, but also just the ectodomain(ECD) showed dimerizing properties in pull down and western blotting experiments when treated with chitin(7). No dimerization was observed when peptidoglycan was treated. Crystallization data revealed the presence of 3 LysM domains in atCERK1-ECD. It also enabled the identification of key residues of atCERK1 interacting with NAG of chitin. Structure of ECD can be viewed at PDB(7). 
+
+One concern during the design process was that while the CERK1-ECD is a N terminus domain, it had to be attached to the C terminus of CadC. However, we observed that the N & C terminus of CERK1-ECD is located close to each other(9). We thought that since the two termini are closely located, it wouldn’t make much of a difference whether the connection occurs in one or another. Though our intuition needs validation, we decided to proceed with the design. We also included a flexible GS linker between CERK-ECD and CadC so that CERK1-ECD is allowed more freedom in orientation while binding to chitin. 
+
 This domain will be fused at the periplasmic side of a CadC. There is a CadC-VHH biobrick (BBa_K3425100) so we replaced the VHH region with the CERK1 domain.
 
 BBa_K3837007: AtCERK1(ECD)-CadC fusion receptor(short linker)
