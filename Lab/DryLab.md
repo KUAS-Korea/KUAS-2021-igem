@@ -1,7 +1,10 @@
 ## Light induction Violacein modeling
+Our model was developed upon the model created by IISER-Pune-India's project in 2019 (1)
 
+The ODEs for light induction violacein model is as below:
 
 ![ODEs of light](https://user-images.githubusercontent.com/87221166/138295088-8f279b11-c678-4839-b11c-b3ed884818d7.png)
+
 ### No Blue light
 
 ![I가0_YF1](https://user-images.githubusercontent.com/87221166/138298490-0c634bfc-217f-4818-83a6-0bbe3612afe1.png)
