@@ -160,13 +160,21 @@ This research further improved the design by testing different version of linker
 ## CERK1, LYK5:
 To use the CadC system, we needed to find domain that dimerizes upon the binding of the pathogen specific ligand. 
 This property was found in the chitin binding receptor CERK1 of A. thaliana. This Not only the whole receptor, but also just the ectodomain(ECD) showed dimerizing properties in pull down and western blotting experiments when treated with chitin(7). No dimerization was observed when peptidoglycan was treated. Crystallization data revealed the presence of 3 LysM domains in atCERK1-ECD. It also enabled the identification of key residues of atCERK1 interacting with NAG of chitin. Structure of ECD can be viewed at PDB(7).
-This domain will be fused at the periplasmic side of CadC. 
+This domain will be fused at the periplasmic side of a CadC. There is a CadC-VHH biobrick (BBa_K3425100) so we replaced the VHH region with the CERK1 domain.
 
-One of the concerns during the design process was that while the CERK1-ECD is a N terminus domain, it had to be attached to the C terminus of CadC. However, we observed that the N & C terminus of CERK1-ECD is located close to each other(9). We thought that since the two termini are closely located, it wouldn’t make much of a difference whether the connection occurs in one or another. Though our intuition needs validation, we decided to proceed with the design. We also included a flexible GS linker between CERK-ECD and CadC so that CERK1-ECD is allowed more freedom in orientation while binding to chitin. 
+BBa_K3837007: AtCERK1(ECD)-CadC fusion receptor(short linker)
+BBa_K3837008: AtCERK1(ECD)-CadC fusion receptor(long linker)
+
+![image](https://user-images.githubusercontent.com/87188354/138263321-12445c3f-0e5d-46d0-be3b-38ccca80b687.png)
+
 
 Also, a coreceptor LYK5 was shown to facilitate the dimerization. LYK5 showed even higher binding affinity towards chitin and LYK-CERK association in the presence of chitin was stronger than the dimerizing association of CERK1 monomers. Dimerization of CERK1 was absent in LYK5 mutant protoplasts (8). However, the dimerization of LYK5s is known to occur spontaneously. This would be a problem since unwanted dimerization would yield false positives. Thus, we needed a way to disable the DBD of CadC which LYK5 is fused to. Then LYK5 will be able to assist chitin binding of CERK1 without inducing gene expression. We solved this problem by introducing a mutation in the DBD. More information in Engineering page. 
 
-The dimerization of LYK5 is independent of chitin or CERK1 presence. Therefore, to prevent spontaneous dimerization of DBDs, LYK5 domains will be fused to CadC that is missing a DBD. More specifically, among the DBD structures of CadC, although thr69 does not directly bind to DNA, it stabilizes his66 and arg50 binding to DNA by hydrogen bonding. In other words, we thought that mutation of thr69 could effectively inhibit that system. So we substituted thr69 with ala so that the dimer does not have cadBA activation. With the information gathered we decided to fuse CERK1-ECD at the periplasmic side of the CadC protein. The chitin of the cell wall of the fungal pathogen Bd will trigger the dimerization of the CERK1-ECD and the subsequent dimerization of intracellular DBD and the activation of pCadBA. 
+BBa_K3837009:LYK5-CadC fusion receptor with disabled transcription activation activity on pCadBA(short linker)
+BBa_K3837010:LYK5-CadC fusion receptor with disabled transcription activation activity on pCadBA(long linker)
+
+![image](https://user-images.githubusercontent.com/87188354/138263027-079ac3e0-3f5b-4b09-bb3b-edcbac269c14.png)
+
 
 ![image](https://user-images.githubusercontent.com/87194158/135799179-2a4d3532-574f-48a5-afe2-fe57f3e1e85a.png)
 
