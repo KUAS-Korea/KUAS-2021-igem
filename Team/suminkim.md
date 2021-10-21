@@ -14,6 +14,14 @@ I participated in KUAS activities for the first time this year. I've experienced
 ---
 
 ## Activity
+* Participate in planning and producing promotion videos.
+* write Frog skin composition, Bd infection process and pathology, kill switch wiki
+* produce kill switch presentation
+* illustration production
+* Organize the contents of igem parts
+* Participate in CCP as an after-igem activity
+
+
 ### 13.07.2021 ~
 * 프로모션 비디오 제작 참여
 
