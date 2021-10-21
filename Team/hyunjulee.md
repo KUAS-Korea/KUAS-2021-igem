@@ -15,6 +15,12 @@
 ---
 
 ## Activity
+* Participate in planning and producing promotion videos.
+* Summary chemical mechanism of tryptophol and explore how to use.
+* Participate and present our team in second webinar and several collaborations.
+* Plan, conduct and arrange the whole process of experiment.
+
+
 ### 10.05.2021 ~ 
 * Investigate Chytridomycosis treatment
 * Find prior research about Batrachochytrium dendrobatidis
