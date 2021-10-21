@@ -1,5 +1,12 @@
 ## Light induction Violacein modeling
 
+Model of  Light Induction Violacein A
+
+![ODEs of light](https://user-images.githubusercontent.com/87221166/138275883-16cac531-bb94-461d-b0d5-c616d8ae8e79.png)
+
+
+
+
 Refences
 1. https://2019.igem.org/Team:IISER-Pune-India/Model/Mutator-plasmid
 
