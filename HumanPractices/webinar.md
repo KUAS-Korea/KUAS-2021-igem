@@ -8,7 +8,7 @@ The first webinar discussed the basic definition and actual case of synthetic bi
 
 The most crucial discussion topic was regarding Kill Switch, and we were so inspired to make the participants understand those concepts with mutual development by gaining insights. Whenever research progresses and develops, we decided to share it with the participants and promised to add opinions together. Students at Korea University, the subject of webinars is called baby tigers after the symbol, and we finished webinar by promising to roar the beneficial value of synthetic biology at the world.
 
-2. The Second Webinar (2021.09.12)
+2. The Second Webinar, he gateway to deliver synthetic biology to a wider world beyond Korea University (2021.09.12)
 
 사진 첨부 예정
 
