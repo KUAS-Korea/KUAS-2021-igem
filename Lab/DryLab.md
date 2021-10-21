@@ -1,7 +1,8 @@
 ## Light induction Violacein modeling
 
 
-![image](https://user-images.githubusercontent.com/87221166/138286572-76be21fd-224e-472d-b739-10f2349fb0b2.png)
+![ODEs of light](https://user-images.githubusercontent.com/87221166/138295088-8f279b11-c678-4839-b11c-b3ed884818d7.png)
+
 
 
 
