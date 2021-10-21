@@ -1,5 +1,5 @@
 
-# Hyunju Lee
+# Hyunju Lee 이현주
 <img src="https://user-images.githubusercontent.com/79410957/138148514-38c9d41e-801c-48fc-9fe0-d37d143277d2.jpg" height="200px" width="200px">
 
 ---
