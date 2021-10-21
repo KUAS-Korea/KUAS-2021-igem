@@ -12,6 +12,3 @@ Third, we also had an open Seminar with Prof. Matthew Fisher from Imperial Colle
 
 Lastly, we focused on people. More people get interested in endangered species and collapsing ecosystem, more support would be possible, and better solutions could emerge. We made leaflet and promotion of communication channel on SNS(Instagram). We have placed leaflet throughout the school so that it can be viewed by as many students as possible, and we have listed a way to contact KUAS so that many people can also reach us online and share messages. Also, we started posting on the topic, emphasizing the dangers of superfungus and the importance of protecting amphibians by uploading about 3 articles every week. We communicated with the public about the theme of this year's project, such as introducing the conservation efforts of amphibians, and introducing endangered amphibians in addition to panamian golden frogs.
 
-휴플로 종다양성의 중요성도 홍보해왔다고 언급하고 각 페이지를 링크를 걸어두면 돼
-
-그냥 프로젝트 전반의 내용 중에서 종다양성 과 관련된 모든 것을 모으면 돼
