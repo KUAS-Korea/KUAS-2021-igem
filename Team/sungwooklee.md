@@ -11,7 +11,7 @@ As it was in 2020, 2021 was an extremely difficult year to work with our members
 
 ## Role
 * 2021 team leader
-* parts designer (2021)
+
 
 ## Activity
 * Led weekly discussions
