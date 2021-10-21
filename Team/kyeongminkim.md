@@ -1,4 +1,4 @@
-# Kyeongmin Kim 김경민
+# Kyeongmin Kim 
 <img src="./kyeongminkim.jpg" height="250px" width="200px"> 
 
 ## Bio
