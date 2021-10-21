@@ -2,15 +2,15 @@ We conducted webinars for undergraduate students at Korea University to discuss 
 
 1. The Primary Webinar, the beginning of synthetic biological communication with baby tigers (2021.08.16)
 
-<img src="./First Webinar.png" height="300px" width="400px"> 
+<img src="./First Webinar.png" height="350px" width="450px"> 
 
 The first webinar discussed the basic definition and actual case of synthetic biology with this year's project. As participants from various majors are gathered to agonize our topics and learn synthetic biology, we were able to gain insight into breaking the stationary framework. We led participants to express their own opinions on synthetic biology issues and aimed to ensure them could continue this academic communication in next upcoming webinar program and online community.
 
 The most crucial discussion topic was regarding Kill Switch, and we were so inspired to make the participants understand those concepts with mutual development by gaining insights. Whenever research progresses and develops, we decided to share it with the participants and promised to add opinions together. Students at Korea University, the subject of webinars is called baby tigers after the symbol, and we finished webinar by promising to roar the beneficial value of synthetic biology at the world.
 
-2. The Second Webinar, he gateway to deliver synthetic biology to a wider world beyond Korea University (2021.09.12)
+2. The Second Webinar, the gateway to deliver synthetic biology to a wider world beyond Korea University (2021.09.12)
 
-<img src="./Second Webinar.png" height="300px" width="400px"> 
+<img src="./Second Webinar.png" height="350px" width="450px"> 
 
 The second webinar was held for previous participants from the first program and new attendees including members of Yonsei University team, our iGEM project partner. Synthetic carbon dioxide fixation and other synthetic biological concepts have been explained through video materials and pre-handouts that we have produced, and we have answered questions during this session. In the first webinar, we mostly explained the basic concepts for non-major students, but this time was a valuable moment to learn in-depth content through mutual feedback.
 
