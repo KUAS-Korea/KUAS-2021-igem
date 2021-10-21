@@ -3,7 +3,11 @@
 
 ![ODEs of light](https://user-images.githubusercontent.com/87221166/138295088-8f279b11-c678-4839-b11c-b3ed884818d7.png)
 
+![I가0_YF1](https://user-images.githubusercontent.com/87221166/138298490-0c634bfc-217f-4818-83a6-0bbe3612afe1.png)
 
+![I가0_FixJ](https://user-images.githubusercontent.com/87221166/138298547-1b7ed1e7-7b4d-4f12-9a5a-172f17b30b24.png)
+
+![I가0_vio](https://user-images.githubusercontent.com/87221166/138298606-84f3119c-fdc2-41c8-8eb2-f594f7962968.png)
 
 
 Refences
