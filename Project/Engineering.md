@@ -20,4 +20,9 @@ The only construct that showed a significant difference of HSL/LuxR dimers at th
 Through this modeling process, we were able to finalize the design which is expected to show the most promising results. 
 
 
-Possible imporvements
+# AtCERK design
+
+# Disabling CadC DBD
+![image](https://user-images.githubusercontent.com/87188354/138222383-11f06f11-80c7-43da-bf93-f96ee69576d9.png)
+Image source: Schlundt A et. al. Structure-function analysis of the DNA-binding domain of a transmembrane transcriptional activator. Sci Rep. 2017 Apr 21;7(1):1051. doi: 10.1038/s41598-017-01031-9. PMID: 28432336; PMCID: PMC5430869.
+Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. 
