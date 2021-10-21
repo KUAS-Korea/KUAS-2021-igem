@@ -1,4 +1,5 @@
 # Kwangho Son
+![손광호증명사진](https://user-images.githubusercontent.com/87231750/138286634-be524b79-1eec-4418-9564-816a2e6bae9a.jpg)
 
 
 ---
@@ -7,7 +8,7 @@ Similar to last year, offline meetings were not easy because there were social d
 I have participated in iGEM projects on different topics over the past three years. Each project had a different theme and direction, so I was able to do various kinds of work. I'm sure these wonderful experiences I got from working on the iGEM projects will help me decide what kind of dreams I'll have in the future.
 
 * Major: Biotechnology
-* Personal Interests: Biochemistry
+* Personal Interests: Biochemistry, Protein engineering
 
 ## Role
 * 2021 dry team member
