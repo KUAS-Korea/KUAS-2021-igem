@@ -21,6 +21,8 @@ Refences
 ## IPTG induction Violacein modeling
 
 
+![image](https://user-images.githubusercontent.com/87221166/138340426-94d76239-02ce-402d-9d16-57abc8e982b0.png)
+
 
 
 
