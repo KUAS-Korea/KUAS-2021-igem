@@ -12,15 +12,15 @@ The first webinar discussed the basic definition and actual case of synthetic bi
 
 A. Interview with Edgardo Griffth: the Director & Founder of EVACC foundation
 
-At 8 a.m. on October 9, 2021, KUAS held an open seminar with Mr. Griffith, EVACC Foundation representative, who strives to preserve endangered amphibians. Along with KUAS members and other participants, we were able to solve questions about the endangered amphibian conservation project.
+At 8 a.m. on October 9, 2021, KUAS held an open seminar with Mr. Griffith, EVACC Foundation representative, who strives to preserve endangered amphibians of Panama. Along with KUAS members and other participants, we were able to ask questions about his amazing conservation project. We were very excited to meet him since his story was the inspiration of our project. About how our project started, see Description.
 (Interview question link: https://docs.google.com/document/d/1-VjEK8h729N80bLvgeg7G6GlP6nSM7bZaEwhhMeInKU/edit) 
 
 Mr. Griffith has been interested in biology since he was young, so he majored in microbiology and parasitology in college. While only conducting research in the laboratory, he went to the field trip in 2000 and met amphibians. Since then he completely changed the direction of the study. Thanks to his original major, he was able to better understand the pathogen related to amphibians. 
 
-EVACC initially dealt with more than 50 species of amphibians, but now it is focusing on eight species and conducting conservation activities. Among them, the two core species are Atelopus zeteki (Panamanian golden toad) and Atelopus varius (Harlequin toad). The association's ultimate goal is to preserve nature through environmental education beyond the preservation of amphibians. Through the seminar, we learned about Panama's environmental characteristics and the appearance of amphibians living there, and how EVACC was established and operated so far. 
+EVACC initially dealt with more than 50 species of amphibians, but now it is focusing on eight species and conducting conservation activities. Among them, the two core species are Atelopus zeteki (Panamanian golden toad) and Atelopus varius (Harlequin toad). The association's ultimate goal is to preserve nature through environmental education beyond the preservation of amphibians. Through the seminar, we learned about Panama's environmental characteristics and the diversity of amphibians living there, and how EVACC was established and operated so far. We learned about the amazing evolutionary adaptations of Atelopus species to survive in the cloud forest; how the males use visual communications amist the noisy jungle, how the larvae attach themselves to rock surfaces to not get swept away in the currents and how they feed on ants to produce their skin toxins. 
 
-After the seminar, I was able to give a brief introduction to KUAS’s current project and receive feedback. He said that if the project was successfully completed, it would be of great help to the association, and thanked KUAS for its interest in the endangered toads.
-Through the interview, Mr.Griffith emphasized the need to protect the environment a lot, and we were able to hear how much you love amphibians and strive to preserve them, so it was a good opportunity for KUAS to learn a lot about how to protect nature and work on projects.
+After the seminar, We were able to give a brief on our project and receive feedback. He said that if the project was successfully completed, it would be of great help to the association, and thanked KUAS for its interest in the endangered toads.
+Throughout the interview, Mr.Griffith emphasized the need to protect the environment a lot, and we were able to hear how much he loves amphibians and his efforts to preserve them, so it was a good opportunity for us to appreciate the .
 
 ![Griffith](https://user-images.githubusercontent.com/87228507/137613391-5718d855-1a1b-45ca-a192-98bcd58d1020.jpg)
 
