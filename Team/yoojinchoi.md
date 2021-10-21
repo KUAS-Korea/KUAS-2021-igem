@@ -18,6 +18,10 @@
 
 ## Activity
 
+* Introduce iGEM and Kuas_Korea to new members
+* Participate in ideation & research
+* Write Wiki page 'Design'
+
 30.03.2021
 
 Introduce iGEM and Kuas_Korea to new members
