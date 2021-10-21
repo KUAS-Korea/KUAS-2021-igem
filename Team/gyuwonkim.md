@@ -15,34 +15,41 @@
 ---
 
 ## Activity
+
+* Participating in production of promotion video, presentation video
+* Production of various promotional materials
+* Interview planning and conduct
+* Managing KUAS instagram
+* Production of Human Practice wiki
+
 ### 07.12.2021 ~ 07.16.2021
-* Promotion video 제작, 전체 편집
+* Promotion video production, editing
 
 ### 08.01.2021 ~
 * managing instagram
-* 인스타그램 홍보 카드뉴스 제작
+* Instagram promotion card news production
 
 ### 08.08.2021 
-* 연세대학교 팀과 Collaboration
+* Collaboration with Yonsei iGEM Team
 
 ### 08.16.2021 ~
-* Webinar PPT 제작
-* Webinar 발표
+* Webinar PPT production
+* Webinar presentation
 
 ### 09.24.2021 
-* 홍보물 리플렛 제작
-* KUAS 2021 로고 디자인
+* Synthetic Biology Leaflet Production
+* KUAS 2021 logo design
 
 ### 10.02.2021 ~ 
-* Collaboration wiki 작성
-* Human Practice wiki 작성
+* Collaboration wiki production
+* Human Practice wiki production
 
 ### 10.03.2021
-* EVACC와의 인터뷰
+* Interview with EVACC
 
 ### 10.13.2021
-* Professor Matthew Fisher과의 인터뷰
+* Interview with Professor Matthew Fisher
 
 ### 10.21.2021 ~ 10.28.2021
-* KUAS 발표 영상 편집
-* Human Practice 부분 발표
+* KUAS Presentation video production
+* Human Practice Presentation
