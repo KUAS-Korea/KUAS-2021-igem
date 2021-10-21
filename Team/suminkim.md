@@ -1,7 +1,7 @@
 
 # Sumin Kim 김수민
 <img src=https://user-images.githubusercontent.com/87215187/138216321-036e30c0-2c33-4e42-8554-f151581918fc.jpg width=230px height=200px>
-I participated in KUAS activities for the first time this year. I've experienced that there are a lot of challenges in doing projects online. There were many things I didn't know as it was my first field of study, but I learned a lot by watching this huge project go on.
+I participated in KUAS activities for the first time this year. I've experienced that there are a lot of challenges in doing projects online. There were many things I didn't know as it was my first field of study, but I learned a lot by watching this huge project go on. I am very grateful to the team members and especially the team leader who helped me a lot during the project.
 
 ---
 
