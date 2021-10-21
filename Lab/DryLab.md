@@ -3,6 +3,9 @@ Our model was developed upon the model created by IISER-Pune-India's project in 
 
 The ODEs for light induction violacein model is as below:
 
+
+![image](https://user-images.githubusercontent.com/87221166/138308942-ee8b267e-b57c-403f-ace9-adb11dd7c226.png)
+
 ![ODEs of light](https://user-images.githubusercontent.com/87221166/138295088-8f279b11-c678-4839-b11c-b3ed884818d7.png)
 
 ### No Blue light
