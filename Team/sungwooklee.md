@@ -1,4 +1,4 @@
-# Sungwook Lee
+# Sungwook Lee 이성욱
 ![image](https://user-images.githubusercontent.com/87188354/135876887-8119d791-efa7-4468-ab8a-aa6442c65a8b.png)
 
 ---
