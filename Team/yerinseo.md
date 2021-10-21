@@ -1,4 +1,4 @@
-# Yerin Seo
+# Yerin Seo 서예린
 <img src= "https://user-images.githubusercontent.com/87190183/135885388-881e213b-609a-4457-bdc1-515345addfbe.jpg" height="200px" width="200px">
 
 ## Bio
