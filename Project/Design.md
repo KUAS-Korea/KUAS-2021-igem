@@ -126,17 +126,17 @@ The new fusion proteins are registered as parts K3837005 & K3837006.
 
 4. MacKenzie DA, Tailford LE, Hemmings AM, Juge N. Crystal structure of a mucus-binding protein repeat reveals an unexpected functional immunoglobulin binding activity. J Biol Chem. 2009 Nov 20;284(47):32444-53. doi: 10.1074/jbc.M109.040907. Epub 2009 Sep 16. PMID: 19758995; PMCID: PMC2781659.
 
-## Surface display (surface expression with OmpA)
+# Surface display (surface expression with OmpA)
 
 Microbial cell-surface display, or surface expression system is a method carried out by expressing a fusion protein of the desired protein or peptide and anchoring motif, which are usually cell-surface proteins or their fragments (carrier proteins). The surface expression method is used in various applications such as library screening, live vaccines, whole-cell biocatalysis, bioremediation, biosensor, and biofuel. (1) 
 Many surface expression methods have been developed for various strains. Among these many strains, gram-negative cells have an outer cell membrane, which impedes the surface display of proteins, but more surface expression methods were studied because of the vast amount of knowledge gathered through the study of E. coli strain. (2) 
 Each expression method is based on a variety of anchoring motifs, and accordingly, the passenger protein must be fused in appropriate ways. 
 Among them, we investigated the method using autotransporter and the method using Lpp-OmpA hybrid.
-# Autotransporters
+## Autotransporters
 Autotransporters are proteins whose entire structure is displayed on the cell surface without cleavage through the Type Va Secretion method.(3) It consists of three main parts: signal sequence located in N-terminal, the passive domain, and translocator domain in C-terminal.
 The N-terminal signal domain directs the synthesized polypeptide itself to periplasm through Sec apparatus.(4) The C- terminal translocator domain consists of α-helical secondary structure and β-domain that make a hydrophilic pore in the outer membrane. Through this pore, the fused internal passenger domain connected to the α-helix passes through the outer membrane and is displayed outside the cell. (1)
 Various types of protein domains such as adhesin, protease, esterase, and lipase are located in the passenger domain. (2) If the passenger domain is converted into the another protein domain in interest to be displayed, the changed protein domain will be displayed on the cell surface. Since the Passenger domain is between the N-terminal signal domain and the C-terminal translocator domain, the use of autotransporter requires a sandwich fusion strategy that changes genes in between. (5)
-# Lpp-OmpA hybrid
+## Lpp-OmpA hybrid
 Unlike autotransporter, Lpp-OmpA hybrid uses a C-terminal fusion method. (5) Lpp-OmpA hybrid consists of signal sequence, first nine N-terminal residues of the mature E. coli lipoprotein, and the residues of the E. coli outer membrane protein A (OmpA). Lpp part is necessary for proper localization to the outer membrane, and the OmpA part is responsible for the transportation of foreign proteins fused at the C-terminus across the outer membrane. 
 As shown in the figure above, passenger domain can be fused into OmpA's C-terminal and transported across the outer membrane. Therefore, the C-terminal fusion strategy should be used in the Lpp-OmpA hybrid.
 In 2008 iGEM, the Warsaw team synthesized the BBa_K103006 biobrick part, which consists of Lpp: Lipoprotein signal peptide, OmpA: Outer membrane protein A, linker (Gly-Ser-Gly), which enables us to attach the display domain behind the linker. (6) Using this part, our designed protein can be easily synthesized just by attaching the Mub protein domain to C-terminal. Therefore, we decided to use Lpp-OmpA hybrid system for our design.
