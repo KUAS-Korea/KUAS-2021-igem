@@ -13,21 +13,9 @@
 
 ## Activity
 
-### 29.06.2021 ~
-* MHC2 단백질 관련 양서류의 면역작용 조사
-
-### 13.07.2021 ~
-* 프로모션 비디오 기획
-
-### 10.08.2021 ~ 
-* 양서류 피부 mucin, keratin에 결합하는 단백질 조사
-
-### 15.09.2021 ~
-* 양서류 mub 단백질의 phylogeny 조사
-
-### 30.09.2021 ~
-* BD의 감염 모델 조사 및 제작
-
+* Participate in planning and producing promotion videos.
+* Researching about phylogeny of mub protein, Bd infection process and pathology related in MHC2.
+* Suggesting mathematical model of BD infection.
 
 ## Links
 * https://junsungpark-lab.github.io/AboutMe/index.html
