@@ -128,25 +128,27 @@ The new fusion proteins are registered as parts K3837005 & K3837006.
 
 ## Surface display (surface expression with OmpA)
 
-Microbial cell-surface display is a method carried out by expressing a heterologous peptide or protein (the passenger protein) as a fusion protein with various anchoring motifs, which are usually cell-surface proteins or their fragments (carrier proteins). The surface expression method is used in various applications such as library screening, live vaccines, whole-cell biocatalysis, bioremediation, biosensor, and biofuel.
-
-Many surface display systems have been developed for E.coli. Each method is based on a variety of anchoring motifs, and accordingly, the passenger protein must be fused in various ways. Among them, we investigated the method using autotransporter and the method using Lpp-OmpA hybrid.
-
-Autotransporters are proteins located in the outer membrane without further cutting and are displayed through the Type Va Secretion method. It consists of three main parts – signal sequence located in N-terminal, the passive domain, and translocator domain in C-terminal.
-The N-terminal signal domain directs the synthesized polypeptide itself to periplasm through Sec apparatus.
-The C- terminal translocator domain consists of α-helical secondary structure and β-domain (250-300 amino acid residues, 14 antiparallel amphipathic β-strands) that make a hydrophilic pore in the outer membrane. Through this pore, the internal passenger domain connected with α-helix is displayed on the outer membrane.
-Various types of protein domains such as adhesin, protease, esterase, and lipase are located in the passenger domain.
-In summary, autotransporters move to outer membrane using signal domain after expression, the translocator domain creates a pore in the outer membrane, and the passenger domain passes through the pore to outer membrane and displayed. Therefore, If the passenger domain is converted into the gene of another protein domain in interest to be displayed, the changed protein domain will be displayed on the cell surface.
-Since the Passenger domain is between the N-terminal signal domain and the C-terminal translocator domain, the use of autotransporter requires a sandwich fusion strategy that changes genes in between.
-
-Unlike autotransporter, Lpp-OmpA hybrid uses a C-terminal fusion method. Lpp-OmpA hybrid consists of signal sequence, first nine N-terminal residues of the mature E. coli lipoprotein, and the residues 46–159 or 46–66 of the E. coli outer membrane protein A (OmpA).
-Lpp part is necessary for proper localization to the outer membrane, and the OmpA part is responsible for the transportation of foreign proteins fused at the C-terminus across the outer membrane. 
-
+Microbial cell-surface display, or surface expression system is a method carried out by expressing a fusion protein of the desired protein or peptide and anchoring motif, which are usually cell-surface proteins or their fragments (carrier proteins). The surface expression method is used in various applications such as library screening, live vaccines, whole-cell biocatalysis, bioremediation, biosensor, and biofuel. (1) 
+Many surface expression methods have been developed for various strains. Among these many strains, gram-negative cells have an outer cell membrane, which impedes the surface display of proteins, but more surface expression methods were studied because of the vast amount of knowledge gathered through the study of E. coli strain. (2) 
+Each expression method is based on a variety of anchoring motifs, and accordingly, the passenger protein must be fused in appropriate ways. 
+Among them, we investigated the method using autotransporter and the method using Lpp-OmpA hybrid.
+# Autotransporters
+Autotransporters are proteins whose entire structure is displayed on the cell surface without cleavage through the Type Va Secretion method.(3) It consists of three main parts: signal sequence located in N-terminal, the passive domain, and translocator domain in C-terminal.
+The N-terminal signal domain directs the synthesized polypeptide itself to periplasm through Sec apparatus.(4) The C- terminal translocator domain consists of α-helical secondary structure and β-domain that make a hydrophilic pore in the outer membrane. Through this pore, the fused internal passenger domain connected to the α-helix passes through the outer membrane and is displayed outside the cell. (1)
+Various types of protein domains such as adhesin, protease, esterase, and lipase are located in the passenger domain. (2) If the passenger domain is converted into the another protein domain in interest to be displayed, the changed protein domain will be displayed on the cell surface. Since the Passenger domain is between the N-terminal signal domain and the C-terminal translocator domain, the use of autotransporter requires a sandwich fusion strategy that changes genes in between. (5)
+# Lpp-OmpA hybrid
+Unlike autotransporter, Lpp-OmpA hybrid uses a C-terminal fusion method. (5) Lpp-OmpA hybrid consists of signal sequence, first nine N-terminal residues of the mature E. coli lipoprotein, and the residues of the E. coli outer membrane protein A (OmpA). Lpp part is necessary for proper localization to the outer membrane, and the OmpA part is responsible for the transportation of foreign proteins fused at the C-terminus across the outer membrane. 
 As shown in the figure above, passenger domain can be fused into OmpA's C-terminal and transported across the outer membrane. Therefore, the C-terminal fusion strategy should be used in the Lpp-OmpA hybrid.
+In 2008 iGEM, the Warsaw team synthesized the BBa_K103006 biobrick part, which consists of Lpp: Lipoprotein signal peptide, OmpA: Outer membrane protein A, linker (Gly-Ser-Gly), which enables us to attach the display domain behind the linker. (6) Using this part, our designed protein can be easily synthesized just by attaching the Mub protein domain to C-terminal. Therefore, we decided to use Lpp-OmpA hybrid system for our design.
 
-In 2008 iGEM, the Warsaw team synthesized the BBa_K103006 biobrick part, which consists of Lpp: Lipoprotein signal peptide, OmpA: Outer membrane protein A, linker (Gly-Ser-Gly), which enables us to attach the display domain behind the linker. Using this part, our designed protein can be easily synthesize just by attaching the protein domain we wanted to C-terminal. Therefore, we decided to use Lpp-OmpA hybrid system for our design.
+# References
+1.	Yang, T. H., Pan, J. G., Seo, Y. S., & Rhee, J. S. (2004). Use of Pseudomonas putida EstA as an anchoring motif for display of a periplasmic enzyme on the surface of Escherichia coli. Applied and environmental microbiology, 70(12), 6968–6976. https://doi.org/10.1128/AEM.70.12.6968-6976.2004
+2.	Gustavsson, M. (2011). Surface expression using the AIDA autotransporter: Towards live vaccines and whole-cell biocatalysis (TRITA-BIO Report 2011:25). Royal Institute of Technology Stockholm.
+3.	Leo, J. C., Grin, I., & Linke, D. (2012). Type V secretion: mechanism(s) of autotransport through the bacterial outer membrane. Philosophical transactions of the Royal Society of London. Series B, Biological sciences, 367(1592), 1088–1101. https://doi.org/10.1098/rstb.2011.0208
+4.	Sichwart, S., Tozakidis, I. E., Teese, M., & Jose, J. (2015). Maximized Autotransporter-Mediated Expression (MATE) for Surface Display and Secretion of Recombinant Proteins in Escherichia coli. Food technology and biotechnology, 53(3), 251–260. https://doi.org/10.17113/ftb.53.03.15.3802
+5.	Bielen, A., Teparic, R., Vujaklija, D., & Mrša, V. (2014). Microbial Anchoring Systems for Cell-Surface Display of Lipolytic Enzymes. Food Technology and Biotechnology. 52. 16-34.
+6.	http://parts.igem.org/Part:BBa_K103006
 
-추가할 내용 : OmpA + mucin 결합 단백질 내용, 실제 실험 내용 (warsaw 팀 파츠 사용, 실험방법까지), surface display 확인 실험 내용
 
 # 3.Fungal pathogen detection through chitin
 ## CadC:
